@@ -22,7 +22,11 @@ function normalize(e, origin) {
     description: stripHtml(e.description, 300),
     start: e.startDate,
     end: e.endDate || null,
-    timezone: 'UTC', // Meetup emits absolute UTC instants
+    // Meetup emits an absolute UTC instant, so the instant needs no timezone —
+    // but the local day label does, and that is the region's, not UTC. Leaving
+    // this null lets the caller apply the region timezone; claiming 'UTC' here
+    // put late-evening events on the following day and split the day headings.
+    timezone: null,
     url: e.url.split('?')[0],
     venue: loc.name || '',
     address: addr.streetAddress || '',

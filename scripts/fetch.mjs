@@ -3,8 +3,9 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-import { REGIONS, RADIUS_KM, WINDOW_DAYS } from './config.mjs';
+import { REGIONS, RADIUS_KM, PREFILTER_KM, MAX_DRIVE_MINUTES, WINDOW_DAYS } from './config.mjs';
 import { Geocoder, haversineKm } from './lib/geo.mjs';
+import { DriveTimes, routerAvailable, VALHALLA_BASE_URL } from './lib/drivetime.mjs';
 import { toUtcMs, isAllDay, localDay } from './lib/time.mjs';
 import { fetchEventbrite } from './sources/eventbrite.mjs';
 import { fetchMeetup } from './sources/meetup.mjs';
@@ -59,6 +60,11 @@ async function runSource(report, name, label, fn) {
 async function main() {
   fs.mkdirSync(DATA, { recursive: true });
   const geocoder = new Geocoder(path.join(DATA, 'geocache.json'), { maxLookups: Number(process.env.MAX_GEOCODE_LOOKUPS || 400) });
+  const drive = new DriveTimes(path.join(DATA, 'drivecache.json'));
+  const routing = await routerAvailable();
+  log(routing
+    ? `Routing via Valhalla at ${VALHALLA_BASE_URL} — filtering on real drive time.`
+    : `No router at ${VALHALLA_BASE_URL}; falling back to a ${RADIUS_KM} km straight-line radius.`);
   const tmKey = process.env.TICKETMASTER_API_KEY || '';
   const prev = loadPrevious();
   const regionsOut = [];
@@ -118,13 +124,39 @@ async function main() {
         (geocoder.exhausted ? ' (lookup budget exhausted — rerun to finish)' : ''));
     }
 
-    const kept = new Map();
+    // Straight-line gate first: it is free, and it keeps the router batch to
+    // venues that could plausibly qualify.
+    const nearby = [];
     let noCoords = 0, tooFar = 0, outOfWindow = 0;
-
     for (const e of collected) {
       if (e.lat == null || e.lon == null) { noCoords++; continue; }
-      const distanceKm = haversineKm(region.center, { lat: e.lat, lon: e.lon });
-      if (distanceKm > RADIUS_KM) { tooFar++; continue; }
+      e.distanceKm = +haversineKm(region.center, { lat: e.lat, lon: e.lon }).toFixed(1);
+      if (e.distanceKm > PREFILTER_KM) { tooFar++; continue; }
+      nearby.push(e);
+    }
+
+    const minutes = routing
+      ? await drive.minutesFrom(region.center, nearby.map((e) => ({ lat: e.lat, lon: e.lon })))
+      : new Map();
+    if (routing) {
+      log(`  routed ${drive.routed} venues (${nearby.length} candidates)` +
+        (drive.failed ? ' — router failed partway, rest fall back to radius' : ''));
+    }
+
+    const kept = new Map();
+    let tooSlow = 0;
+
+    for (const e of nearby) {
+      const driveMinutes = minutes.get(DriveTimes.keyFor({ lat: e.lat, lon: e.lon }));
+      // No routed answer — an out-of-extract venue, or no router at all. Fall
+      // back to the radius rule and say so rather than silently dropping it.
+      const approxDrive = driveMinutes == null;
+      if (approxDrive) {
+        if (e.distanceKm > RADIUS_KM) { tooFar++; continue; }
+      } else if (driveMinutes > MAX_DRIVE_MINUTES) {
+        tooSlow++;
+        continue;
+      }
 
       const tz = e.timezone || region.timezone;
       const startMs = toUtcMs(e.start, tz);
@@ -141,7 +173,8 @@ async function main() {
       const shownMs = ongoing ? NOW : startMs;
       const record = {
         ...e,
-        distanceKm: +distanceKm.toFixed(1),
+        driveMinutes: approxDrive ? null : Math.round(driveMinutes),
+        approxDrive,
         startUtc: new Date(startMs).toISOString(),
         endUtc: endMs != null ? new Date(endMs).toISOString() : null,
         allDay: isAllDay(e.start),
@@ -161,23 +194,35 @@ async function main() {
       }
     }
 
-    const events = [...kept.values()].sort((a, b) => a.sortMs - b.sortMs || a.distanceKm - b.distanceKm);
+    // Sort by local day first, then by instant. Sorting on the instant alone
+    // interleaves days whenever two events resolve their local date in
+    // different zones, which splits a day into two headings in the UI.
+    const events = [...kept.values()].sort(
+      (a, b) => (a.day < b.day ? -1 : a.day > b.day ? 1 : 0) ||
+        a.sortMs - b.sortMs ||
+        (a.driveMinutes ?? 999) - (b.driveMinutes ?? 999) ||
+        a.distanceKm - b.distanceKm);
     for (const e of events) delete e.sortMs;
 
-    log(`  → ${events.length} in range (dropped: ${tooFar} far, ${outOfWindow} out of window, ${noCoords} unlocatable)`);
+    log(`  → ${events.length} in range (dropped: ${tooSlow} over ${MAX_DRIVE_MINUTES} min, ` +
+      `${tooFar} too far, ${outOfWindow} out of window, ${noCoords} unlocatable)`);
     regionsOut.push({
       key: region.key, name: region.name, blurb: region.blurb,
-      timezone: region.timezone, center: region.center, radiusKm: RADIUS_KM,
-      counts: { kept: events.length, tooFar, outOfWindow, noCoords, raw: collected.length },
+      timezone: region.timezone, center: region.center,
+      maxDriveMinutes: MAX_DRIVE_MINUTES, radiusKm: RADIUS_KM, routed: routing,
+      counts: { kept: events.length, tooSlow, tooFar, outOfWindow, noCoords, raw: collected.length },
       events,
     });
   }
 
   geocoder.save();
+  drive.save();
   const payload = {
     generatedAt: new Date(NOW).toISOString(),
     windowDays: WINDOW_DAYS,
+    maxDriveMinutes: MAX_DRIVE_MINUTES,
     radiusKm: RADIUS_KM,
+    routed: routing,
     regions: regionsOut,
     sources: sourceReport,
   };

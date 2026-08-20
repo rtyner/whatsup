@@ -29,6 +29,11 @@ function parsePage(html) {
   };
 }
 
+/** Eventbrite sometimes reports "Lakeland" and sometimes "Lakeland, FL". */
+function normalizeCity(city) {
+  return String(city || '').replace(/,\s*[A-Z]{2}$/, '').trim();
+}
+
 function normalize(e, origin) {
   const id = e.eventbrite_event_id || e.id;
   if (!id || !e.start_date) return null;
@@ -46,7 +51,7 @@ function normalize(e, origin) {
     url: e.url || `https://www.eventbrite.com/e/${id}`,
     venue: venue.name || '',
     address: addr.localized_address_display || '',
-    city: addr.city || '',
+    city: normalizeCity(addr.city),
     country: addr.country || '',
     lat: num(addr.latitude),
     lon: num(addr.longitude),

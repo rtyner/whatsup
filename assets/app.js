@@ -27,6 +27,8 @@
   const distance = (km, regionKey) =>
     regionKey === 'lakeland' ? `${Math.round(km / 1.609)} mi` : `${Math.round(km)} km`;
 
+  const driveLabel = (min) => (min < 60 ? `${min} min` : `${Math.floor(min / 60)}h${String(min % 60).padStart(2, '0')}`);
+
   function matches(ev, f, cutoffMs) {
     if (Date.parse(ev.startUtc) > cutoffMs) return false;
     if (f.category && ev.category !== f.category) return false;
@@ -47,11 +49,14 @@
       ev.category ? el('span', { className: 'tag', textContent: ev.category }) : null,
       el('span', { className: 'tag plain', textContent: ev.source }),
       el('span', {
-        className: `dist${ev.approxLocation ? ' approx' : ''}`,
-        textContent: distance(ev.distanceKm, region.key),
-        title: ev.approxLocation
-          ? 'Approximate — located from the venue address, not exact coordinates'
-          : 'Straight-line distance from the town centre',
+        className: `dist${ev.approxLocation || ev.approxDrive ? ' approx' : ''}`,
+        textContent: ev.driveMinutes != null
+          ? `${driveLabel(ev.driveMinutes)} drive`
+          : distance(ev.distanceKm, region.key),
+        title: ev.driveMinutes != null
+          ? `${driveLabel(ev.driveMinutes)} by road from ${region.name.split(',')[0]}` +
+            (ev.approxLocation ? ', from an address-level location' : '')
+          : `No routed answer for this venue — ${distance(ev.distanceKm, region.key)} straight line`,
       }),
     ]);
 
@@ -128,6 +133,15 @@
     const total = data.regions.reduce((n, r) => n + r.events.length, 0);
     $('#total').textContent = total.toLocaleString();
     $('#window').textContent = `${data.windowDays} days`;
+    const driveLabelEl = $('#drive-label');
+    if (driveLabelEl) {
+      driveLabelEl.textContent = data.routed
+        ? `${data.maxDriveMinutes} min drive`
+        : `${Math.round(data.radiusKm / 1.609)} mi radius`;
+      driveLabelEl.title = data.routed
+        ? 'Filtered on real drive times from a Valhalla routing engine'
+        : 'No routing engine reachable at build time — filtered on straight-line distance';
+    }
     const when = new Date(data.generatedAt);
     $('#updated').textContent = new Intl.DateTimeFormat(undefined, {
       month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit',

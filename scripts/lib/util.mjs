@@ -17,7 +17,7 @@ export class HttpError extends Error {
 const RATE_LIMIT_BACKOFF = [6000, 20000, 45000, 90000];
 
 /** Fetch with retries, browser-ish headers, backoff and a hard timeout. */
-export async function get(url, { headers = {}, tries = 3, timeout = 45000, json = false } = {}) {
+export async function get(url, { headers = {}, tries = 3, timeout = 45000, json = false, method = 'GET', body } = {}) {
   let lastErr;
   for (let i = 0; i < tries; i++) {
     const ac = new AbortController();
@@ -26,6 +26,8 @@ export async function get(url, { headers = {}, tries = 3, timeout = 45000, json 
       const res = await fetch(url, {
         signal: ac.signal,
         redirect: 'follow',
+        method,
+        body,
         headers: {
           'user-agent': UA,
           'accept-language': 'en-US,en;q=0.9,de;q=0.8',

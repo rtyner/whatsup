@@ -1,12 +1,25 @@
 /** Regions, their anchors, and which source seeds feed each one. */
-export const RADIUS_KM = 80.5; // ~50 miles, our stand-in for a 1 hour drive
+
+/** The actual promise of the site: an hour in the car. */
+export const MAX_DRIVE_MINUTES = 60;
+
+/**
+ * Cheap straight-line gate applied before asking the router, and the fallback
+ * rule when no router answers. An hour of motorway is roughly 110 km, so 130 km
+ * is comfortably outside anything that could qualify.
+ */
+export const PREFILTER_KM = 130;
+
+/** Fallback radius when a venue has no routed answer (~50 miles). */
+export const RADIUS_KM = 80.5;
+
 export const WINDOW_DAYS = 30;
 
 export const REGIONS = [
   {
     key: 'lakeland',
     name: 'Lakeland, Florida',
-    blurb: 'Within ~1 hour of Lakeland, FL — Polk County, Tampa Bay and the Orlando fringe.',
+    blurb: 'Within a 60 minute drive of Lakeland, FL — Polk County, Tampa Bay and the Orlando fringe.',
     timezone: 'America/New_York',
     center: { lat: 28.0395, lon: -81.9498 },
     eventbrite: {
@@ -30,7 +43,7 @@ export const REGIONS = [
   {
     key: 'ueberlingen',
     name: 'Überlingen, Bodensee',
-    blurb: 'Within ~1 hour of Überlingen — the German lakeshore plus nearby Austria and Switzerland.',
+    blurb: 'Within a 60 minute drive of Überlingen — the German lakeshore and the near Swiss and Austrian side.',
     timezone: 'Europe/Berlin',
     center: { lat: 47.7694, lon: 9.1616 },
     eventbrite: {
