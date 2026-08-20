@@ -68,8 +68,11 @@ the drive-time stand-in and how far ahead the calendar looks.
 
 ## Caveats
 
-- "One hour's drive" is approximated as a 50 mile straight-line radius. Real
-  drive-time isochrones would need a routing API key.
+- "One hour's drive" is approximated as a 50 mile straight-line radius. That is
+  a decent proxy around Lakeland, but it flatters the Bodensee: Zürich is 64 km
+  across the map and comfortably over an hour by road, because the lake forces
+  the drive the long way round. Real drive-time isochrones would need a routing
+  API key (OpenRouteService and Mapbox both have free tiers).
 - Events located only by city or street address are marked with a `~` on the
   distance; their coordinates come from geocoding, not the source.
 - Scraped sources can change their markup. The site footer reports any source

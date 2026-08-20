@@ -5,10 +5,13 @@
   const $ = (sel) => document.querySelector(sel);
   const state = { data: null, filters: { q: '', category: '', source: '', when: '30' } };
 
-  const fmtDay = (iso, tz) =>
-    new Intl.DateTimeFormat(undefined, {
-      timeZone: tz, weekday: 'short', month: 'short', day: 'numeric',
-    }).format(new Date(iso));
+  // Headings come from the event's own `day` (YYYY-MM-DD in its local calendar),
+  // not from startUtc — an ongoing run is filed under today, not its opening night.
+  const fmtDay = (day) => {
+    const [y, m, d] = day.split('-').map(Number);
+    return new Intl.DateTimeFormat(undefined, { weekday: 'short', month: 'short', day: 'numeric' })
+      .format(new Date(y, m - 1, d));
+  };
 
   const fmtTime = (iso, tz) =>
     new Intl.DateTimeFormat(undefined, { timeZone: tz, hour: 'numeric', minute: '2-digit' })
@@ -37,7 +40,7 @@
 
   function card(ev, region) {
     const tz = ev.timezone || region.timezone;
-    const time = ev.allDay ? 'All day' : fmtTime(ev.startUtc, tz);
+    const time = ev.ongoing ? 'Ongoing' : ev.allDay ? 'All day' : fmtTime(ev.startUtc, tz);
     const where = [ev.venue, ev.city].filter(Boolean).join(' · ') || ev.address || '—';
 
     const meta = el('p', { className: 'meta' }, [
@@ -92,7 +95,7 @@
     for (const ev of events) {
       if (ev.day !== currentDay) {
         currentDay = ev.day;
-        const heading = el('h3', {}, document.createTextNode(fmtDay(ev.startUtc, region.timezone)));
+        const heading = el('h3', {}, document.createTextNode(fmtDay(ev.day)));
         if (ev.day === todayKey) heading.append(el('span', { className: 'today', textContent: 'Today' }));
         group = el('div', { className: 'day' }, [heading, el('div', { className: 'cards' })]);
         section.append(group);

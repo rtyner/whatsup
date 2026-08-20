@@ -22,6 +22,16 @@ function eventSlice(data) {
   return [];
 }
 
+/**
+ * The portal's `city` field is the organiser's town, not the venue's — an
+ * Überlingen address routinely comes back tagged "Dornhan". The postal code
+ * and town in `addressLine` are reliable, so prefer those.
+ */
+function cityFromAddress(addressLine) {
+  const m = String(addressLine || '').match(/\b\d{5}\s+([A-Za-zÄÖÜäöüß][\wÄÖÜäöüß.'-]*(?:[ -][A-ZÄÖÜ][\wÄÖÜäöüß.'-]*)*)/);
+  return m ? m[1].trim() : '';
+}
+
 function normalize(e, origin, fallbackCity) {
   if (!e?.title || !e?.startAt) return null;
   const [lat, lon] = Array.isArray(e.latlng) ? e.latlng : [null, null];
@@ -36,7 +46,7 @@ function normalize(e, origin, fallbackCity) {
     url: e.url || origin,
     venue: e.location || '',
     address: e.addressLine || '',
-    city: e.city || fallbackCity,
+    city: cityFromAddress(e.addressLine) || e.city || fallbackCity,
     country: 'DE',
     lat: num(lat),
     lon: num(lon),

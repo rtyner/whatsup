@@ -1,0 +1,484 @@
+{
+ ", effretikon, zh, zh, ch": {
+  "lat": 47.4257472,
+  "lon": 8.6870086
+ },
+ ", tampa, fl, fl, us": {
+  "lat": 27.9449854,
+  "lon": -82.4583107
+ },
+ ", überlingen, germany": {
+  "lat": 47.7664456,
+  "lon": 9.1605106
+ },
+ "1001 w cass st, tampa, fl, fl, us": {
+  "lat": 27.950166,
+  "lon": -82.4696408
+ },
+ "1010 virginia drive, orlando, fl, fl, us": {
+  "lat": 28.5638079,
+  "lon": -81.3658884
+ },
+ "10475 gibsonton dr, riverview, fl 33569, riverview, fl, fl, us": {
+  "lat": 27.857244,
+  "lon": -82.3318392
+ },
+ "11 locations in der altstadt, krauchenwies, germany": {
+  "lat": 49.7824158,
+  "lon": 9.1823086
+ },
+ "11109 n 30th st, tampa,, fl, fl, us": {
+  "lat": 28.04761,
+  "lon": -82.4260893
+ },
+ "114 ruby red place, winter garden, fl, fl, us": {
+  "lat": 28.5753721,
+  "lon": -81.5837187
+ },
+ "1150 assembly drive, ste 500, tampa, fl 33607, fl, fl, us": {
+  "lat": 27.953446,
+  "lon": -82.5041709
+ },
+ "1217 ewing ave, clearwater, fl, fl, us": {
+  "lat": 27.9530554,
+  "lon": -82.7927506
+ },
+ "12403 s orange blossom trl, orlando, fl, fl, us": {
+  "lat": 28.5360605,
+  "lon": -81.3971322
+ },
+ "13500 s john young pkwy, orlando, fl, fl, us": {
+  "lat": 28.5729581,
+  "lon": -81.417376
+ },
+ "13630 morris bridge road, thonotosassa, fl, fl, us": {
+  "lat": 28.0802059,
+  "lon": -82.3326366
+ },
+ "16000 state road 471, lakeland, fl, fl, us": {
+  "lat": 27.9900718,
+  "lon": -81.8906048
+ },
+ "16016 new independence parkway #100, winter garden, fl, fl, us": {
+  "lat": 28.4739994,
+  "lon": -81.6258145
+ },
+ "210 bass rd, kissimmee, fl 34746, kissimmee, fl, fl, us": {
+  "lat": 28.2903267,
+  "lon": -81.4575176
+ },
+ "2101 e palm ave, tampa, fl, fl, us": {
+  "lat": 27.962351,
+  "lon": -82.43538
+ },
+ "2101 e. palm avenue, tampa, fl, fl, us": {
+  "lat": 27.962353,
+  "lon": -82.435384
+ },
+ "2101 east palm avenue, tampa, fl, fl, us": {
+  "lat": 27.962353,
+  "lon": -82.435384
+ },
+ "213 n mills ave, orlando, fl, fl, us": {
+  "lat": 28.5450171,
+  "lon": -81.3640578
+ },
+ "231 central avenue north, saint petersburg, fl, fl, us": {
+  "lat": 27.771391,
+  "lon": -82.636117
+ },
+ "2329 28th street n,, saint petersburg, fl, fl, us": {
+  "lat": 27.7931266,
+  "lon": -82.6712276
+ },
+ "2539 countryside blvd, ste 6, clearwater, fl, fl, us": {
+  "lat": 28.014344,
+  "lon": -82.73388
+ },
+ "2748 63rd terrace n, st petersburg, fl, fl, us": {
+  "lat": 27.8300136,
+  "lon": -82.6460295
+ },
+ "3 phoenix building, 30 s magnolia ave, orlando, fl 32801, orlando, fl, fl, us": {
+  "lat": 28.541523,
+  "lon": -81.377631
+ },
+ "3030 n rocky point drive w, ste 600, tampa, fl, fl, us": {
+  "lat": 27.968658,
+  "lon": -82.5694629
+ },
+ "3045 n rocky point dr. e, tampa, fl, fl, us": {
+  "lat": 27.9682663,
+  "lon": -82.5667994
+ },
+ "36 w. pine st, orlando, fl, fl, us": {
+  "lat": 28.5410311,
+  "lon": -81.3797625
+ },
+ "4012 central florida pkwy, orlando, fl, fl, us": {
+  "lat": 28.4051596,
+  "lon": -81.4294819
+ },
+ "4110 usf apple drive, tampa, fl, fl, us": {
+  "lat": 28.0682675,
+  "lon": -82.4077748
+ },
+ "500 orange avenue, orlando, fl, fl, us": {
+  "lat": 28.5499655,
+  "lon": -81.3795344
+ },
+ "6000 universal boulevard, orlando, fl, fl, us": {
+  "lat": 28.4768628,
+  "lon": -81.4699854
+ },
+ "6108 winthrop town center avenue, riverview, fl, fl, us": {
+  "lat": 27.892645,
+  "lon": -82.3166172
+ },
+ "6203 s martindale ave, tampa, fl, fl, us": {
+  "lat": 27.8775846,
+  "lon": -82.4950762
+ },
+ "6625 florida ave s, lakeland, fl, fl, us": {
+  "lat": 28.031225,
+  "lon": -81.9571225
+ },
+ "678 75th avenue, saint petersburg, fl, fl, us": {
+  "lat": 27.8406292,
+  "lon": -82.642466
+ },
+ "701 channelside drive, tampa, fl, fl, us": {
+  "lat": 27.9440723,
+  "lon": -82.4448796
+ },
+ "800 e princeton st,, orlando, fl, fl, us": {
+  "lat": 28.5716311,
+  "lon": -81.3680683
+ },
+ "810 cypress garden blvd, winter haven, fl, fl, us": {
+  "lat": 28.0029259,
+  "lon": -81.7168202
+ },
+ "88662 überlingen , überlingen, germany": {
+  "lat": 47.796962,
+  "lon": 9.1613763
+ },
+ "88662 überlingen, überlingen, germany": {
+  "lat": 47.796962,
+  "lon": 9.1613763
+ },
+ "abigstr. 9 a 88662 überlingen, überlingen, germany": {
+  "lat": 47.7730402,
+  "lon": 9.1863958
+ },
+ "an verschiedenen orten in der stadt, überlingen, germany": {
+  "lat": 47.7629947,
+  "lon": 9.1704334
+ },
+ "ankerstrasse 123, zürich, zh, zh, ch": {
+  "lat": 47.3767507,
+  "lon": 8.5284977
+ },
+ "anna-zentgraf-str. 15 88662 überlingen, überlingen, germany": {
+  "lat": 47.7767939,
+  "lon": 9.1590315
+ },
+ "aufkircher straße / friedhofstraße 88662 überlingen, überlingen, germany": {
+  "lat": 47.7697499,
+  "lon": 9.1586808
+ },
+ "bahnhofplatz 8, 8152 opfikon, zurich, ch": {
+  "lat": 47.4302796,
+  "lon": 8.5598035
+ },
+ "bahnhofstr. 27 88662 überlingen, überlingen, germany": {
+  "lat": 47.7687273,
+  "lon": 9.1502396
+ },
+ "bahnhofstrasse 19, st. gallen, sg, sg, ch": {
+  "lat": 47.4248066,
+  "lon": 9.3717332
+ },
+ "bahnhofstrasse 2, herisau, ch": {
+  "lat": 47.386101,
+  "lon": 9.2800622
+ },
+ "bahnhofstraße 23 88662 überlingen, überlingen, germany": {
+  "lat": 47.7686909,
+  "lon": 9.1509165
+ },
+ "bahnhofstraße 88662 überlingen, überlingen, germany": {
+  "lat": 47.7690698,
+  "lon": 9.1446686
+ },
+ "bamberger str. 30 88662 überlingen , überlingen , germany": {
+  "lat": 47.802105,
+  "lon": 9.2233321
+ },
+ "bodanstraße 20, konstanz, de": {
+  "lat": 47.6583293,
+  "lon": 9.174026
+ },
+ "brachenreuthe 88662 überlingen, überlingen, germany": {
+  "lat": 47.7973128,
+  "lon": 9.1527385
+ },
+ "brauerstrasse 80, zürich, ch": {
+  "lat": 47.3792766,
+  "lon": 8.5244888
+ },
+ "brückengasse 1b, konstanz, de": {
+  "lat": 47.664237,
+  "lon": 9.175504
+ },
+ "christophstr. 2 b 88662 überlingen, ulm, germany": {
+  "lat": 47.7674317,
+  "lon": 9.1580654
+ },
+ "christophstr. 2 b 88662 überlingen, überlingen, germany": {
+  "lat": 47.7680587,
+  "lon": 9.1553829
+ },
+ "dorfbachstr. 10 88682 salem, salem, germany": {
+  "lat": 47.7959176,
+  "lon": 9.2617502
+ },
+ "eichliwaldstrasse 7,, winterthur, ch": {
+  "lat": 47.5189502,
+  "lon": 8.715292
+ },
+ "eulachpark, winterthur, ch": {
+  "lat": 47.5050915,
+  "lon": 8.7633357
+ },
+ "feigentalweg 26 88662 überlingen, überlingen, germany": {
+  "lat": 47.775126,
+  "lon": 9.1639018
+ },
+ "franziskanerstr. 20 88662 überlingen, reutlingen, germany": {
+  "lat": 47.7680874,
+  "lon": 9.1597828
+ },
+ "franziskanerstr. 20 88662 überlingen, uhldingen-mühlhofen, germany": {
+  "lat": 47.7680874,
+  "lon": 9.1597828
+ },
+ "franziskanerstr. 20 88662 überlingen, überlingen, germany": {
+  "lat": 47.7680874,
+  "lon": 9.1597828
+ },
+ "geroldstrasse 23, 8005 zürich,, zürich, ch": {
+  "lat": 47.3852865,
+  "lon": 8.5192736
+ },
+ "grabenstr. 2 88662 überlingen, überlingen, germany": {
+  "lat": 47.7671036,
+  "lon": 9.1569728
+ },
+ "grindelstrasse 20, 8303 bassersdorf, switzerland, zurich, ch": {
+  "lat": 47.4440048,
+  "lon": 8.6100512
+ },
+ "hardstrasse 260, 8005 zürich, zürich, ch": {
+  "lat": 47.3884868,
+  "lon": 8.5206867
+ },
+ "hauptstrasse 42, kreuzlingen, tg, tg, ch": {
+  "lat": 47.6505744,
+  "lon": 9.1740651
+ },
+ "hauptstraße 50, aach, de": {
+  "lat": 47.8462671,
+  "lon": 8.8583034
+ },
+ "hinter der silvesterkapelle goldbach 88662 überlingen, überlingen, germany": {
+  "lat": 47.7705994,
+  "lon": 9.1404157
+ },
+ "johanniterweg 11 88662 überlingen, überlingen, germany": {
+  "lat": 47.7796214,
+  "lon": 9.1864857
+ },
+ "kanzleistrasse 56, zurich, ch": {
+  "lat": 47.3755223,
+  "lon": 8.525813
+ },
+ "klosterstr. 2 88662 überlingen, überlingen, germany": {
+  "lat": 47.767608,
+  "lon": 9.1567004
+ },
+ "krummebergstr. 30 88662 überlingen, schemmerhofen, germany": {
+  "lat": 47.7675807,
+  "lon": 9.1631535
+ },
+ "krummebergstr. 30 88662 überlingen, velbert, germany": {
+  "lat": 47.7675807,
+  "lon": 9.1631535
+ },
+ "krummebergstr. 30 88662 überlingen, übelingen, germany": {
+  "lat": 47.7675807,
+  "lon": 9.1631535
+ },
+ "krummebergstr. 30 88662 überlingen, überlingen, germany": {
+  "lat": 47.7675807,
+  "lon": 9.1631535
+ },
+ "landungsplatz 14 88662 überlingen, überlingen, germany": {
+  "lat": 47.7659707,
+  "lon": 9.1599745
+ },
+ "landungsplatz 3-5 88662 überlingen, überlingen, germany": {
+  "lat": 47.7662245,
+  "lon": 9.1598866
+ },
+ "landungsplatz haus nr. 3 88662 überlingen, überlingen, germany": {
+  "lat": 47.7663925,
+  "lon": 9.159313
+ },
+ "landungsplatz, anlegestelle 2a 88662 überlingen, neu - ulm, germany": null,
+ "landungsplatz, anlegestelle 2a 88662 überlingen, überlingen, germany": {
+  "lat": 47.7663973,
+  "lon": 9.1592151
+ },
+ "lerchenfeldstrasse 3, st. gallen, sg, sg, ch": {
+  "lat": 47.4639262,
+  "lon": 9.0437538
+ },
+ "lettenstrasse 19, mogelsberg, sg, sg, ch": {
+  "lat": 47.3605862,
+  "lon": 9.136963
+ },
+ "limmatstrasse 50, zürich, ch": {
+  "lat": 47.3819993,
+  "lon": 8.5354777
+ },
+ "mythenquai 9, 8002 zürich, schweiz, zürich, ch": {
+  "lat": 47.3616995,
+  "lon": 8.5367009
+ },
+ "münsterplatz 5 88662 überlingen, ueberlingen, germany": {
+  "lat": 47.7675289,
+  "lon": 9.1609639
+ },
+ "münsterplatz 88662 überlingen, überlingen, germany": {
+  "lat": 47.7671861,
+  "lon": 9.1610527
+ },
+ "münsterstr. 15-17 88662 überlingen, dornhan, germany": {
+  "lat": 47.7668552,
+  "lon": 9.1605433
+ },
+ "münsterstr. 55 88662 überlingen, überlingen, germany": {
+  "lat": 47.7660593,
+  "lon": 9.1629382
+ },
+ "obere bahnhofstr. 28 88662 überlingen, überlingen, germany": {
+  "lat": 47.7700423,
+  "lon": 9.1423234
+ },
+ "obere st. leonhard-str. 71 88662 überlingen, überlingen, germany": {
+  "lat": 47.7652173,
+  "lon": 9.1835156
+ },
+ "obere-st.-leonhard-str. 71 88662 überlingen, überlingen, germany": {
+  "lat": 47.7652173,
+  "lon": 9.1835156
+ },
+ "rangoldshauser str. 39 88662 überlingen, überlingen, germany": {
+  "lat": 47.7551024,
+  "lon": 9.1877943
+ },
+ "rengoldshauser str. 20 88662 überlingen, überlingen , germany": {
+  "lat": 47.7728748,
+  "lon": 9.1994158
+ },
+ "rengoldshauser str. 20 88662 überlingen, überlingen, germany": {
+  "lat": 47.7728748,
+  "lon": 9.1994158
+ },
+ "restaurant seegarten, seepromenade 7, überlingen, germany": {
+  "lat": 47.7662881,
+  "lon": 9.1582016
+ },
+ "rosenhag 6 88662 überlingen, überlingen, germany": {
+  "lat": 47.7704312,
+  "lon": 9.1813822
+ },
+ "schaffhauserstr. 8, winterthur, ch": {
+  "lat": 47.5040452,
+  "lon": 8.7255179
+ },
+ "schwertgasse 27, sankt gallen, ch": {
+  "lat": 47.4276256,
+  "lon": 9.3774365
+ },
+ "seegang zwischen überlingen und ludwigshafen, überlingen, germany": {
+  "lat": 47.8283403,
+  "lon": 9.0932947
+ },
+ "seepromenade 2 88662 überlingen, überlingen, germany": {
+  "lat": 47.7654353,
+  "lon": 9.1626317
+ },
+ "st. johann str. 15 88662 überlingen, überlingen, germany": {
+  "lat": 47.7670622,
+  "lon": 9.1676454
+ },
+ "steinhausgasse 3 88662 überlingen, überlingen, germany": {
+  "lat": 47.7677117,
+  "lon": 9.1585296
+ },
+ "steinstrasse 21, 8003 zürich, ch": {
+  "lat": 47.3680911,
+  "lon": 8.5200386
+ },
+ "stockerstrasse 61, zürich, ch": {
+  "lat": 47.3693012,
+  "lon": 8.5337356
+ },
+ "strandweg 32 88662 überlingen, überlingen, germany": {
+  "lat": 47.7590342,
+  "lon": 9.1764688
+ },
+ "technikumstrasse 8, winterthur, ch": {
+  "lat": 47.497884,
+  "lon": 8.7316427
+ },
+ "technoparkstr. 2, winterthur, ch": {
+  "lat": 47.494682,
+  "lon": 8.7169278
+ },
+ "treff: zob überlingen, wiestorstr. 8, überlingen, germany": {
+  "lat": 47.7691239,
+  "lon": 9.1628408
+ },
+ "turmgasse 8, st. gallen, ch": {
+  "lat": 47.4246262,
+  "lon": 9.3776353
+ },
+ "verschiedene veranstaltungsräume, überlingen, germany": null,
+ "wallisellerstrasse 100, opfikon, ch": {
+  "lat": 47.4293706,
+  "lon": 8.5732358
+ },
+ "widagasse 11, dornbirn, at": {
+  "lat": 47.417923,
+  "lon": 9.7468723
+ },
+ "wiestorstr. 19 88662 überlingen, meersburg, germany": {
+  "lat": 47.7687882,
+  "lon": 9.160964
+ },
+ "zollstrasse 80, zürich, zh, zh, ch": {
+  "lat": 47.3812984,
+  "lon": 8.5315067
+ },
+ "zum gallerturm 17 88662 überlingen, überlingen, germany": {
+  "lat": 47.7692027,
+  "lon": 9.1553729
+ },
+ "zum laugele 4 88662 überlingen-nußdorf, überlingen-nußdorf, germany": {
+  "lat": 47.7530428,
+  "lon": 9.1950439
+ }
+}

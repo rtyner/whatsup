@@ -19,11 +19,14 @@ const GRACE = 6 * 36e5; // keep things that started earlier today
 
 const log = (...a) => console.log(...a);
 
-/** Collapse the same event arriving from two sources. */
+/**
+ * Collapse the same event arriving from two sources. Keyed on the local
+ * calendar day rather than the raw start string, since Meetup reports UTC
+ * instants and the others report local wall-clock time.
+ */
 function dedupeKey(e) {
   const title = e.title.toLowerCase().replace(/[^a-z0-9]+/g, '').slice(0, 40);
-  const day = e.start.slice(0, 10);
-  return `${title}|${day}`;
+  return `${title}|${e.day}`;
 }
 
 async function runSource(report, name, fn) {
@@ -106,14 +109,19 @@ async function main() {
       if (startMs > WINDOW_END) { outOfWindow++; continue; }
       if (startMs < NOW - GRACE && !stillRunning) { outOfWindow++; continue; }
 
+      // A run that began before today is listed under today, not its opening
+      // night, so `day`/`sortMs` are clamped and the card says "Ongoing".
+      const ongoing = startMs < NOW - GRACE;
+      const shownMs = ongoing ? NOW : startMs;
       const record = {
         ...e,
         distanceKm: +distanceKm.toFixed(1),
         startUtc: new Date(startMs).toISOString(),
         endUtc: endMs != null ? new Date(endMs).toISOString() : null,
         allDay: isAllDay(e.start),
-        day: localDay(Math.max(startMs, NOW - GRACE), tz),
-        sortMs: Math.max(startMs, NOW - GRACE),
+        ongoing,
+        day: localDay(shownMs, tz),
+        sortMs: shownMs,
       };
       delete record.geocodeHint;
 
