@@ -134,16 +134,24 @@
     }).format(when);
     $('#updated').title = when.toString();
 
-    const broken = (data.sources || []).filter((s) => !s.ok);
-    const skipped = (data.sources || []).filter((s) => s.skipped);
+    const sources = data.sources || [];
+    const broken = sources.filter((s) => !s.ok);
+    const stale = sources.filter((s) => s.stale);
+    const skipped = sources.filter((s) => s.skipped);
     const bits = [];
     if (broken.length) {
       bits.push(el('span', {
         className: 'bad',
-        textContent: `${broken.length} source${broken.length === 1 ? '' : 's'} failed in the last build: ${broken.map((s) => s.name).join(', ')}.`,
+        textContent: `${broken.length} source${broken.length === 1 ? '' : 's'} failed in the last build: ${broken.map((s) => s.name).join(', ')}. `,
       }));
     }
-    if (skipped.length) bits.push(document.createTextNode(` Not configured: ${skipped.map((s) => s.name).join(', ')}.`));
+    if (stale.length) {
+      bits.push(el('span', {
+        className: 'bad',
+        textContent: `Showing carried-over listings for ${stale.map((s) => s.name).join(', ')} — that source did not respond to the last build. `,
+      }));
+    }
+    if (skipped.length) bits.push(document.createTextNode(`Not configured: ${skipped.map((s) => s.name).join(', ')}.`));
     $('#source-health').replaceChildren(...bits);
   }
 

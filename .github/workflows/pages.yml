@@ -1,13 +1,11 @@
 name: Deploy to GitHub Pages
 
-# Publishes changes to the site itself. Data refreshes deploy from
-# update.yml, which runs its own deploy job.
+# Every push to main publishes, including the daily data commits pushed by the
+# local timer (scripts/daily.sh). Those come from a personal token, not
+# GITHUB_TOKEN, so they do trigger this workflow.
 on:
   push:
     branches: [main]
-    paths-ignore:
-      - 'data/**'
-      - 'README.md'
   workflow_dispatch:
 
 permissions:

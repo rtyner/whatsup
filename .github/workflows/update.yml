@@ -1,15 +1,12 @@
-name: Update event calendar
+name: Update event calendar (fallback)
 
+# Manual only. The daily refresh runs on a local machine via scripts/daily.sh,
+# because Eventbrite answers GitHub's datacenter IPs with HTTP 405 — a run from
+# here can only carry over the Eventbrite listings from the last local run.
+# Useful if the local machine is down for long enough that the other sources
+# would otherwise go stale too.
 on:
-  schedule:
-    # 06:15 UTC daily — early morning in Florida, mid-morning on the Bodensee.
-    - cron: '15 6 * * *'
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - 'scripts/**'
-      - '.github/workflows/update.yml'
 
 concurrency:
   group: update-events
@@ -50,7 +47,7 @@ jobs:
           fi
 
   # A push made with GITHUB_TOKEN does not trigger other workflows, so this job
-  # publishes the freshly committed data itself instead of waiting for pages.yml.
+  # publishes the freshly committed data itself.
   deploy:
     needs: refresh
     runs-on: ubuntu-latest

@@ -19,6 +19,16 @@ const GRACE = 6 * 36e5; // keep things that started earlier today
 
 const log = (...a) => console.log(...a);
 
+/** The feed from the last successful run, used to ride out a blocked source. */
+function loadPrevious() {
+  try {
+    const prev = JSON.parse(fs.readFileSync(path.join(DATA, 'events.json'), 'utf8'));
+    return new Map((prev.regions || []).map((r) => [r.key, r.events || []]));
+  } catch {
+    return new Map();
+  }
+}
+
 /**
  * Collapse the same event arriving from two sources. Keyed on the local
  * calendar day rather than the raw start string, since Meetup reports UTC
@@ -29,18 +39,18 @@ function dedupeKey(e) {
   return `${title}|${e.day}`;
 }
 
-async function runSource(report, name, fn) {
+async function runSource(report, name, label, fn) {
   const t0 = Date.now();
   try {
     const { events, notes = [], skipped } = await fn();
     report.push({
-      name, ok: true, skipped: !!skipped, count: events.length,
+      name, label, ok: true, skipped: !!skipped, count: events.length,
       seconds: +((Date.now() - t0) / 1000).toFixed(1), notes,
     });
     log(`  ${name}: ${events.length} events${notes.length ? ` (${notes.length} notes)` : ''}`);
     return events;
   } catch (err) {
-    report.push({ name, ok: false, count: 0, error: err.message, notes: [] });
+    report.push({ name, label, ok: false, count: 0, error: err.message, notes: [] });
     log(`  ${name}: FAILED — ${err.message}`);
     return [];
   }
@@ -50,6 +60,7 @@ async function main() {
   fs.mkdirSync(DATA, { recursive: true });
   const geocoder = new Geocoder(path.join(DATA, 'geocache.json'), { maxLookups: Number(process.env.MAX_GEOCODE_LOOKUPS || 400) });
   const tmKey = process.env.TICKETMASTER_API_KEY || '';
+  const prev = loadPrevious();
   const regionsOut = [];
   const sourceReport = [];
 
@@ -57,20 +68,35 @@ async function main() {
     log(`\n${region.name}`);
     const report = [];
     const collected = [
-      ...(await runSource(report, `Eventbrite (${region.key})`, () =>
+      ...(await runSource(report, `Eventbrite (${region.key})`, 'Eventbrite', () =>
         fetchEventbrite(region.eventbrite))),
-      ...(await runSource(report, `Meetup (${region.key})`, () =>
+      ...(await runSource(report, `Meetup (${region.key})`, 'Meetup', () =>
         fetchMeetup({ seeds: region.meetup }))),
       ...(region.bodensee.length
-        ? await runSource(report, `Bodensee tourism (${region.key})`, () =>
+        ? await runSource(report, `Bodensee tourism (${region.key})`, 'Bodensee Tourismus', () =>
             fetchBodensee({ portals: region.bodensee }))
         : []),
-      ...(await runSource(report, `Ticketmaster (${region.key})`, () =>
+      ...(await runSource(report, `Ticketmaster (${region.key})`, 'Ticketmaster', () =>
         fetchTicketmaster({
           apiKey: tmKey, spots: region.ticketmaster,
           radiusMiles: 50, days: WINDOW_DAYS,
         }))),
     ];
+
+    // A source that is blocked today (Eventbrite answers datacenter IPs with a
+    // 405) must not silently shrink the calendar. Reuse its last known events
+    // instead; they still get re-filtered for distance and date below, so
+    // nothing expired slips through — they just stop refreshing.
+    const previous = prev.get(region.key) || [];
+    for (const rep of report) {
+      if (rep.count > 0 || rep.skipped) continue;
+      const carried = previous.filter((e) => e.source === rep.label);
+      if (!carried.length) continue;
+      collected.push(...carried);
+      rep.carriedOver = carried.length;
+      rep.stale = true;
+      log(`  ${rep.name}: carried over ${carried.length} events from the last run`);
+    }
     sourceReport.push(...report.map((r) => ({ ...r, region: region.key })));
 
     // Fill in coordinates for sources that only give us a place name.
@@ -158,9 +184,14 @@ async function main() {
   fs.writeFileSync(path.join(DATA, 'events.json'), JSON.stringify(payload, null, 1) + '\n');
 
   const total = regionsOut.reduce((n, r) => n + r.events.length, 0);
+  const stale = sourceReport.filter((s) => s.stale);
+  if (stale.length) log(`\nStale sources: ${stale.map((s) => s.name).join(', ')}`);
   log(`\nWrote data/events.json — ${total} events across ${regionsOut.length} regions.`);
-  if (total === 0) {
-    console.error('No events collected from any source; refusing to publish an empty calendar.');
+
+  // Publish nothing rather than a calendar that is obviously broken.
+  const empty = regionsOut.filter((r) => r.events.length === 0);
+  if (empty.length) {
+    console.error(`No events at all for: ${empty.map((r) => r.key).join(', ')}. Refusing to publish.`);
     process.exit(1);
   }
 }

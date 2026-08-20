@@ -1,5 +1,20 @@
 import { get, extractObjectAfter, stripHtml, textOf, num, sleep, HttpError } from '../lib/util.mjs';
 
+// Eventbrite answers datacenter IPs with a 405 unless the request looks like a
+// real navigation, so send the fetch-metadata headers a browser would.
+const BROWSER_HEADERS = {
+  'sec-ch-ua': '"Chromium";v="126", "Not(A:Brand";v="24", "Google Chrome";v="126"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Linux"',
+  'sec-fetch-dest': 'document',
+  'sec-fetch-mode': 'navigate',
+  'sec-fetch-site': 'none',
+  'sec-fetch-user': '?1',
+  'upgrade-insecure-requests': '1',
+  'cache-control': 'no-cache',
+  pragma: 'no-cache',
+};
+
 /**
  * Eventbrite has no open search API any more, but its city browse pages ship
  * the full result set in `window.__SERVER_DATA__` — 20 events per page,
@@ -56,7 +71,7 @@ export async function fetchEventbrite({ host, slugs, pagesPerSlug = 5, pauseMs =
       const url = `https://${host}/d/${slug}/all-events/?page=${page}`;
       let parsed;
       try {
-        parsed = parsePage(await get(url, { tries: 4 }));
+        parsed = parsePage(await get(url, { tries: 4, headers: BROWSER_HEADERS }));
       } catch (err) {
         notes.push(`${slug} p${page}: ${err.message}`);
         // A 404 means the city slug is wrong; anything else may be transient,

@@ -7,15 +7,26 @@ Live site: enable GitHub Pages for this repo (Settings → Pages → *GitHub Act
 
 ## How it works
 
-A GitHub Action runs `scripts/fetch.mjs` every morning at 06:15 UTC. The script
-pulls from several public sources, keeps everything within 80.5 km (~50 miles) of
-each town centre and starting in the next 30 days, then writes `data/events.json`
-and commits it. The static page in `index.html` renders that file — no server, no
-build step, no dependencies.
+A systemd timer on a local machine runs `scripts/daily.sh` every morning at
+06:15 local time. That script runs `scripts/fetch.mjs`, which pulls from several
+public sources, keeps everything within 80.5 km (~50 miles) of each town centre
+and starting in the next 30 days, writes `data/events.json`, and pushes it. The
+push triggers the Pages workflow, which redeploys the site. The static page in
+`index.html` renders that file — no server, no build step, no dependencies.
+
+### Why the refresh runs locally, not in CI
+
+Eventbrite answers requests from GitHub's datacenter IPs with `HTTP 405`. From a
+residential IP the same request works fine. A CI run therefore loses the largest
+source for both regions, so the daily job runs on a real machine instead.
+`.github/workflows/update.yml` keeps a manual-dispatch fallback for when the
+local machine is down; it will carry over the last known Eventbrite listings
+rather than dropping them.
 
 ```
 scripts/
   config.mjs            regions, anchors, per-source seeds
+  daily.sh              pull, fetch, commit, push — what the timer runs
   fetch.mjs             orchestrator: fetch → geocode → filter → dedupe → write
   lib/util.mjs          fetch with backoff, HTML/JSON-LD extraction
   lib/geo.mjs           haversine + cached Nominatim/Photon geocoding
@@ -53,6 +64,18 @@ node scripts/fetch.mjs        # ~5 min warm, longer on a cold geocode cache
 python3 -m http.server 8000   # then open http://localhost:8000
 ```
 
+### The daily timer
+
+```bash
+systemctl --user list-timers whatsup.timer   # when it next runs
+systemctl --user start whatsup.service       # refresh and publish right now
+journalctl --user -u whatsup.service -n 50   # what the last run did
+```
+
+Units live in `~/.config/systemd/user/`. `loginctl enable-linger` is required so
+the timer keeps running when you are not logged in — it is already enabled on
+this machine.
+
 Useful environment variables:
 
 - `TICKETMASTER_API_KEY` — enables the Ticketmaster source.
@@ -75,6 +98,8 @@ the drive-time stand-in and how far ahead the calendar looks.
   API key (OpenRouteService and Mapbox both have free tiers).
 - Events located only by city or street address are marked with a `~` on the
   distance; their coordinates come from geocoding, not the source.
-- Scraped sources can change their markup. The site footer reports any source
-  that failed in the last build, and the fetch script exits non-zero rather than
-  publishing an empty calendar.
+- Scraped sources can change their markup or start blocking. A source that
+  returns nothing has its previous events carried over rather than shrinking the
+  calendar; those are still re-filtered for distance and date, so nothing expired
+  survives, they just stop refreshing. The footer names any source in that state,
+  and the fetch script exits non-zero rather than publishing an empty region.
