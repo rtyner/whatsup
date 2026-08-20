@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>What's Up — Lakeland &amp; Überlingen</title>
+<meta name="description" content="A daily calendar of events within about an hour's drive of Lakeland, Florida and Überlingen on Lake Constance." />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📅</text></svg>" />
+<link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+<a class="skip" href="#regions">Skip to events</a>
+
+<header class="masthead">
+  <div class="wrap">
+    <div class="brand">
+      <h1>What's&nbsp;Up</h1>
+      <p class="tagline">Everything happening within about an hour's drive of two places at once.</p>
+    </div>
+    <dl class="freshness">
+      <div><dt>Updated</dt><dd id="updated">—</dd></div>
+      <div><dt>Events</dt><dd id="total">—</dd></div>
+      <div><dt>Window</dt><dd id="window">—</dd></div>
+    </dl>
+  </div>
+</header>
+
+<div class="wrap controls-wrap">
+  <form class="controls" id="controls" role="search" aria-label="Filter events">
+    <label class="field grow">
+      <span>Search</span>
+      <input type="search" id="q" placeholder="Title, venue, city…" autocomplete="off" />
+    </label>
+    <label class="field">
+      <span>Category</span>
+      <select id="category"><option value="">All categories</option></select>
+    </label>
+    <label class="field">
+      <span>Source</span>
+      <select id="source"><option value="">All sources</option></select>
+    </label>
+    <label class="field">
+      <span>When</span>
+      <select id="when">
+        <option value="30">Next 30 days</option>
+        <option value="1">Today</option>
+        <option value="3">Next 3 days</option>
+        <option value="7">This week</option>
+        <option value="14">Next 2 weeks</option>
+      </select>
+    </label>
+    <button type="button" id="reset" class="reset">Reset</button>
+  </form>
+</div>
+
+<main id="regions" class="wrap regions" aria-live="polite">
+  <p class="loading">Loading events…</p>
+</main>
+
+<footer class="wrap site-footer">
+  <p>
+    Rebuilt every morning from public listings on Eventbrite, Meetup, the Überlingen/Bodensee
+    tourism portal and (when a key is configured) Ticketmaster. Distances are straight-line
+    from each town centre, which is our stand-in for a one hour drive.
+  </p>
+  <p id="source-health" class="source-health"></p>
+</footer>
+
+<script src="assets/app.js" defer></script>
+</body>
+</html>
