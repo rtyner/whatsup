@@ -55,6 +55,10 @@
   "lat": 28.5729581,
   "lon": -81.417376
  },
+ "13630 morris bridge rd, thonotosassa, fl, fl, us": {
+  "lat": 28.0802059,
+  "lon": -82.3326366
+ },
  "13630 morris bridge road, thonotosassa, fl, fl, us": {
   "lat": 28.0802059,
   "lon": -82.3326366
@@ -66,6 +70,10 @@
  "16016 new independence parkway #100, winter garden, fl, fl, us": {
   "lat": 28.4739994,
   "lon": -81.6258145
+ },
+ "1941 west brandon boulevard, brandon, fl, fl, us": {
+  "lat": 27.9376407,
+  "lon": -82.3153255
  },
  "210 bass rd, kissimmee, fl 34746, kissimmee, fl, fl, us": {
   "lat": 28.2903267,
@@ -95,6 +103,10 @@
   "lat": 27.7931266,
   "lon": -82.6712276
  },
+ "24546 u.s. 19, clearwater, fl, fl, us": {
+  "lat": 27.9951273,
+  "lon": -82.7307733
+ },
  "2539 countryside blvd, ste 6, clearwater, fl, fl, us": {
   "lat": 28.014344,
   "lon": -82.73388
@@ -102,6 +114,10 @@
  "2748 63rd terrace n, st petersburg, fl, fl, us": {
   "lat": 27.8300136,
   "lon": -82.6460295
+ },
+ "2807 e south street, orlando, fl, fl, us": {
+  "lat": 28.5387793,
+  "lon": -81.3474959
  },
  "3 phoenix building, 30 s magnolia ave, orlando, fl 32801, orlando, fl, fl, us": {
   "lat": 28.541523,
@@ -115,6 +131,10 @@
   "lat": 27.9682663,
   "lon": -82.5667994
  },
+ "346 w central avenue, winter haven, fl, fl, us": {
+  "lat": 28.0221512,
+  "lon": -81.7307407
+ },
  "36 w. pine st, orlando, fl, fl, us": {
   "lat": 28.5410311,
   "lon": -81.3797625
@@ -126,6 +146,10 @@
  "4110 usf apple drive, tampa, fl, fl, us": {
   "lat": 28.0682675,
   "lon": -82.4077748
+ },
+ "4810 north himes avenue, tampa, fl, fl, us": {
+  "lat": 27.9897764,
+  "lon": -82.5012664
  },
  "500 orange avenue, orlando, fl, fl, us": {
   "lat": 28.5499655,
@@ -207,6 +231,10 @@
   "lat": 47.386101,
   "lon": 9.2800622
  },
+ "bahnhofstraße 2, singen, de": {
+  "lat": 47.7590048,
+  "lon": 8.8407009
+ },
  "bahnhofstraße 23 88662 überlingen, überlingen, germany": {
   "lat": 47.7686909,
   "lon": 9.1509165
@@ -242,6 +270,10 @@
  "christophstr. 2 b 88662 überlingen, überlingen, germany": {
   "lat": 47.7680587,
   "lon": 9.1553829
+ },
+ "crescent lake dr n, st. petersburg, fl, fl, us": {
+  "lat": 27.7865704,
+  "lon": -82.6430875
  },
  "dorfbachstr. 10 88682 salem, salem, germany": {
   "lat": 47.7959176,
@@ -307,6 +339,10 @@
   "lat": 47.3755223,
   "lon": 8.525813
  },
+ "klosterhof 8a, st. gallen, ch": {
+  "lat": 47.4229754,
+  "lon": 9.378186
+ },
  "klosterstr. 2 88662 überlingen, überlingen, germany": {
   "lat": 47.767608,
   "lon": 9.1567004
@@ -326,6 +362,10 @@
  "krummebergstr. 30 88662 überlingen, überlingen, germany": {
   "lat": 47.7675807,
   "lon": 9.1631535
+ },
+ "lake park 17302 dale mabry north, tampa, fl, fl, us": {
+  "lat": 28.1207536,
+  "lon": -82.5104328
  },
  "landungsplatz 14 88662 überlingen, überlingen, germany": {
   "lat": 47.7659707,
@@ -451,6 +491,10 @@
  "technoparkstr. 2, winterthur, ch": {
   "lat": 47.494682,
   "lon": 8.7169278
+ },
+ "tram bürklipl., zürich, zh, zh, ch": {
+  "lat": 47.3577307,
+  "lon": 8.5709742
  },
  "treff: zob überlingen, wiestorstr. 8, überlingen, germany": {
   "lat": 47.7691239,
