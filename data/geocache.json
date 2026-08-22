@@ -55,6 +55,10 @@
   "lat": 28.5729581,
   "lon": -81.417376
  },
+ "13536 s john young pkwy, orlando, fl, fl, us": {
+  "lat": 28.3682842,
+  "lon": -81.4264455
+ },
  "13630 morris bridge rd, thonotosassa, fl, fl, us": {
   "lat": 28.0802059,
   "lon": -82.3326366
@@ -94,6 +98,10 @@
  "213 n mills ave, orlando, fl, fl, us": {
   "lat": 28.5450171,
   "lon": -81.3640578
+ },
+ "2284 gulf to bay blvd, clearwater, fl, fl, us": {
+  "lat": 27.960849,
+  "lon": -82.74277
  },
  "231 central avenue north, saint petersburg, fl, fl, us": {
   "lat": 27.771391,
@@ -219,6 +227,10 @@
   "lat": 47.4302796,
   "lon": 8.5598035
  },
+ "bahnhofplatz, 8001, zurich, ch": {
+  "lat": 47.3770918,
+  "lon": 8.5407934
+ },
  "bahnhofstr. 27 88662 überlingen, überlingen, germany": {
   "lat": 47.7687273,
   "lon": 9.1502396
@@ -263,6 +275,7 @@
   "lat": 47.664237,
   "lon": 9.175504
  },
+ "c.w. bill young va hospital (bay pines), 10000 bay pines blvd, bldg. 20 auditorium, bay pines, fl 33744, bay pines, fl, fl, us": null,
  "christophstr. 2 b 88662 überlingen, ulm, germany": {
   "lat": 47.7674317,
   "lon": 9.1580654
@@ -331,6 +344,10 @@
   "lat": 47.7705994,
   "lon": 9.1404157
  },
+ "interpark focus 38, feldkirch district, at": {
+  "lat": 47.3060633,
+  "lon": 9.6193594
+ },
  "johanniterweg 11 88662 überlingen, überlingen, germany": {
   "lat": 47.7796214,
   "lon": 9.1864857
@@ -366,6 +383,10 @@
  "lake park 17302 dale mabry north, tampa, fl, fl, us": {
   "lat": 28.1207536,
   "lon": -82.5104328
+ },
+ "lakeside village, harden blvd., lakeland, fl, fl, us": {
+  "lat": 28.0020263,
+  "lon": -81.9767752
  },
  "landungsplatz 14 88662 überlingen, überlingen, germany": {
   "lat": 47.7659707,
@@ -464,6 +485,10 @@
   "lat": 47.7654353,
   "lon": 9.1626317
  },
+ "selnaustrasse 2, zürich, zh, zh, ch": {
+  "lat": 47.3698304,
+  "lon": 8.5336387
+ },
  "st. johann str. 15 88662 überlingen, überlingen, germany": {
   "lat": 47.7670622,
   "lon": 9.1676454
@@ -492,6 +517,7 @@
   "lat": 47.494682,
   "lon": 8.7169278
  },
+ "the south end of east bay rd., gibsonton, fl, fl, us": null,
  "tram bürklipl., zürich, zh, zh, ch": {
   "lat": 47.3577307,
   "lon": 8.5709742
