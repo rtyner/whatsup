@@ -51,6 +51,10 @@
   "lat": 28.5360605,
   "lon": -81.3971322
  },
+ "129 n moon ave, brandon, fl, fl, us": {
+  "lat": 27.9391254,
+  "lon": -82.2880968
+ },
  "13500 s john young pkwy, orlando, fl, fl, us": {
   "lat": 28.5729581,
   "lon": -81.417376
@@ -75,6 +79,10 @@
   "lat": 28.4739994,
   "lon": -81.6258145
  },
+ "1700 w fig st, tampa fl, tampa, fl, fl, us": {
+  "lat": 27.9481307,
+  "lon": -82.5190759
+ },
  "1941 west brandon boulevard, brandon, fl, fl, us": {
   "lat": 27.9376407,
   "lon": -82.3153255
@@ -82,6 +90,10 @@
  "210 bass rd, kissimmee, fl 34746, kissimmee, fl, fl, us": {
   "lat": 28.2903267,
   "lon": -81.4575176
+ },
+ "210 e pine st., lakeland, fl, fl, us": {
+  "lat": 28.0459945,
+  "lon": -81.9559933
  },
  "2101 e palm ave, tampa, fl, fl, us": {
   "lat": 27.962351,
@@ -147,6 +159,10 @@
   "lat": 28.5410311,
   "lon": -81.3797625
  },
+ "3800 us highway 98 n, lakeland, fl, fl, us": {
+  "lat": 28.0906367,
+  "lon": -81.9739357
+ },
  "4012 central florida pkwy, orlando, fl, fl, us": {
   "lat": 28.4051596,
   "lon": -81.4294819
@@ -162,6 +178,10 @@
  "500 orange avenue, orlando, fl, fl, us": {
   "lat": 28.5499655,
   "lon": -81.3795344
+ },
+ "521 s park ave, winter park, fl 32789, orlando, fl, fl, us": {
+  "lat": 28.5909004,
+  "lon": -81.3662735
  },
  "6000 universal boulevard, orlando, fl, fl, us": {
   "lat": 28.4768628,
@@ -202,6 +222,10 @@
  "88662 überlingen, überlingen, germany": {
   "lat": 47.796962,
   "lon": 9.1613763
+ },
+ "8967 international drive, orlando, fl, fl, us": {
+  "lat": 28.4346686,
+  "lon": -81.4717826
  },
  "abigstr. 9 a 88662 überlingen, überlingen, germany": {
   "lat": 47.7730402,
@@ -437,6 +461,10 @@
   "lat": 47.7660593,
   "lon": 9.1629382
  },
+ "nora, 899 n orange ave, orlando, fl, fl, us": {
+  "lat": 28.6303692,
+  "lon": -81.3668352
+ },
  "obere bahnhofstr. 28 88662 überlingen, überlingen, germany": {
   "lat": 47.7700423,
   "lon": 9.1423234
@@ -468,6 +496,10 @@
  "rosenhag 6 88662 überlingen, überlingen, germany": {
   "lat": 47.7704312,
   "lon": 9.1813822
+ },
+ "rämistrasse 101, zürich, ch": {
+  "lat": 47.3764545,
+  "lon": 8.5481666
  },
  "schaffhauserstr. 8, winterthur, ch": {
   "lat": 47.5040452,
