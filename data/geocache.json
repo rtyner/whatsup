@@ -55,6 +55,10 @@
   "lat": 27.9391254,
   "lon": -82.2880968
  },
+ "13446 pine gap spur, odessa, fl, fl, us": {
+  "lat": 28.1948856,
+  "lon": -82.5933678
+ },
  "13500 s john young pkwy, orlando, fl, fl, us": {
   "lat": 28.5729581,
   "lon": -81.417376
@@ -179,9 +183,17 @@
   "lat": 28.5499655,
   "lon": -81.3795344
  },
+ "502 w henry ave, tampa, fl, fl, us": {
+  "lat": 27.9996562,
+  "lon": -82.4649938
+ },
  "521 s park ave, winter park, fl 32789, orlando, fl, fl, us": {
   "lat": 28.5909004,
   "lon": -81.3662735
+ },
+ "555 10th avenue south, safety harbor, fl, fl, us": {
+  "lat": 27.9874914,
+  "lon": -82.6987885
  },
  "6000 universal boulevard, orlando, fl, fl, us": {
   "lat": 28.4768628,
@@ -299,6 +311,10 @@
   "lat": 47.664237,
   "lon": 9.175504
  },
+ "bündtstrasse 12, kreuzlingen, ch": {
+  "lat": 47.6422931,
+  "lon": 9.1612624
+ },
  "c.w. bill young va hospital (bay pines), 10000 bay pines blvd, bldg. 20 auditorium, bay pines, fl 33744, bay pines, fl, fl, us": null,
  "christophstr. 2 b 88662 überlingen, ulm, germany": {
   "lat": 47.7674317,
@@ -368,6 +384,7 @@
   "lat": 47.7705994,
   "lon": 9.1404157
  },
+ "hole in the fence trail head is only one-half mile northeast from i-75/fletcher exit on morris bridge road., tampa, fl, fl, us": null,
  "interpark focus 38, feldkirch district, at": {
   "lat": 47.3060633,
   "lon": 9.6193594
@@ -441,6 +458,10 @@
   "lat": 47.3819993,
   "lon": 8.5354777
  },
+ "museumstrasse 6, zürich, ch": {
+  "lat": 47.379528,
+  "lon": 8.540332
+ },
  "mythenquai 9, 8002 zürich, schweiz, zürich, ch": {
   "lat": 47.3616995,
   "lon": 8.5367009
@@ -461,6 +482,10 @@
   "lat": 47.7660593,
   "lon": 9.1629382
  },
+ "neugasse 49, st. gallen, sg, sg, ch": {
+  "lat": 47.4242354,
+  "lon": 9.3745497
+ },
  "nora, 899 n orange ave, orlando, fl, fl, us": {
   "lat": 28.6303692,
   "lon": -81.3668352
@@ -476,6 +501,10 @@
  "obere-st.-leonhard-str. 71 88662 überlingen, überlingen, germany": {
   "lat": 47.7652173,
   "lon": 9.1835156
+ },
+ "orlando orlando, fl, orlando, fl, fl, us": {
+  "lat": 28.4129036,
+  "lon": -81.3094431
  },
  "rangoldshauser str. 39 88662 überlingen, überlingen, germany": {
   "lat": 47.7551024,
