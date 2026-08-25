@@ -7,6 +7,10 @@
   "lat": 27.9449854,
   "lon": -82.4583107
  },
+ ", zürich, ch": {
+  "lat": 47.3744489,
+  "lon": 8.5410422
+ },
  ", überlingen, germany": {
   "lat": 47.7664456,
   "lon": 9.1605106
@@ -63,6 +67,10 @@
   "lat": 28.5729581,
   "lon": -81.417376
  },
+ "13526 village park dr unit 208, orlando, fl, fl, us": {
+  "lat": 28.5697314,
+  "lon": -81.3167814
+ },
  "13536 s john young pkwy, orlando, fl, fl, us": {
   "lat": 28.3682842,
   "lon": -81.4264455
@@ -86,6 +94,10 @@
  "1700 w fig st, tampa fl, tampa, fl, fl, us": {
   "lat": 27.9481307,
   "lon": -82.5190759
+ },
+ "1907 n ola avenue, tampa, fl, fl, us": {
+  "lat": 27.9606601,
+  "lon": -82.4634122
  },
  "1941 west brandon boulevard, brandon, fl, fl, us": {
   "lat": 27.9376407,
@@ -219,6 +231,10 @@
   "lat": 27.9440723,
   "lon": -82.4448796
  },
+ "7467 international drive, orlando, fl, fl, us": {
+  "lat": 28.4537697,
+  "lon": -81.4701783
+ },
  "800 e princeton st,, orlando, fl, fl, us": {
   "lat": 28.5716311,
   "lon": -81.3680683
@@ -331,6 +347,10 @@
  "dorfbachstr. 10 88682 salem, salem, germany": {
   "lat": 47.7959176,
   "lon": 9.2617502
+ },
+ "dr. anton schneider straße 28, dornbirn, at": {
+  "lat": 47.4206976,
+  "lon": 9.7496712
  },
  "eichliwaldstrasse 7,, winterthur, ch": {
   "lat": 47.5189502,
