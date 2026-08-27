@@ -171,6 +171,10 @@
   "lat": 28.014344,
   "lon": -82.73388
  },
+ "263 west central ave, winter haven, fl, fl, us": {
+  "lat": 28.0223332,
+  "lon": -81.7300981
+ },
  "2748 63rd terrace n, st petersburg, fl, fl, us": {
   "lat": 27.8300136,
   "lon": -82.6460295
@@ -203,6 +207,10 @@
  "3800 us highway 98 n, lakeland, fl, fl, us": {
   "lat": 28.0906367,
   "lon": -81.9739357
+ },
+ "39 south magnolia ave., orlando, fl, fl, us": {
+  "lat": 28.5418012,
+  "lon": -81.3773583
  },
  "4012 central florida pkwy, orlando, fl, fl, us": {
   "lat": 28.4051596,
@@ -280,6 +288,10 @@
   "lat": 28.4346686,
   "lon": -81.4717826
  },
+ "9101 international dr, orlando, fl, fl, us": {
+  "lat": 28.4327286,
+  "lon": -81.4704528
+ },
  "abigstr. 9 a 88662 überlingen, überlingen, germany": {
   "lat": 47.7730402,
   "lon": 9.1863958
@@ -307,6 +319,10 @@
  "aufkircher straße / friedhofstraße 88662 überlingen, überlingen, germany": {
   "lat": 47.7697499,
   "lon": 9.1586808
+ },
+ "bahnhofplatz 8, 8152 opfikon, ch, zurich, ch": {
+  "lat": 47.4302796,
+  "lon": 8.5598035
  },
  "bahnhofplatz 8, 8152 opfikon, zurich, ch": {
   "lat": 47.4302796,
@@ -343,6 +359,10 @@
  "bamberger str. 30 88662 überlingen , überlingen , germany": {
   "lat": 47.802105,
   "lon": 9.2233321
+ },
+ "beatengasse 11, 8001 zürich, switzerland, zurich, ch": {
+  "lat": 47.3756621,
+  "lon": 8.540068
  },
  "bodanstraße 20, konstanz, de": {
   "lat": 47.6583293,
