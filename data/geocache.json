@@ -23,6 +23,10 @@
   "lat": 27.8689758,
   "lon": -82.1371408
  },
+ "100 weldon blvd, sanford, fl, fl, us": {
+  "lat": 28.7453809,
+  "lon": -81.3056689
+ },
  "1001 w cass st, tampa, fl, fl, us": {
   "lat": 27.950166,
   "lon": -82.4696408
@@ -196,6 +200,10 @@
   "lat": 27.9682663,
   "lon": -82.5667994
  },
+ "3427 us highway 98 n, lakeland, fl, fl, us": {
+  "lat": 28.0869288,
+  "lon": -81.9722781
+ },
  "346 w central avenue, winter haven, fl, fl, us": {
   "lat": 28.0221512,
   "lon": -81.7307407
@@ -364,6 +372,10 @@
   "lat": 47.3756621,
   "lon": 8.540068
  },
+ "bellerivestrasse 261, zürich, ch": {
+  "lat": 47.352562,
+  "lon": 8.5576948
+ },
  "bodanstraße 20, konstanz, de": {
   "lat": 47.6583293,
   "lon": 9.174026
@@ -401,6 +413,10 @@
   "lat": 47.7959176,
   "lon": 9.2617502
  },
+ "dorfstr. 19 88662 überlingen, überlingen, germany": {
+  "lat": 47.7929435,
+  "lon": 9.1990282
+ },
  "dr. anton schneider straße 28, dornbirn, at": {
   "lat": 47.4206976,
   "lon": 9.7496712
@@ -416,6 +432,10 @@
  "feigentalweg 26 88662 überlingen, überlingen, germany": {
   "lat": 47.775126,
   "lon": 9.1639018
+ },
+ "fischhaus löwenzunft, hofstatt 7 88662 überlingen , überlingen , germany": {
+  "lat": 47.7666592,
+  "lon": 9.1604646
  },
  "franziskanerstr. 20 88662 überlingen, reutlingen, germany": {
   "lat": 47.7680874,
@@ -458,6 +478,10 @@
   "lon": 9.1404157
  },
  "hole in the fence trail head is only one-half mile northeast from i-75/fletcher exit on morris bridge road., tampa, fl, fl, us": null,
+ "im grossriet 1, ch-8606, greifensee, ch": {
+  "lat": 47.3766174,
+  "lon": 8.6722333
+ },
  "interpark focus 38, feldkirch district, at": {
   "lat": 47.3060633,
   "lon": 9.6193594
@@ -506,6 +530,10 @@
   "lat": 47.7659707,
   "lon": 9.1599745
  },
+ "landungsplatz 3 - 5 88662 überlingen, überlingen, germany": {
+  "lat": 47.7662245,
+  "lon": 9.1598866
+ },
  "landungsplatz 3-5 88662 überlingen, überlingen, germany": {
   "lat": 47.7662245,
   "lon": 9.1598866
@@ -538,6 +566,10 @@
  "mythenquai 9, 8002 zürich, schweiz, zürich, ch": {
   "lat": 47.3616995,
   "lon": 8.5367009
+ },
+ "mühlbachstr. 115 88662 überlingen, überlingen, germany": {
+  "lat": 47.7605439,
+  "lon": 9.1871076
  },
  "münsterplatz 5 88662 überlingen, ueberlingen, germany": {
   "lat": 47.7675289,
@@ -652,6 +684,10 @@
   "lon": 8.7169278
  },
  "the south end of east bay rd., gibsonton, fl, fl, us": null,
+ "thurgauerstrasse 36, zurich, ch": {
+  "lat": 47.4139269,
+  "lon": 8.5513782
+ },
  "tram bürklipl., zürich, zh, zh, ch": {
   "lat": 47.3577307,
   "lon": 8.5709742
@@ -692,5 +728,9 @@
  "zum laugele 4 88662 überlingen-nußdorf, überlingen-nußdorf, germany": {
   "lat": 47.7530428,
   "lon": 9.1950439
+ },
+ "zürcherstrasse 3, 8400 winterthur, winterthur, ch": {
+  "lat": 47.4984515,
+  "lon": 8.720845
  }
 }
