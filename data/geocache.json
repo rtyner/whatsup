@@ -63,6 +63,10 @@
   "lat": 27.9530554,
   "lon": -82.7927506
  },
+ "12333 66th st n,, largo, fl, fl, us": {
+  "lat": 27.8891337,
+  "lon": -82.7290122
+ },
  "12403 s orange blossom trl, orlando, fl, fl, us": {
   "lat": 28.5360605,
   "lon": -81.3971322
@@ -98,6 +102,10 @@
  "13630 morris bridge road, thonotosassa, fl, fl, us": {
   "lat": 28.0802059,
   "lon": -82.3326366
+ },
+ "1502 e sligh ave, tampa, fl 33610, riverview, fl, fl, us": {
+  "lat": 28.0106087,
+  "lon": -82.440091
  },
  "16000 state road 471, lakeland, fl, fl, us": {
   "lat": 27.9900718,
@@ -167,6 +175,14 @@
   "lat": 27.7931266,
   "lon": -82.6712276
  },
+ "235 north kentucky avenue, lakeland, fl, fl, us": {
+  "lat": 28.0463094,
+  "lon": -81.9550215
+ },
+ "2415 n orange ave, orlando, fl, fl, us": {
+  "lat": 28.5736768,
+  "lon": -81.3725203
+ },
  "24546 u.s. 19, clearwater, fl, fl, us": {
   "lat": 27.9951273,
   "lon": -82.7307733
@@ -187,6 +203,10 @@
   "lat": 28.5387793,
   "lon": -81.3474959
  },
+ "290 holden ave, orlando, fl, fl, us": {
+  "lat": 28.4944063,
+  "lon": -81.4132886
+ },
  "2907 w bay to bay blvd suite a100, tampa, fl, fl, us": null,
  "3 phoenix building, 30 s magnolia ave, orlando, fl 32801, orlando, fl, fl, us": {
   "lat": 28.541523,
@@ -200,6 +220,10 @@
   "lat": 27.9682663,
   "lon": -82.5667994
  },
+ "340 beach drive northeast, saint petersburg, fl, fl, us": {
+  "lat": 27.7760202,
+  "lon": -82.6322271
+ },
  "3427 us highway 98 n, lakeland, fl, fl, us": {
   "lat": 28.0869288,
   "lon": -81.9722781
@@ -207,6 +231,10 @@
  "346 w central avenue, winter haven, fl, fl, us": {
   "lat": 28.0221512,
   "lon": -81.7307407
+ },
+ "3460 starkey boulevard,, new port richey, fl, fl, us": {
+  "lat": 28.258571,
+  "lon": -82.7028661
  },
  "36 w. pine st, orlando, fl, fl, us": {
   "lat": 28.5410311,
@@ -219,6 +247,10 @@
  "39 south magnolia ave., orlando, fl, fl, us": {
   "lat": 28.5418012,
   "lon": -81.3773583
+ },
+ "3901 tampa bay boulevard, tampa, fl, fl, us": {
+  "lat": 27.9774907,
+  "lon": -82.5077651
  },
  "4012 central florida pkwy, orlando, fl, fl, us": {
   "lat": 28.4051596,
@@ -324,6 +356,10 @@
   "lat": 47.7767939,
   "lon": 9.1590315
  },
+ "aufkircher str. 46 88662 überlingen, überlingen, germany": {
+  "lat": 47.7704379,
+  "lon": 9.1579312
+ },
  "aufkircher straße / friedhofstraße 88662 überlingen, überlingen, germany": {
   "lat": 47.7697499,
   "lon": 9.1586808
@@ -397,6 +433,10 @@
   "lon": 9.1612624
  },
  "c.w. bill young va hospital (bay pines), 10000 bay pines blvd, bldg. 20 auditorium, bay pines, fl 33744, bay pines, fl, fl, us": null,
+ "christophstr. 15 88662 überlingen, überlingen, germany": {
+  "lat": 47.7680531,
+  "lon": 9.1566687
+ },
  "christophstr. 2 b 88662 überlingen, ulm, germany": {
   "lat": 47.7674317,
   "lon": 9.1580654
@@ -449,9 +489,17 @@
   "lat": 47.7680874,
   "lon": 9.1597828
  },
+ "friedhofstrasse 89, zürich, ch": {
+  "lat": 47.3808919,
+  "lon": 8.4774271
+ },
  "geroldstrasse 23, 8005 zürich,, zürich, ch": {
   "lat": 47.3852865,
   "lon": 8.5192736
+ },
+ "goldbach 88662 überlingen, überlingen, germany": {
+  "lat": 47.7746899,
+  "lon": 9.1364829
  },
  "grabenstr. 2 88662 überlingen, überlingen, germany": {
   "lat": 47.7671036,
@@ -477,6 +525,10 @@
   "lat": 47.7705994,
   "lon": 9.1404157
  },
+ "hochbildstr. 8a 88662 überlingen, überlingen, germany": {
+  "lat": 47.7698243,
+  "lon": 9.1659529
+ },
  "hole in the fence trail head is only one-half mile northeast from i-75/fletcher exit on morris bridge road., tampa, fl, fl, us": null,
  "im grossriet 1, ch-8606, greifensee, ch": {
   "lat": 47.3766174,
@@ -501,6 +553,10 @@
  "klosterstr. 2 88662 überlingen, überlingen, germany": {
   "lat": 47.767608,
   "lon": 9.1567004
+ },
+ "kronengasse 1 88662 überlingen, überlingen, germany": {
+  "lat": 47.7666594,
+  "lon": 9.1589801
  },
  "krummebergstr. 30 88662 überlingen, schemmerhofen, germany": {
   "lat": 47.7675807,
@@ -635,6 +691,10 @@
   "lat": 47.3764545,
   "lon": 8.5481666
  },
+ "römerstr. 30 88662 überlingen, überlingen, germany": {
+  "lat": 47.7954279,
+  "lon": 9.1976779
+ },
  "schaffhauserstr. 8, winterthur, ch": {
   "lat": 47.5040452,
   "lon": 8.7255179
@@ -687,6 +747,10 @@
  "thurgauerstrasse 36, zurich, ch": {
   "lat": 47.4139269,
   "lon": 8.5513782
+ },
+ "torstrasse 25, st. gallen, ch": {
+  "lat": 47.4276752,
+  "lon": 9.3772138
  },
  "tram bürklipl., zürich, zh, zh, ch": {
   "lat": 47.3577307,
