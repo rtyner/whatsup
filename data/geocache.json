@@ -131,9 +131,17 @@
   "lat": 27.9606601,
   "lon": -82.4634122
  },
+ "1910 n ola ave, tampa, fl, fl, us": {
+  "lat": 27.9610336,
+  "lon": -82.4637488
+ },
  "1941 west brandon boulevard, brandon, fl, fl, us": {
   "lat": 27.9376407,
   "lon": -82.3153255
+ },
+ "195 n rosalind ave, orlando, fl, fl, us": {
+  "lat": 28.5439391,
+  "lon": -81.3753556
  },
  "210 bass rd, kissimmee, fl 34746, kissimmee, fl, fl, us": {
   "lat": 28.2903267,
@@ -220,6 +228,10 @@
   "lat": 27.9682663,
   "lon": -82.5667994
  },
+ "3336 land o' lakes blvd,, land o lakes, fl, fl, us": {
+  "lat": 28.184712,
+  "lon": -82.4663534
+ },
  "340 beach drive northeast, saint petersburg, fl, fl, us": {
   "lat": 27.7760202,
   "lon": -82.6322271
@@ -239,6 +251,10 @@
  "36 w. pine st, orlando, fl, fl, us": {
   "lat": 28.5410311,
   "lon": -81.3797625
+ },
+ "3600 red bug lake road, casselberry, fl, fl, us": {
+  "lat": 28.6469392,
+  "lon": -81.317771
  },
  "3800 us highway 98 n, lakeland, fl, fl, us": {
   "lat": 28.0906367,
@@ -364,6 +380,10 @@
   "lat": 47.7697499,
   "lon": 9.1586808
  },
+ "badweg 10, 8001 zürich, schweiz, zürich, ch": {
+  "lat": 47.3715541,
+  "lon": 8.5329039
+ },
  "bahnhofplatz 8, 8152 opfikon, ch, zurich, ch": {
   "lat": 47.4302796,
   "lon": 8.5598035
@@ -488,6 +508,10 @@
  "franziskanerstr. 20 88662 überlingen, überlingen, germany": {
   "lat": 47.7680874,
   "lon": 9.1597828
+ },
+ "freieckgasse 9, zurich, ch": {
+  "lat": 47.3674549,
+  "lon": 8.5460609
  },
  "friedhofstrasse 89, zürich, ch": {
   "lat": 47.3808919,
