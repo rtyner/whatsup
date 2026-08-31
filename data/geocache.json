@@ -39,6 +39,10 @@
   "lat": 27.857244,
   "lon": -82.3318392
  },
+ "10575 49th st north,, clearwater, fl, fl, us": {
+  "lat": 27.9017695,
+  "lon": -82.6998421
+ },
  "11 locations in der altstadt, krauchenwies, germany": {
   "lat": 49.7824158,
   "lon": 9.1823086
@@ -103,9 +107,17 @@
   "lat": 28.0802059,
   "lon": -82.3326366
  },
+ "1486 e buena vista dr, lake buena vista, fl 32830, orlando, fl, fl, us": {
+  "lat": 28.3791098,
+  "lon": -81.5062837
+ },
  "1502 e sligh ave, tampa, fl 33610, riverview, fl, fl, us": {
   "lat": 28.0106087,
   "lon": -82.440091
+ },
+ "15402 u.s. 301, thonotosassa, fl, fl, us": {
+  "lat": 28.1479348,
+  "lon": -82.2352487
  },
  "16000 state road 471, lakeland, fl, fl, us": {
   "lat": 27.9900718,
@@ -119,9 +131,17 @@
   "lat": 27.9481307,
   "lon": -82.5190759
  },
+ "1721 w brandon blvd, brandon, fl, fl, us": {
+  "lat": 27.937671,
+  "lon": -82.31078
+ },
  "1776 11th ave n, st. petersburg, fl, fl, us": {
   "lat": 27.7828447,
   "lon": -82.6571958
+ },
+ "1842 winter park rd, orlando, fl, fl, us": {
+  "lat": 28.5689905,
+  "lon": -81.3459981
  },
  "19 north orange avenue, orlando, fl, fl, us": {
   "lat": 28.5424773,
@@ -170,6 +190,10 @@
  "213 n mills ave, orlando, fl, fl, us": {
   "lat": 28.5450171,
   "lon": -81.3640578
+ },
+ "213 s howard ave, tampa, fl, fl, us": {
+  "lat": 27.9430684,
+  "lon": -82.4830832
  },
  "2284 gulf to bay blvd, clearwater, fl, fl, us": {
   "lat": 27.960849,
@@ -272,6 +296,10 @@
   "lat": 28.4051596,
   "lon": -81.4294819
  },
+ "411 mercy dr, orlando, fl, fl, us": {
+  "lat": 28.5491946,
+  "lon": -81.430269
+ },
  "4110 usf apple drive, tampa, fl, fl, us": {
   "lat": 28.0682675,
   "lon": -82.4077748
@@ -295,6 +323,10 @@
  "555 10th avenue south, safety harbor, fl, fl, us": {
   "lat": 27.9874914,
   "lon": -82.6987885
+ },
+ "600 2nd avenue northeast,, saint petersburg, fl, fl, us": {
+  "lat": 27.7735017,
+  "lon": -82.6289034
  },
  "6000 universal boulevard, orlando, fl, fl, us": {
   "lat": 28.4768628,
@@ -383,6 +415,14 @@
  "badweg 10, 8001 zürich, schweiz, zürich, ch": {
   "lat": 47.3715541,
   "lon": 8.5329039
+ },
+ "bahnhofplatz 2, radolfzell, de": {
+  "lat": 47.7361897,
+  "lon": 8.9689062
+ },
+ "bahnhofplatz 45, konstanz, de": {
+  "lat": 47.6587525,
+  "lon": 9.1770324
  },
  "bahnhofplatz 8, 8152 opfikon, ch, zurich, ch": {
   "lat": 47.4302796,
@@ -727,6 +767,10 @@
   "lat": 47.4276256,
   "lon": 9.3774365
  },
+ "seefeldstrasse 219, 8008 zürich, ch": {
+  "lat": 47.3519278,
+  "lon": 8.5608416
+ },
  "seegang zwischen überlingen und ludwigshafen, überlingen, germany": {
   "lat": 47.8283403,
   "lon": 9.0932947
@@ -784,6 +828,7 @@
   "lat": 47.7691239,
   "lon": 9.1628408
  },
+ "treffpunkt: kirche, brülisau dorf 22, 9058, st. gallen, ch": null,
  "turmgasse 8, st. gallen, ch": {
   "lat": 47.4246262,
   "lon": 9.3776353
