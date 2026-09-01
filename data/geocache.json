@@ -35,6 +35,10 @@
   "lat": 28.5638079,
   "lon": -81.3658884
  },
+ "1042 n mills ave, orlando, fl, fl, us": {
+  "lat": 28.5597424,
+  "lon": -81.3645401
+ },
  "10475 gibsonton dr, riverview, fl 33569, riverview, fl, fl, us": {
   "lat": 27.857244,
   "lon": -82.3318392
@@ -58,6 +62,10 @@
  "114 ruby red place, winter garden, fl, fl, us": {
   "lat": 28.5753721,
   "lon": -81.5837187
+ },
+ "1140 gramercy lane ,, tampa, fl, fl, us": {
+  "lat": 27.9533703,
+  "lon": -82.5014974
  },
  "1150 assembly drive, ste 500, tampa, fl 33607, fl, fl, us": {
   "lat": 27.953446,
@@ -332,6 +340,10 @@
   "lat": 28.4768628,
   "lon": -81.4699854
  },
+ "6005 cypress garden blvd, winter haven, fl, fl, us": {
+  "lat": 27.994655,
+  "lon": -81.6927244
+ },
  "6108 winthrop town center avenue, riverview, fl, fl, us": {
   "lat": 27.892645,
   "lon": -82.3166172
@@ -355,6 +367,10 @@
  "7467 international drive, orlando, fl, fl, us": {
   "lat": 28.4537697,
   "lon": -81.4701783
+ },
+ "78462 konstanz, germany, konstanz, de": {
+  "lat": 47.6588689,
+  "lon": 9.1772175
  },
  "800 e princeton st,, orlando, fl, fl, us": {
   "lat": 28.5716311,
@@ -573,6 +589,10 @@
   "lat": 47.4440048,
   "lon": 8.6100512
  },
+ "haldenhofweg 51 88662 überlingen-bonndorf, überlingen-bonndorf, germany": {
+  "lat": 47.8063948,
+  "lon": 9.0919029
+ },
  "hardstrasse 260, 8005 zürich, zürich, ch": {
   "lat": 47.3884868,
   "lon": 8.5206867
@@ -601,6 +621,10 @@
  "interpark focus 38, feldkirch district, at": {
   "lat": 47.3060633,
   "lon": 9.6193594
+ },
+ "jakob-kessenring-str. 38 88662 überlingen, überlingen, germany": {
+  "lat": 47.76645,
+  "lon": 9.1586977
  },
  "johanniterweg 11 88662 überlingen, überlingen, germany": {
   "lat": 47.7796214,
@@ -731,6 +755,10 @@
   "lat": 28.4129036,
   "lon": -81.3094431
  },
+ "pfingstweidestraße 102, zürich, ch": {
+  "lat": 47.3910534,
+  "lon": 8.5099046
+ },
  "rangoldshauser str. 39 88662 überlingen, überlingen, germany": {
   "lat": 47.7551024,
   "lon": 9.1877943
@@ -766,6 +794,10 @@
  "schwertgasse 27, sankt gallen, ch": {
   "lat": 47.4276256,
   "lon": 9.3774365
+ },
+ "seefeldquai 51, zürich, ch": {
+  "lat": 47.358135,
+  "lon": 8.5478933
  },
  "seefeldstrasse 219, 8008 zürich, ch": {
   "lat": 47.3519278,
@@ -803,6 +835,10 @@
   "lat": 47.7590342,
   "lon": 9.1764688
  },
+ "städtle 44, 9490 vaduz, vaduz, li": {
+  "lat": 47.1381367,
+  "lon": 9.5220636
+ },
  "technikumstrasse 8, winterthur, ch": {
   "lat": 47.497884,
   "lon": 8.7316427
@@ -838,6 +874,10 @@
   "lat": 47.4293706,
   "lon": 8.5732358
  },
+ "wfw4+f6 tampa, tampa, fl, fl, us": {
+  "lat": 27.9449854,
+  "lon": -82.4583107
+ },
  "widagasse 11, dornbirn, at": {
   "lat": 47.417923,
   "lon": 9.7468723
@@ -845,6 +885,10 @@
  "wiestorstr. 19 88662 überlingen, meersburg, germany": {
   "lat": 47.7687882,
   "lon": 9.160964
+ },
+ "wilerstrasse 46, gossau, ch": {
+  "lat": 47.4167106,
+  "lon": 9.2398653
  },
  "zollstrasse 80, zürich, zh, zh, ch": {
   "lat": 47.3812984,
