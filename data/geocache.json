@@ -284,6 +284,7 @@
   "lat": 28.5410311,
   "lon": -81.3797625
  },
+ "3600 red bug lake park rd, casselberry, fl, fl, us": null,
  "3600 red bug lake road, casselberry, fl, fl, us": {
   "lat": 28.6469392,
   "lon": -81.317771
@@ -299,6 +300,10 @@
  "3901 tampa bay boulevard, tampa, fl, fl, us": {
   "lat": 27.9774907,
   "lon": -82.5077651
+ },
+ "4001 w. tampa bay blvd., tampa, fl, fl, us": {
+  "lat": 27.9778326,
+  "lon": -82.5095191
  },
  "4012 central florida pkwy, orlando, fl, fl, us": {
   "lat": 28.4051596,
@@ -351,6 +356,10 @@
  "6203 s martindale ave, tampa, fl, fl, us": {
   "lat": 27.8775846,
   "lon": -82.4950762
+ },
+ "64 müllerstrasse, zürich, ch": {
+  "lat": 47.3760618,
+  "lon": 8.5288696
  },
  "6625 florida ave s, lakeland, fl, fl, us": {
   "lat": 28.031225,
@@ -790,6 +799,10 @@
  "schaffhauserstr. 8, winterthur, ch": {
   "lat": 47.5040452,
   "lon": 8.7255179
+ },
+ "schiffbaustrasse 10, zürich, ch": {
+  "lat": 47.3891509,
+  "lon": 8.5177829
  },
  "schwertgasse 27, sankt gallen, ch": {
   "lat": 47.4276256,
