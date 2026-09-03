@@ -87,6 +87,10 @@
   "lat": 27.9391254,
   "lon": -82.2880968
  },
+ "13 locations in der altstadt, krauchenwies, germany": {
+  "lat": 49.7823341,
+  "lon": 9.1823385
+ },
  "1325 4th st n, st. petersburg, fl, fl, us": {
   "lat": 27.7854495,
   "lon": -82.6382665
@@ -329,6 +333,10 @@
   "lat": 27.9996562,
   "lon": -82.4649938
  },
+ "5202 w thonotosassa rd, plant city, fl, fl, us": {
+  "lat": 28.0190539,
+  "lon": -82.1430773
+ },
  "521 s park ave, winter park, fl 32789, orlando, fl, fl, us": {
   "lat": 28.5909004,
   "lon": -81.3662735
@@ -336,6 +344,10 @@
  "555 10th avenue south, safety harbor, fl, fl, us": {
   "lat": 27.9874914,
   "lon": -82.6987885
+ },
+ "5669 park blvd, pinellas park, fl, fl, us": {
+  "lat": 27.8392808,
+  "lon": -82.7111423
  },
  "600 2nd avenue northeast,, saint petersburg, fl, fl, us": {
   "lat": 27.7735017,
@@ -353,6 +365,7 @@
   "lat": 27.892645,
   "lon": -82.3166172
  },
+ "6162 paseo al mar blvd, unit 103, apollo beach, fl, fl, us": null,
  "6203 s martindale ave, tampa, fl, fl, us": {
   "lat": 27.8775846,
   "lon": -82.4950762
@@ -623,6 +636,10 @@
   "lon": 9.1659529
  },
  "hole in the fence trail head is only one-half mile northeast from i-75/fletcher exit on morris bridge road., tampa, fl, fl, us": null,
+ "hüttenkopfstrasse 70, zürich, ch": {
+  "lat": 47.3995277,
+  "lon": 8.5726523
+ },
  "im grossriet 1, ch-8606, greifensee, ch": {
   "lat": 47.3766174,
   "lon": 8.6722333
