@@ -23,6 +23,10 @@
   "lat": 27.8689758,
   "lon": -82.1371408
  },
+ "100 lake morton dr, lakeland, fl 33801, lakeland, fl, fl, us": {
+  "lat": 28.0373799,
+  "lon": -81.9495013
+ },
  "100 weldon blvd, sanford, fl, fl, us": {
   "lat": 28.7453809,
   "lon": -81.3056689
@@ -341,6 +345,10 @@
   "lat": 28.5909004,
   "lon": -81.3662735
  },
+ "526 oakfield dr., brandon, fl, fl, us": {
+  "lat": 27.9338945,
+  "lon": -82.2918344
+ },
  "555 10th avenue south, safety harbor, fl, fl, us": {
   "lat": 27.9874914,
   "lon": -82.6987885
@@ -595,6 +603,10 @@
   "lat": 47.3808919,
   "lon": 8.4774271
  },
+ "general-guisan-strasse 19, winterthur, zh, zh, ch": {
+  "lat": 47.4988958,
+  "lon": 8.7328624
+ },
  "geroldstrasse 23, 8005 zürich,, zürich, ch": {
   "lat": 47.3852865,
   "lon": 8.5192736
@@ -765,6 +777,10 @@
   "lat": 28.6303692,
   "lon": -81.3668352
  },
+ "northpointe pkwy, lutz, fl, fl, us": {
+  "lat": 28.1881192,
+  "lon": -82.5403851
+ },
  "obere bahnhofstr. 28 88662 überlingen, überlingen, germany": {
   "lat": 47.7700423,
   "lon": 9.1423234
@@ -864,6 +880,10 @@
  "strandweg 32 88662 überlingen, überlingen, germany": {
   "lat": 47.7590342,
   "lon": 9.1764688
+ },
+ "strandweg, rapperswil-jona, ch": {
+  "lat": 47.2206921,
+  "lon": 8.8658097
  },
  "städtle 44, 9490 vaduz, vaduz, li": {
   "lat": 47.1381367,
