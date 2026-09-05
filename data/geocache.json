@@ -87,6 +87,10 @@
   "lat": 28.5360605,
   "lon": -81.3971322
  },
+ "12550 morris bridge road, thonotosassa, fl, fl, us": {
+  "lat": 28.0802059,
+  "lon": -82.3326366
+ },
  "129 n moon ave, brandon, fl, fl, us": {
   "lat": 27.9391254,
   "lon": -82.2880968
@@ -325,6 +329,10 @@
   "lat": 28.0682675,
   "lon": -82.4077748
  },
+ "430 n. orlando ave., winter park, fl, fl, us": {
+  "lat": 28.6011556,
+  "lon": -81.3648647
+ },
  "4810 north himes avenue, tampa, fl, fl, us": {
   "lat": 27.9897764,
   "lon": -82.5012664
@@ -348,6 +356,10 @@
  "526 oakfield dr., brandon, fl, fl, us": {
   "lat": 27.9338945,
   "lon": -82.2918344
+ },
+ "550 rantoul lane, lake mary, fl, fl, us": {
+  "lat": 28.773608,
+  "lon": -81.322256
  },
  "555 10th avenue south, safety harbor, fl, fl, us": {
   "lat": 27.9874914,
@@ -398,6 +410,10 @@
   "lat": 28.4537697,
   "lon": -81.4701783
  },
+ "7812 palm parkway, orlando, fl, fl, us": {
+  "lat": 28.3847953,
+  "lon": -81.5038335
+ },
  "78462 konstanz, germany, konstanz, de": {
   "lat": 47.6588689,
   "lon": 9.1772175
@@ -421,6 +437,10 @@
  "8967 international drive, orlando, fl, fl, us": {
   "lat": 28.4346686,
   "lon": -81.4717826
+ },
+ "910 e. granada street, lakeland, fl, fl, us": {
+  "lat": 28.0769159,
+  "lon": -81.946726
  },
  "9101 international dr, orlando, fl, fl, us": {
   "lat": 28.4327286,
@@ -522,6 +542,10 @@
   "lat": 47.6583293,
   "lon": 9.174026
  },
+ "bohl 1, sankt gallen, ch": {
+  "lat": 47.4265343,
+  "lon": 9.3764816
+ },
  "brachenreuthe 88662 überlingen, überlingen, germany": {
   "lat": 47.7973128,
   "lon": 9.1527385
@@ -567,6 +591,10 @@
   "lat": 47.4206976,
   "lon": 9.7496712
  },
+ "dr.-anton-schneider-straße 28b, dornbirn, at": {
+  "lat": 47.4211098,
+  "lon": 9.7489205
+ },
  "eichliwaldstrasse 7,, winterthur, ch": {
   "lat": 47.5189502,
   "lon": 8.715292
@@ -610,6 +638,10 @@
  "geroldstrasse 23, 8005 zürich,, zürich, ch": {
   "lat": 47.3852865,
   "lon": 8.5192736
+ },
+ "gladbachstrasse 119, 8044, zürich, ch": {
+  "lat": 47.3777817,
+  "lon": 8.5587486
  },
  "goldbach 88662 überlingen, überlingen, germany": {
   "lat": 47.7746899,
