@@ -297,6 +297,10 @@
   "lon": -81.3797625
  },
  "3600 red bug lake park rd, casselberry, fl, fl, us": null,
+ "3600 red bug lake rd, casselberry, fl, fl, us": {
+  "lat": 28.6468639,
+  "lon": -81.3226633
+ },
  "3600 red bug lake road, casselberry, fl, fl, us": {
   "lat": 28.6469392,
   "lon": -81.317771
@@ -445,6 +449,10 @@
  "9101 international dr, orlando, fl, fl, us": {
   "lat": 28.4327286,
   "lon": -81.4704528
+ },
+ "950 lake carillon drive, st. petersburg, fl, fl, us": {
+  "lat": 27.8905585,
+  "lon": -82.6656623
  },
  "abigstr. 9 a 88662 überlingen, überlingen, germany": {
   "lat": 47.7730402,
@@ -650,6 +658,10 @@
  "grabenstr. 2 88662 überlingen, überlingen, germany": {
   "lat": 47.7671036,
   "lon": 9.1569728
+ },
+ "grenzstrasse 3, st gallen, ch": {
+  "lat": 47.417806,
+  "lon": 9.3601946
  },
  "grindelstrasse 20, 8303 bassersdorf, switzerland, zurich, ch": {
   "lat": 47.4440048,
