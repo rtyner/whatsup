@@ -183,6 +183,14 @@
   "lat": 28.5439391,
   "lon": -81.3753556
  },
+ "2000 34th st n, st petersburg, fl, fl, us": {
+  "lat": 27.7903789,
+  "lon": -82.6795563
+ },
+ "205 east main street, lakeland, fl, fl, us": {
+  "lat": 28.0440506,
+  "lon": -81.9560336
+ },
  "210 bass rd, kissimmee, fl 34746, kissimmee, fl, fl, us": {
   "lat": 28.2903267,
   "lon": -81.4575176
@@ -246,6 +254,10 @@
  "263 west central ave, winter haven, fl, fl, us": {
   "lat": 28.0223332,
   "lon": -81.7300981
+ },
+ "27001 us highway 19 north #1150, clearwater, fl, fl, us": {
+  "lat": 28.0055743,
+  "lon": -82.7295264
  },
  "2748 63rd terrace n, st petersburg, fl, fl, us": {
   "lat": 27.8300136,
@@ -784,6 +796,10 @@
  "limmatstrasse 50, zürich, ch": {
   "lat": 47.3819993,
   "lon": 8.5354777
+ },
+ "metzgergasse 22, sankt gallen, ch": {
+  "lat": 47.4270585,
+  "lon": 9.375254
  },
  "museumstrasse 6, zürich, ch": {
   "lat": 47.379528,
