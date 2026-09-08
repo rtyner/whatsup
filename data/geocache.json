@@ -75,6 +75,10 @@
   "lat": 27.953446,
   "lon": -82.5041709
  },
+ "120 west pineview street, altamonte springs, fl, fl, us": {
+  "lat": 28.6808169,
+  "lon": -81.371684
+ },
  "1217 ewing ave, clearwater, fl, fl, us": {
   "lat": 27.9530554,
   "lon": -82.7927506
@@ -373,6 +377,10 @@
   "lat": 27.9338945,
   "lon": -82.2918344
  },
+ "5403 w irlo bronson memorial hwy, kissimmee, fl 34746, kissimmee, fl, fl, us": {
+  "lat": 28.3040767,
+  "lon": -81.4598493
+ },
  "550 rantoul lane, lake mary, fl, fl, us": {
   "lat": 28.773608,
   "lon": -81.322256
@@ -462,6 +470,10 @@
   "lat": 28.4327286,
   "lon": -81.4704528
  },
+ "9312 south cr 39, lithia, fl, fl, us": {
+  "lat": 30.2948771,
+  "lon": -86.0560651
+ },
  "950 lake carillon drive, st. petersburg, fl, fl, us": {
   "lat": 27.8905585,
   "lon": -82.6656623
@@ -497,6 +509,10 @@
  "aufkircher straße / friedhofstraße 88662 überlingen, überlingen, germany": {
   "lat": 47.7697499,
   "lon": 9.1586808
+ },
+ "badenerstrasse 109, zürich, zurich, ch": {
+  "lat": 47.3740649,
+  "lon": 8.5246185
  },
  "badweg 10, 8001 zürich, schweiz, zürich, ch": {
   "lat": 47.3715541,
@@ -583,6 +599,10 @@
   "lon": 9.1612624
  },
  "c.w. bill young va hospital (bay pines), 10000 bay pines blvd, bldg. 20 auditorium, bay pines, fl 33744, bay pines, fl, fl, us": null,
+ "café diener, lippertsreuterstraße , überlingen, germany": {
+  "lat": 47.7704123,
+  "lon": 9.172907
+ },
  "christophstr. 15 88662 überlingen, überlingen, germany": {
   "lat": 47.7680531,
   "lon": 9.1566687
@@ -724,6 +744,10 @@
   "lat": 47.7796214,
   "lon": 9.1864857
  },
+ "kanzleistrasse 54, 8004 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3754571,
+  "lon": 8.526444
+ },
  "kanzleistrasse 56, zurich, ch": {
   "lat": 47.3755223,
   "lon": 8.525813
@@ -820,6 +844,10 @@
  "münsterplatz 88662 überlingen, überlingen, germany": {
   "lat": 47.7671861,
   "lon": 9.1610527
+ },
+ "münsterstr. 10 88662 überlingen, überlingen, germany": {
+  "lat": 47.7666421,
+  "lon": 9.1599407
  },
  "münsterstr. 15-17 88662 überlingen, dornhan, germany": {
   "lat": 47.7668552,
@@ -969,6 +997,10 @@
  "tram bürklipl., zürich, zh, zh, ch": {
   "lat": 47.3577307,
   "lon": 8.5709742
+ },
+ "treff: hotel ochsen, münsterstraße, überlingen, germany": {
+  "lat": 47.765859,
+  "lon": 9.162742
  },
  "treff: zob überlingen, wiestorstr. 8, überlingen, germany": {
   "lat": 47.7691239,
