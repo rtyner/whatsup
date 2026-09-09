@@ -35,6 +35,10 @@
   "lat": 27.950166,
   "lon": -82.4696408
  },
+ "1010 virginia dr, orlando, fl, fl, us": {
+  "lat": 28.5638079,
+  "lon": -81.3658884
+ },
  "1010 virginia drive, orlando, fl, fl, us": {
   "lat": 28.5638079,
   "lon": -81.3658884
@@ -71,6 +75,10 @@
   "lat": 27.9533703,
   "lon": -82.5014974
  },
+ "115 w. pine st, lakeland, fl, fl, us": {
+  "lat": 28.0461369,
+  "lon": -81.9582703
+ },
  "1150 assembly drive, ste 500, tampa, fl 33607, fl, fl, us": {
   "lat": 27.953446,
   "lon": -82.5041709
@@ -102,6 +110,10 @@
  "13 locations in der altstadt, krauchenwies, germany": {
   "lat": 49.7823341,
   "lon": 9.1823385
+ },
+ "13090 gandy blvd n, st. petersburg, fl, fl, us": {
+  "lat": 27.8636667,
+  "lon": -82.6279255
  },
  "1325 4th st n, st. petersburg, fl, fl, us": {
   "lat": 27.7854495,
@@ -162,6 +174,10 @@
  "1776 11th ave n, st. petersburg, fl, fl, us": {
   "lat": 27.7828447,
   "lon": -82.6571958
+ },
+ "1800 lake emma rd, longwood, fl, fl, us": {
+  "lat": 28.7191059,
+  "lon": -81.3584285
  },
  "1842 winter park rd, orlando, fl, fl, us": {
   "lat": 28.5689905,
@@ -226,6 +242,10 @@
  "213 s howard ave, tampa, fl, fl, us": {
   "lat": 27.9430684,
   "lon": -82.4830832
+ },
+ "2244 central ave, saint petersburg, fl, fl, us": {
+  "lat": 27.770854,
+  "lon": -82.663946
  },
  "2284 gulf to bay blvd, clearwater, fl, fl, us": {
   "lat": 27.960849,
@@ -349,6 +369,7 @@
   "lat": 28.0682675,
   "lon": -82.4077748
  },
+ "41404 cr 54 zephyrhills, fl 33540, polk city, fl, fl, us": null,
  "430 n. orlando ave., winter park, fl, fl, us": {
   "lat": 28.6011556,
   "lon": -81.3648647
@@ -651,6 +672,10 @@
   "lat": 47.7666592,
   "lon": 9.1604646
  },
+ "franziskanerstr. 20 88662 überlingen, mering, germany": {
+  "lat": 47.7680874,
+  "lon": 9.1597828
+ },
  "franziskanerstr. 20 88662 überlingen, reutlingen, germany": {
   "lat": 47.7680874,
   "lon": 9.1597828
@@ -662,6 +687,10 @@
  "franziskanerstr. 20 88662 überlingen, überlingen, germany": {
   "lat": 47.7680874,
   "lon": 9.1597828
+ },
+ "franziskanerstr. 7 88662 überlingen, überlingen, germany": {
+  "lat": 47.7673789,
+  "lon": 9.1589087
  },
  "freieckgasse 9, zurich, ch": {
   "lat": 47.3674549,
