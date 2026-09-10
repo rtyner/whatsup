@@ -59,6 +59,10 @@
   "lat": 49.7824158,
   "lon": 9.1823086
  },
+ "1108 s orange blossom trl suite a, orlando, fl, fl, us": {
+  "lat": 28.4463853,
+  "lon": -81.3940115
+ },
  "111 2nd ave ne ste 102, st. petersburg, fl, fl, us": {
   "lat": 27.7712264,
   "lon": -82.6340259
@@ -211,6 +215,10 @@
   "lat": 28.0440506,
   "lon": -81.9560336
  },
+ "2079 w town center blvd, orlando, fl, fl, us": {
+  "lat": 28.3825247,
+  "lon": -81.6169922
+ },
  "210 bass rd, kissimmee, fl 34746, kissimmee, fl, fl, us": {
   "lat": 28.2903267,
   "lon": -81.4575176
@@ -301,6 +309,10 @@
   "lon": -81.377631
  },
  "3030 n rocky point drive w, ste 600, tampa, fl, fl, us": {
+  "lat": 27.968658,
+  "lon": -82.5694629
+ },
+ "3030 north rocky point drive west suite 655, tampa, fl, fl, us": {
   "lat": 27.968658,
   "lon": -82.5694629
  },
