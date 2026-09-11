@@ -87,6 +87,10 @@
   "lat": 27.953446,
   "lon": -82.5041709
  },
+ "11595 fountainhead dr, tampa, fl, fl, us": {
+  "lat": 28.8938564,
+  "lon": -81.2714021
+ },
  "120 west pineview street, altamonte springs, fl, fl, us": {
   "lat": 28.6808169,
   "lon": -81.371684
@@ -191,6 +195,10 @@
   "lat": 28.5424773,
   "lon": -81.3789432
  },
+ "1905 n 43rd st, tampa, fl, fl, us": {
+  "lat": 27.9612548,
+  "lon": -82.4099469
+ },
  "1907 n ola avenue, tampa, fl, fl, us": {
   "lat": 27.9606601,
   "lon": -82.4634122
@@ -279,6 +287,10 @@
   "lat": 27.9951273,
   "lon": -82.7307733
  },
+ "249 central ave, st. petersburg, fl, fl, us": {
+  "lat": 27.7712889,
+  "lon": -82.6363037
+ },
  "2539 countryside blvd, ste 6, clearwater, fl, fl, us": {
   "lat": 28.014344,
   "lon": -82.73388
@@ -319,6 +331,10 @@
  "3045 n rocky point dr. e, tampa, fl, fl, us": {
   "lat": 27.9682663,
   "lon": -82.5667994
+ },
+ "3143 florida ave s, lakeland, fl, fl, us": {
+  "lat": 28.0071291,
+  "lon": -81.957094
  },
  "3336 land o' lakes blvd,, land o lakes, fl, fl, us": {
   "lat": 28.184712,
@@ -385,6 +401,10 @@
  "430 n. orlando ave., winter park, fl, fl, us": {
   "lat": 28.6011556,
   "lon": -81.3648647
+ },
+ "4425 s kirkman rd, orlando, fl, fl, us": {
+  "lat": 28.4970705,
+  "lon": -81.458751
  },
  "4810 north himes avenue, tampa, fl, fl, us": {
   "lat": 27.9897764,
@@ -676,6 +696,10 @@
   "lat": 47.5050915,
   "lon": 8.7633357
  },
+ "fallenbrunnen 14, friedrichshafen, bw, bw, de": {
+  "lat": 47.6655173,
+  "lon": 9.4460473
+ },
  "feigentalweg 26 88662 überlingen, überlingen, germany": {
   "lat": 47.775126,
   "lon": 9.1639018
@@ -861,6 +885,10 @@
  "limmatstrasse 50, zürich, ch": {
   "lat": 47.3819993,
   "lon": 8.5354777
+ },
+ "line-eid-straße 6, konstanz, de": {
+  "lat": 47.6732712,
+  "lon": 9.1557312
  },
  "metzgergasse 22, sankt gallen, ch": {
   "lat": 47.4270585,
