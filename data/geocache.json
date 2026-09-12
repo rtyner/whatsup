@@ -259,6 +259,10 @@
   "lat": 27.9430684,
   "lon": -82.4830832
  },
+ "2200 eastlake rd, palm harbor, fl, fl, us": {
+  "lat": 28.062679,
+  "lon": -82.705017
+ },
  "2244 central ave, saint petersburg, fl, fl, us": {
   "lat": 27.770854,
   "lon": -82.663946
@@ -274,6 +278,10 @@
  "2329 28th street n,, saint petersburg, fl, fl, us": {
   "lat": 27.7931266,
   "lon": -82.6712276
+ },
+ "2340 central avenue, st pete, fl, fl, us": {
+  "lat": 27.7707531,
+  "lon": -82.6652787
  },
  "235 north kentucky avenue, lakeland, fl, fl, us": {
   "lat": 28.0463094,
@@ -555,6 +563,10 @@
   "lat": 47.7767939,
   "lon": 9.1590315
  },
+ "aufkircher str. 32 88662 überlingen, überlingen, germany": {
+  "lat": 47.7698718,
+  "lon": 9.1591322
+ },
  "aufkircher str. 46 88662 überlingen, überlingen, germany": {
   "lat": 47.7704379,
   "lon": 9.1579312
@@ -668,6 +680,10 @@
   "lat": 47.7680587,
   "lon": 9.1553829
  },
+ "christophstr. 23 88662 überlingen, überlingen, germany": {
+  "lat": 47.7679869,
+  "lon": 9.1573676
+ },
  "crescent lake dr n, st. petersburg, fl, fl, us": {
   "lat": 27.7865704,
   "lon": -82.6430875
@@ -736,6 +752,7 @@
   "lat": 47.3808919,
   "lon": 8.4774271
  },
+ "g1 raum für kultur, gunzoweg 1 88662 überlingen, überlingen , germany": null,
  "general-guisan-strasse 19, winterthur, zh, zh, ch": {
   "lat": 47.4988958,
   "lon": 8.7328624
@@ -889,6 +906,10 @@
  "line-eid-straße 6, konstanz, de": {
   "lat": 47.6732712,
   "lon": 9.1557312
+ },
+ "m9rg+62 st. petersburg, st. petersburg, fl, fl, us": {
+  "lat": 27.8931599,
+  "lon": -82.6892953
  },
  "metzgergasse 22, sankt gallen, ch": {
   "lat": 47.4270585,
@@ -1045,6 +1066,14 @@
  "städtle 44, 9490 vaduz, vaduz, li": {
   "lat": 47.1381367,
   "lon": 9.5220636
+ },
+ "talstrasse 25, zürich, ch": {
+  "lat": 47.3685252,
+  "lon": 8.5383405
+ },
+ "tarpon springs, fl, tarpon springs, fl, fl, us": {
+  "lat": 28.1340797,
+  "lon": -82.7403135
  },
  "technikumstrasse 8, winterthur, ch": {
   "lat": 47.497884,
