@@ -163,6 +163,10 @@
   "lat": 28.1479348,
   "lon": -82.2352487
  },
+ "1600 crooked can loop, clermont, fl, fl, us": {
+  "lat": 28.6053517,
+  "lon": -81.7228814
+ },
  "16000 state road 471, lakeland, fl, fl, us": {
   "lat": 27.9900718,
   "lon": -81.8906048
@@ -299,6 +303,10 @@
   "lat": 27.7712889,
   "lon": -82.6363037
  },
+ "2501 general rees avenue, orlando, fl, fl, us": {
+  "lat": 28.5709834,
+  "lon": -81.3398087
+ },
  "2539 countryside blvd, ste 6, clearwater, fl, fl, us": {
   "lat": 28.014344,
   "lon": -82.73388
@@ -425,6 +433,10 @@
  "502 w henry ave, tampa, fl, fl, us": {
   "lat": 27.9996562,
   "lon": -82.4649938
+ },
+ "505 water st, tampa, fl, fl, us": {
+  "lat": 27.9409148,
+  "lon": -82.4538716
  },
  "5202 w thonotosassa rd, plant city, fl, fl, us": {
   "lat": 28.0190539,
@@ -974,6 +986,10 @@
  "orlando orlando, fl, orlando, fl, fl, us": {
   "lat": 28.4129036,
   "lon": -81.3094431
+ },
+ "pcqp+6f st. petersburg, st. petersburg, fl, fl, us": {
+  "lat": 27.8931599,
+  "lon": -82.6892953
  },
  "pfingstweidestraße 102, zürich, ch": {
   "lat": 47.3910534,
