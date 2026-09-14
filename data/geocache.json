@@ -191,6 +191,10 @@
   "lat": 28.7191059,
   "lon": -81.3584285
  },
+ "18205 bruce b downs blvd, tampa, fl 33647, usa, tampa, fl, fl, us": {
+  "lat": 28.1330431,
+  "lon": -82.3693101
+ },
  "1842 winter park rd, orlando, fl, fl, us": {
   "lat": 28.5689905,
   "lon": -81.3459981
@@ -422,6 +426,10 @@
   "lat": 28.4970705,
   "lon": -81.458751
  },
+ "450 s orange ave, orlando, fl 32801, usa, orlando, fl, fl, us": {
+  "lat": 28.5375959,
+  "lon": -81.3768257
+ },
  "4810 north himes avenue, tampa, fl, fl, us": {
   "lat": 27.9897764,
   "lon": -82.5012664
@@ -429,6 +437,10 @@
  "500 orange avenue, orlando, fl, fl, us": {
   "lat": 28.5499655,
   "lon": -81.3795344
+ },
+ "501 2nd ave ne, st. petersburg, fl, fl, us": {
+  "lat": 27.7736588,
+  "lon": -82.6297559
  },
  "502 w henry ave, tampa, fl, fl, us": {
   "lat": 27.9996562,
@@ -903,9 +915,17 @@
   "lat": 47.7663973,
   "lon": 9.1592151
  },
+ "langstrasse 84, zürich, ch": {
+  "lat": 47.3777827,
+  "lon": 8.5267545
+ },
  "lerchenfeldstrasse 3, st. gallen, sg, sg, ch": {
   "lat": 47.4639262,
   "lon": 9.0437538
+ },
+ "lerchentalstrasse 15, 9016 st. gallen, switzerland, st. gallen, sg, sg, ch": {
+  "lat": 47.4437659,
+  "lon": 9.4163314
  },
  "lettenstrasse 19, mogelsberg, sg, sg, ch": {
   "lat": 47.3605862,
@@ -922,6 +942,10 @@
  "m9rg+62 st. petersburg, st. petersburg, fl, fl, us": {
   "lat": 27.8931599,
   "lon": -82.6892953
+ },
+ "mcmullen booth and enterprise, clearwater, fl, fl, us": {
+  "lat": 28.012207,
+  "lon": -82.709976
  },
  "metzgergasse 22, sankt gallen, ch": {
   "lat": 47.4270585,
@@ -1010,6 +1034,10 @@
  "restaurant seegarten, seepromenade 7, überlingen, germany": {
   "lat": 47.7662881,
   "lon": 9.1582016
+ },
+ "rolandstrasse 22, zürich, ch": {
+  "lat": 47.379506,
+  "lon": 8.5260401
  },
  "rosenhag 6 88662 überlingen, überlingen, germany": {
   "lat": 47.7704312,
