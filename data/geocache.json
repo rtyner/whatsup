@@ -175,6 +175,10 @@
   "lat": 28.4739994,
   "lon": -81.6258145
  },
+ "1700 oviedo mall blvd. oviedo, fl 32765, oviedo, fl, fl, us": {
+  "lat": 28.6633188,
+  "lon": -81.2371
+ },
  "1700 w fig st, tampa fl, tampa, fl, fl, us": {
   "lat": 27.9481307,
   "lon": -82.5190759
@@ -278,6 +282,10 @@
  "2284 gulf to bay blvd, clearwater, fl, fl, us": {
   "lat": 27.960849,
   "lon": -82.74277
+ },
+ "23 n orange blossom trl, orlando, fl 32805, usa, orlando, fl, fl, us": {
+  "lat": 28.4469087,
+  "lon": -81.3946172
  },
  "231 central avenue north, saint petersburg, fl, fl, us": {
   "lat": 27.771391,
@@ -458,6 +466,10 @@
   "lat": 28.5909004,
   "lon": -81.3662735
  },
+ "522 n. howard avenue, tampa, fl, fl, us": {
+  "lat": 27.9490245,
+  "lon": -82.4840318
+ },
  "526 oakfield dr., brandon, fl, fl, us": {
   "lat": 27.9338945,
   "lon": -82.2918344
@@ -534,6 +546,10 @@
  "810 cypress garden blvd, winter haven, fl, fl, us": {
   "lat": 28.0029259,
   "lon": -81.7168202
+ },
+ "875 1st st s,, winter haven, fl, fl, us": {
+  "lat": 28.0134634,
+  "lon": -81.7271471
  },
  "88662 überlingen , überlingen, germany": {
   "lat": 47.796962,
