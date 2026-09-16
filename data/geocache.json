@@ -71,6 +71,10 @@
   "lat": 28.04761,
   "lon": -82.4260893
  },
+ "1121 n mills ave, orlando, fl, fl, us": {
+  "lat": 28.5611801,
+  "lon": -81.3642625
+ },
  "114 ruby red place, winter garden, fl, fl, us": {
   "lat": 28.5753721,
   "lon": -81.5837187
@@ -634,6 +638,10 @@
  "bahnhofplatz 8, 8152 opfikon, ch, zurich, ch": {
   "lat": 47.4302796,
   "lon": 8.5598035
+ },
+ "bahnhofplatz 8, 8152 opfikon, switzerland, opfikon, ch": {
+  "lat": 47.4310864,
+  "lon": 8.5587164
  },
  "bahnhofplatz 8, 8152 opfikon, zurich, ch": {
   "lat": 47.4302796,
@@ -1205,6 +1213,10 @@
  "zum laugele 4 88662 überlingen-nußdorf, überlingen-nußdorf, germany": {
   "lat": 47.7530428,
   "lon": 9.1950439
+ },
+ "zürcherstrasse 2, 8400 winterthur, switzerland, winterthur, zh, zh, ch": {
+  "lat": 47.4989879,
+  "lon": 8.7229681
  },
  "zürcherstrasse 3, 8400 winterthur, winterthur, ch": {
   "lat": 47.4984515,
