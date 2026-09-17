@@ -115,6 +115,10 @@
   "lat": 28.0802059,
   "lon": -82.3326366
  },
+ "12856 u.s. highway 301 north, thonotosassa, fl, fl, us": {
+  "lat": 28.04652,
+  "lon": -82.73822
+ },
  "129 n moon ave, brandon, fl, fl, us": {
   "lat": 27.9391254,
   "lon": -82.2880968
@@ -413,6 +417,10 @@
   "lat": 27.9774907,
   "lon": -82.5077651
  },
+ "4001 w tampa bay blvd, tampa, fl 33614, usa, tampa, fl, fl, us": {
+  "lat": 27.9778326,
+  "lon": -82.5095191
+ },
  "4001 w. tampa bay blvd., tampa, fl, fl, us": {
   "lat": 27.9778326,
   "lon": -82.5095191
@@ -619,6 +627,10 @@
   "lat": 47.7697499,
   "lon": 9.1586808
  },
+ "ausstellungsstrasse 60, 8005 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3829824,
+  "lon": 8.5357988
+ },
  "badenerstrasse 109, zürich, zurich, ch": {
   "lat": 47.3740649,
   "lon": 8.5246185
@@ -682,6 +694,10 @@
  "beatengasse 11, 8001 zürich, switzerland, zurich, ch": {
   "lat": 47.3756621,
   "lon": 8.540068
+ },
+ "bellerivestrasse 138. ch-8008, zürich, ch": {
+  "lat": 47.3548248,
+  "lon": 8.5517903
  },
  "bellerivestrasse 261, zürich, ch": {
   "lat": 47.352562,
@@ -1176,6 +1192,10 @@
  "turmgasse 8, st. gallen, ch": {
   "lat": 47.4246262,
   "lon": 9.3776353
+ },
+ "unterer graben 25, 8400, winterthur, ch": {
+  "lat": 47.4992183,
+  "lon": 8.7309377
  },
  "verschiedene veranstaltungsräume, überlingen, germany": null,
  "wallisellerstrasse 100, opfikon, ch": {
