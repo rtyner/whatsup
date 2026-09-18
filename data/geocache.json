@@ -482,6 +482,10 @@
   "lat": 27.9490245,
   "lon": -82.4840318
  },
+ "5223 north, orient rd, tampa, fl 33610, usa, tampa, fl, fl, us": {
+  "lat": 27.9936531,
+  "lon": -82.3710451
+ },
  "526 oakfield dr., brandon, fl, fl, us": {
   "lat": 27.9338945,
   "lon": -82.2918344
@@ -638,6 +642,10 @@
  "badweg 10, 8001 zürich, schweiz, zürich, ch": {
   "lat": 47.3715541,
   "lon": 8.5329039
+ },
+ "bahnhofpl. 1, 9000 st. gallen, switzerland, st gallen, ch": {
+  "lat": 47.42299,
+  "lon": 9.3706622
  },
  "bahnhofplatz 2, radolfzell, de": {
   "lat": 47.7361897,
@@ -1091,6 +1099,10 @@
   "lat": 47.7954279,
   "lon": 9.1976779
  },
+ "sankt-georgen-strasse 69, winterthur, ch": {
+  "lat": 47.5023461,
+  "lon": 8.7317762
+ },
  "schaffhauserstr. 8, winterthur, ch": {
   "lat": 47.5040452,
   "lon": 8.7255179
@@ -1241,5 +1253,9 @@
  "zürcherstrasse 3, 8400 winterthur, winterthur, ch": {
   "lat": 47.4984515,
   "lon": 8.720845
+ },
+ "zürich, zürich, ch": {
+  "lat": 47.3744489,
+  "lon": 8.5410422
  }
 }
