@@ -195,6 +195,10 @@
   "lat": 27.937671,
   "lon": -82.31078
  },
+ "17301 rockridge rd, polk city, fl, fl, us": {
+  "lat": 28.18168,
+  "lon": -81.832774
+ },
  "1776 11th ave n, st. petersburg, fl, fl, us": {
   "lat": 27.7828447,
   "lon": -82.6571958
@@ -283,6 +287,10 @@
   "lat": 28.062679,
   "lon": -82.705017
  },
+ "2223 n west shore blvd, 207, tampa, fl, fl, us": {
+  "lat": 27.964542,
+  "lon": -82.5207208
+ },
  "2244 central ave, saint petersburg, fl, fl, us": {
   "lat": 27.770854,
   "lon": -82.663946
@@ -342,6 +350,10 @@
  "2748 63rd terrace n, st petersburg, fl, fl, us": {
   "lat": 27.8300136,
   "lon": -82.6460295
+ },
+ "2800 75th st n, st. petersburg, fl 33710, saint petersburg, fl, fl, us": {
+  "lat": 27.7869282,
+  "lon": -82.729419
  },
  "2807 e south street, orlando, fl, fl, us": {
   "lat": 28.5387793,
@@ -547,6 +559,10 @@
   "lat": 28.4537697,
   "lon": -81.4701783
  },
+ "7637 turkey lake rd, dr phillips, orlando, fl, fl, us": {
+  "lat": 28.4526169,
+  "lon": -81.4766799
+ },
  "7812 palm parkway, orlando, fl, fl, us": {
   "lat": 28.3847953,
   "lon": -81.5038335
@@ -726,6 +742,10 @@
  "brauerstrasse 80, zürich, ch": {
   "lat": 47.3792766,
   "lon": 8.5244888
+ },
+ "braunwald, glarus süd, switzerland, glarus süd, gl, gl, ch": {
+  "lat": 46.9392639,
+  "lon": 8.9984978
  },
  "brückengasse 1b, konstanz, de": {
   "lat": 47.664237,
