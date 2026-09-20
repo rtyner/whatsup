@@ -243,6 +243,10 @@
   "lat": 27.7903789,
   "lon": -82.6795563
  },
+ "2042 carolina ave ne, st. petersburg, fl, fl, us": {
+  "lat": 27.8161213,
+  "lon": -82.5898068
+ },
  "205 east main street, lakeland, fl, fl, us": {
   "lat": 28.0440506,
   "lon": -81.9560336
@@ -380,6 +384,10 @@
   "lat": 27.9682663,
   "lon": -82.5667994
  },
+ "309 w central ave, winter haven, fl, fl, us": {
+  "lat": 28.0225778,
+  "lon": -81.7273209
+ },
  "3143 florida ave s, lakeland, fl, fl, us": {
   "lat": 28.0071291,
   "lon": -81.957094
@@ -403,6 +411,10 @@
  "3460 starkey boulevard,, new port richey, fl, fl, us": {
   "lat": 28.258571,
   "lon": -82.7028661
+ },
+ "35235 u.s, 19 north ,( by alderman road), palm harbor 34684, fl, fl, us": {
+  "lat": 28.0954202,
+  "lon": -82.7394099
  },
  "36 w. pine st, orlando, fl, fl, us": {
   "lat": 28.5410311,
@@ -441,6 +453,7 @@
   "lat": 28.4051596,
   "lon": -81.4294819
  },
+ "4015 bayshore blvd apt 7c, tampa, fl, fl, us": null,
  "411 mercy dr, orlando, fl, fl, us": {
   "lat": 28.5491946,
   "lon": -81.430269
@@ -578,6 +591,10 @@
  "810 cypress garden blvd, winter haven, fl, fl, us": {
   "lat": 28.0029259,
   "lon": -81.7168202
+ },
+ "8256 ulmerton rd.,, largo, fl, fl, us": {
+  "lat": 27.893904,
+  "lon": -82.760071
  },
  "875 1st st s,, winter haven, fl, fl, us": {
   "lat": 28.0134634,
@@ -731,6 +748,10 @@
   "lat": 47.6583293,
   "lon": 9.174026
  },
+ "bodanstraße 20-26, 78462 konstanz-altstadt, germany, konstanz, bw, bw, de": {
+  "lat": 47.6583862,
+  "lon": 9.1731077
+ },
  "bohl 1, sankt gallen, ch": {
   "lat": 47.4265343,
   "lon": 9.3764816
@@ -775,6 +796,10 @@
  "christophstr. 23 88662 überlingen, überlingen, germany": {
   "lat": 47.7679869,
   "lon": 9.1573676
+ },
+ "claridenstrasse 7, zürich, zh, zh, ch": {
+  "lat": 47.2619354,
+  "lon": 8.8564245
  },
  "crescent lake dr n, st. petersburg, fl, fl, us": {
   "lat": 27.7865704,
@@ -999,6 +1024,10 @@
   "lat": 47.3605862,
   "lon": 9.136963
  },
+ "limmatstrasse 183, 8005 zürich, ch": {
+  "lat": 47.3861381,
+  "lon": 8.5291817
+ },
  "limmatstrasse 50, zürich, ch": {
   "lat": 47.3819993,
   "lon": 8.5354777
@@ -1154,6 +1183,10 @@
  "selnaustrasse 2, zürich, zh, zh, ch": {
   "lat": 47.3698304,
   "lon": 8.5336387
+ },
+ "sihlquai 133, 8005 zürich, zürich, ch": {
+  "lat": 47.3849499,
+  "lon": 8.5335795
  },
  "st. johann str. 15 88662 überlingen, überlingen, germany": {
   "lat": 47.7670622,
