@@ -207,6 +207,10 @@
   "lat": 28.7191059,
   "lon": -81.3584285
  },
+ "18038 rockridge road, polk city, fl, fl, us": {
+  "lat": 28.3025229,
+  "lon": -81.9362587
+ },
  "18205 bruce b downs blvd, tampa, fl 33647, usa, tampa, fl, fl, us": {
   "lat": 28.1330431,
   "lon": -82.3693101
@@ -371,6 +375,10 @@
  "3 phoenix building, 30 s magnolia ave, orlando, fl 32801, orlando, fl, fl, us": {
   "lat": 28.541523,
   "lon": -81.377631
+ },
+ "301 w bay dr, largo, fl 33770, usa, largo, fl, fl, us": {
+  "lat": 27.916683,
+  "lon": -82.797928
  },
  "3030 n rocky point drive w, ste 600, tampa, fl, fl, us": {
   "lat": 27.968658,
@@ -825,6 +833,7 @@
   "lat": 47.5189502,
   "lon": 8.715292
  },
+ "entrepreneur collaborative center, 2101 e palm ave, tampa, fl 33605, usa, tampa, fl, fl, us": null,
  "eulachpark, winterthur, ch": {
   "lat": 47.5050915,
   "lon": 8.7633357
@@ -1007,6 +1016,10 @@
  "landungsplatz, anlegestelle 2a 88662 überlingen, überlingen, germany": {
   "lat": 47.7663973,
   "lon": 9.1592151
+ },
+ "langmauerstrasse 7, 8006 zürich, ch": {
+  "lat": 47.3889122,
+  "lon": 8.540974
  },
  "langstrasse 84, zürich, ch": {
   "lat": 47.3777827,
