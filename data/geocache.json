@@ -115,6 +115,10 @@
   "lat": 28.0802059,
   "lon": -82.3326366
  },
+ "12629 morris bridge rd, thonotosassa, fl, fl, us": {
+  "lat": 28.0801036,
+  "lon": -82.3336226
+ },
  "12856 u.s. highway 301 north, thonotosassa, fl, fl, us": {
   "lat": 28.04652,
   "lon": -82.73822
@@ -134,6 +138,10 @@
  "1325 4th st n, st. petersburg, fl, fl, us": {
   "lat": 27.7854495,
   "lon": -82.6382665
+ },
+ "13326 lincoln rd, riverview, fl 33578, usa, riverview, fl, fl, us": {
+  "lat": 27.7968272,
+  "lon": -82.3338421
  },
  "13446 pine gap spur, odessa, fl, fl, us": {
   "lat": 28.1948856,
@@ -744,6 +752,10 @@
   "lat": 47.3756621,
   "lon": 8.540068
  },
+ "beatengasse 11, zürich, zh, zh, ch": {
+  "lat": 47.3756621,
+  "lon": 8.540068
+ },
  "bellerivestrasse 138. ch-8008, zürich, ch": {
   "lat": 47.3548248,
   "lon": 8.5517903
@@ -967,6 +979,10 @@
  "klosterstr. 2 88662 überlingen, überlingen, germany": {
   "lat": 47.767608,
   "lon": 9.1567004
+ },
+ "kreuzlinger straße 19, konstanz, de": {
+  "lat": 47.6571982,
+  "lon": 9.1718524
  },
  "kronengasse 1 88662 überlingen, überlingen, germany": {
   "lat": 47.7666594,
