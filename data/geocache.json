@@ -179,6 +179,10 @@
   "lat": 28.1479348,
   "lon": -82.2352487
  },
+ "1548 e fowler ave, tampa, fl 33612, tampa, fl, fl, us": {
+  "lat": 28.0545889,
+  "lon": -82.4418634
+ },
  "1600 crooked can loop, clermont, fl, fl, us": {
   "lat": 28.6053517,
   "lon": -81.7228814
@@ -298,6 +302,10 @@
  "213 s howard ave, tampa, fl, fl, us": {
   "lat": 27.9430684,
   "lon": -82.4830832
+ },
+ "220 4th st n, st. petersburg, fl 33701, st. petersburg, fl, fl, us": {
+  "lat": 27.7740739,
+  "lon": -82.6386979
  },
  "2200 eastlake rd, palm harbor, fl, fl, us": {
   "lat": 28.062679,
@@ -470,6 +478,7 @@
   "lon": -81.4294819
  },
  "4015 bayshore blvd apt 7c, tampa, fl, fl, us": null,
+ "4100 n alafaya trail suite 167 & 173, orlando, fl, fl, us": null,
  "411 mercy dr, orlando, fl, fl, us": {
   "lat": 28.5491946,
   "lon": -81.430269
@@ -562,6 +571,10 @@
  "6108 winthrop town center avenue, riverview, fl, fl, us": {
   "lat": 27.892645,
   "lon": -82.3166172
+ },
+ "613 mt piney ave ne, st. petersburg, fl, fl, us": {
+  "lat": 27.8390717,
+  "lon": -82.6309246
  },
  "6162 paseo al mar blvd, unit 103, apollo beach, fl, fl, us": null,
  "6203 s martindale ave, tampa, fl, fl, us": {
@@ -792,6 +805,10 @@
   "lat": 47.664237,
   "lon": 9.175504
  },
+ "busbahnhof 1, 78315 radolfzell am bodensee, germany, radolfzell am bodensee, bw, bw, de": {
+  "lat": 47.7372802,
+  "lon": 8.9702755
+ },
  "bündtstrasse 12, kreuzlingen, ch": {
   "lat": 47.6422931,
   "lon": 9.1612624
@@ -927,6 +944,10 @@
   "lat": 47.3884868,
   "lon": 8.5206867
  },
+ "hauptstr. 44 88662 überlingen, überlingen, germany": {
+  "lat": 47.8047037,
+  "lon": 9.2381269
+ },
  "hauptstrasse 42, kreuzlingen, tg, tg, ch": {
   "lat": 47.6505744,
   "lon": 9.1740651
@@ -942,6 +963,10 @@
  "hochbildstr. 8a 88662 überlingen, überlingen, germany": {
   "lat": 47.7698243,
   "lon": 9.1659529
+ },
+ "hofstatt 7 88662 überlingen, überlingen, germany": {
+  "lat": 47.766643,
+  "lon": 9.1604127
  },
  "hole in the fence trail head is only one-half mile northeast from i-75/fletcher exit on morris bridge road., tampa, fl, fl, us": null,
  "hüttenkopfstrasse 70, zürich, ch": {
@@ -1109,6 +1134,10 @@
   "lat": 47.7660593,
   "lon": 9.1629382
  },
+ "münsterstraße 48 88662 überlingen, überlingen, germany": {
+  "lat": 47.765859,
+  "lon": 9.162742
+ },
  "neugasse 49, st. gallen, sg, sg, ch": {
   "lat": 47.4242354,
   "lon": 9.3745497
@@ -1160,6 +1189,10 @@
  "restaurant seegarten, seepromenade 7, überlingen, germany": {
   "lat": 47.7662881,
   "lon": 9.1582016
+ },
+ "reutehöfe 11 a 88662 überlingen, überlingen, germany": {
+  "lat": 47.7817859,
+  "lon": 9.1989677
  },
  "rolandstrasse 22, zürich, ch": {
   "lat": 47.379506,
