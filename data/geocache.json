@@ -131,6 +131,10 @@
   "lat": 49.7823341,
   "lon": 9.1823385
  },
+ "1308 lang ave, orlando, fl 32803, usa, orlando, fl, fl, us": {
+  "lat": 28.5613307,
+  "lon": -81.3591265
+ },
  "13090 gandy blvd n, st. petersburg, fl, fl, us": {
   "lat": 27.8636667,
   "lon": -82.6279255
@@ -1254,6 +1258,10 @@
   "lat": 47.7670622,
   "lon": 9.1676454
  },
+ "st. leonhard-strasse 25, st. gallen, ch": {
+  "lat": 47.4228188,
+  "lon": 9.3721412
+ },
  "steinhausgasse 3 88662 überlingen, überlingen, germany": {
   "lat": 47.7677117,
   "lon": 9.1585296
@@ -1320,6 +1328,10 @@
   "lat": 47.4246262,
   "lon": 9.3776353
  },
+ "universitätstrasse 16, zurich, ch": {
+  "lat": 47.3793567,
+  "lon": 8.5483147
+ },
  "unterer graben 25, 8400, winterthur, ch": {
   "lat": 47.4992183,
   "lon": 8.7309377
@@ -1360,6 +1372,10 @@
  "zum laugele 4 88662 überlingen-nußdorf, überlingen-nußdorf, germany": {
   "lat": 47.7530428,
   "lon": 9.1950439
+ },
+ "zurich airport, the circle 02, kloten, ch": {
+  "lat": 47.4504729,
+  "lon": 8.5652461
  },
  "zürcherstrasse 2, 8400 winterthur, switzerland, winterthur, zh, zh, ch": {
   "lat": 47.4989879,
