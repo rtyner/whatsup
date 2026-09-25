@@ -247,6 +247,10 @@
   "lat": 27.9606601,
   "lon": -82.4634122
  },
+ "191 e pine st, orlando, fl 32801, usa, orlando, fl, fl, us": {
+  "lat": 28.5418459,
+  "lon": -81.3755153
+ },
  "1910 n ola ave, tampa, fl, fl, us": {
   "lat": 27.9610336,
   "lon": -82.4637488
@@ -387,6 +391,10 @@
   "lat": 28.5387793,
   "lon": -81.3474959
  },
+ "2810 corrine dr., orlando, fl, fl, us": {
+  "lat": 28.567739,
+  "lon": -81.347719
+ },
  "290 holden ave, orlando, fl, fl, us": {
   "lat": 28.4944063,
   "lon": -81.4132886
@@ -492,6 +500,10 @@
   "lon": -82.4077748
  },
  "41404 cr 54 zephyrhills, fl 33540, polk city, fl, fl, us": null,
+ "4219 maritime blvd, tampa, fl, fl, us": {
+  "lat": 27.93467,
+  "lon": -82.4378514
+ },
  "430 n. orlando ave., winter park, fl, fl, us": {
   "lat": 28.6011556,
   "lon": -81.3648647
@@ -621,6 +633,10 @@
   "lat": 28.5716311,
   "lon": -81.3680683
  },
+ "800 second ave ne, saint petersburg, fl, fl, us": {
+  "lat": 27.7678138,
+  "lon": -82.6452774
+ },
  "810 cypress garden blvd, winter haven, fl, fl, us": {
   "lat": 28.0029259,
   "lon": -81.7168202
@@ -644,6 +660,10 @@
  "8967 international drive, orlando, fl, fl, us": {
   "lat": 28.4346686,
   "lon": -81.4717826
+ },
+ "901 w platt street, tampa, fl, fl, us": {
+  "lat": 27.9419379,
+  "lon": -82.4687706
  },
  "910 e. granada street, lakeland, fl, fl, us": {
   "lat": 28.0769159,
@@ -865,6 +885,10 @@
  "eichliwaldstrasse 7,, winterthur, ch": {
   "lat": 47.5189502,
   "lon": 8.715292
+ },
+ "eisgasse 6, zürich, ch": {
+  "lat": 47.3777842,
+  "lon": 8.5315729
  },
  "entrepreneur collaborative center, 2101 e palm ave, tampa, fl 33605, usa, tampa, fl, fl, us": null,
  "eulachpark, winterthur, ch": {
@@ -1373,6 +1397,7 @@
   "lat": 47.7530428,
   "lon": 9.1950439
  },
+ "zunftsaal, blue monkey, zunfthaus zur schneidern. stüssihofstatt 3 - 8001 zürich, switzerland, zürich, ch": null,
  "zurich airport, the circle 02, kloten, ch": {
   "lat": 47.4504729,
   "lon": 8.5652461
