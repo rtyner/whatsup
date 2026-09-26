@@ -171,6 +171,10 @@
   "lat": 28.0802059,
   "lon": -82.3326366
  },
+ "13701 s john young pkwy, orlando, fl, fl, us": {
+  "lat": 28.5729581,
+  "lon": -81.417376
+ },
  "1486 e buena vista dr, lake buena vista, fl 32830, orlando, fl, fl, us": {
   "lat": 28.3791098,
   "lon": -81.5062837
@@ -944,6 +948,10 @@
   "lat": 47.3852865,
   "lon": 8.5192736
  },
+ "gessnerallee 3-5 8001 zürich, zurich, ch": {
+  "lat": 47.3733055,
+  "lon": 8.5329349
+ },
  "gladbachstrasse 119, 8044, zürich, ch": {
   "lat": 47.3777817,
   "lon": 8.5587486
@@ -967,6 +975,10 @@
  "haldenhofweg 51 88662 überlingen-bonndorf, überlingen-bonndorf, germany": {
   "lat": 47.8063948,
   "lon": 9.0919029
+ },
+ "hardstrasse 260, 8005 zürich, ch": {
+  "lat": 47.3884868,
+  "lon": 8.5206867
  },
  "hardstrasse 260, 8005 zürich, zürich, ch": {
   "lat": 47.3884868,
