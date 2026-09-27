@@ -143,6 +143,10 @@
   "lat": 27.7854495,
   "lon": -82.6382665
  },
+ "1325 lee rd, orlando, fl 32810, usa, orlando, fl, fl, us": {
+  "lat": 28.6015972,
+  "lon": -81.4087827
+ },
  "13326 lincoln rd, riverview, fl 33578, usa, riverview, fl, fl, us": {
   "lat": 27.7968272,
   "lon": -82.3338421
@@ -494,6 +498,10 @@
   "lon": -81.4294819
  },
  "4015 bayshore blvd apt 7c, tampa, fl, fl, us": null,
+ "410 ollie ave, winter park, fl, fl, us": {
+  "lat": 28.5945171,
+  "lon": -81.3451575
+ },
  "4100 n alafaya trail suite 167 & 173, orlando, fl, fl, us": null,
  "411 mercy dr, orlando, fl, fl, us": {
   "lat": 28.5491946,
@@ -677,6 +685,10 @@
   "lat": 28.4327286,
   "lon": -81.4704528
  },
+ "9256 county rd 39, plant city, fl, fl, us": {
+  "lat": 28.0326741,
+  "lon": -82.0560382
+ },
  "9312 south cr 39, lithia, fl, fl, us": {
   "lat": 30.2948771,
   "lon": -86.0560651
@@ -684,6 +696,10 @@
  "950 lake carillon drive, st. petersburg, fl, fl, us": {
   "lat": 27.8905585,
   "lon": -82.6656623
+ },
+ "975 west fairbanks avenue, orlando, fl, fl, us": {
+  "lat": 28.5858619,
+  "lon": -81.3740422
  },
  "abigstr. 9 a 88662 überlingen, überlingen, germany": {
   "lat": 47.7730402,
@@ -1017,6 +1033,7 @@
   "lat": 47.3766174,
   "lon": 8.6722333
  },
+ "inselgasse 30, 78462 konstanz, next to the stairs, konstanz, de": null,
  "interpark focus 38, feldkirch district, at": {
   "lat": 47.3060633,
   "lon": 9.6193594
@@ -1329,6 +1346,10 @@
  "tarpon springs, fl, tarpon springs, fl, fl, us": {
   "lat": 28.1340797,
   "lon": -82.7403135
+ },
+ "tbd, meersburg, de": {
+  "lat": 47.6955538,
+  "lon": 9.2719656
  },
  "technikumstrasse 8, winterthur, ch": {
   "lat": 47.497884,
