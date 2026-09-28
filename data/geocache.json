@@ -31,6 +31,10 @@
   "lat": 28.7453809,
   "lon": -81.3056689
  },
+ "1000 holt ave, winter park, fl 32789, usa, winter park, fl, fl, us": {
+  "lat": 28.5925815,
+  "lon": -81.3483095
+ },
  "1001 w cass st, tampa, fl, fl, us": {
   "lat": 27.950166,
   "lon": -82.4696408
@@ -187,6 +191,10 @@
   "lat": 28.0106087,
   "lon": -82.440091
  },
+ "153 sugar belle drive ,, winter garden, fl, fl, us": {
+  "lat": 28.3799893,
+  "lon": -81.6174722
+ },
  "15402 u.s. 301, thonotosassa, fl, fl, us": {
   "lat": 28.1479348,
   "lon": -82.2352487
@@ -226,6 +234,10 @@
  "1776 11th ave n, st. petersburg, fl, fl, us": {
   "lat": 27.7828447,
   "lon": -82.6571958
+ },
+ "1789 fairview shores dr, orlando, fl, fl, us": {
+  "lat": 28.6004306,
+  "lon": -81.4075469
  },
  "1800 lake emma rd, longwood, fl, fl, us": {
   "lat": 28.7191059,
@@ -492,6 +504,10 @@
  "4001 w. tampa bay blvd., tampa, fl, fl, us": {
   "lat": 27.9778326,
   "lon": -82.5095191
+ },
+ "4006 florida avenue south, 33813, lakeland, fl, fl, us": {
+  "lat": 27.9887213,
+  "lon": -81.9566428
  },
  "4012 central florida pkwy, orlando, fl, fl, us": {
   "lat": 28.4051596,
