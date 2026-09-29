@@ -99,6 +99,10 @@
   "lat": 28.8938564,
   "lon": -81.2714021
  },
+ "11724 n dale mabry hwy, tampa, fl 33618, usa, tampa, fl, fl, us": {
+  "lat": 27.94924,
+  "lon": -82.50494
+ },
  "120 west pineview street, altamonte springs, fl, fl, us": {
   "lat": 28.6808169,
   "lon": -81.371684
@@ -391,6 +395,10 @@
   "lat": 28.014344,
   "lon": -82.73388
  },
+ "255 s orange ave ste 1800, orlando, fl, fl, us": {
+  "lat": 28.5678444,
+  "lon": -81.3730693
+ },
  "263 west central ave, winter haven, fl, fl, us": {
   "lat": 28.0223332,
   "lon": -81.7300981
@@ -414,6 +422,10 @@
  "2810 corrine dr., orlando, fl, fl, us": {
   "lat": 28.567739,
   "lon": -81.347719
+ },
+ "2810 lakeland highlands rd, lakeland, fl 33803, usa, lakeland, fl, fl, us": {
+  "lat": 27.9546072,
+  "lon": -81.9460587
  },
  "290 holden ave, orlando, fl, fl, us": {
   "lat": 28.4944063,
@@ -447,6 +459,10 @@
  "3143 florida ave s, lakeland, fl, fl, us": {
   "lat": 28.0071291,
   "lon": -81.957094
+ },
+ "3231 edgewater drive, orlando, fl, fl, us": {
+  "lat": 28.5803326,
+  "lon": -81.389487
  },
  "3336 land o' lakes blvd,, land o lakes, fl, fl, us": {
   "lat": 28.184712,
@@ -528,6 +544,10 @@
   "lon": -82.4077748
  },
  "41404 cr 54 zephyrhills, fl 33540, polk city, fl, fl, us": null,
+ "4202 e fowler ave, tampa, fl 33620, usa, tampa, fl, fl, us": {
+  "lat": 28.0599999,
+  "lon": -82.4138362
+ },
  "4219 maritime blvd, tampa, fl, fl, us": {
   "lat": 27.93467,
   "lon": -82.4378514
@@ -587,6 +607,10 @@
  "5403 w irlo bronson memorial hwy, kissimmee, fl 34746, kissimmee, fl, fl, us": {
   "lat": 28.3040767,
   "lon": -81.4598493
+ },
+ "5421 international dr, orlando, fl 32819, usa, orlando, fl, fl, us": {
+  "lat": 28.4484122,
+  "lon": -81.4715719
  },
  "550 rantoul lane, lake mary, fl, fl, us": {
   "lat": 28.773608,
@@ -1040,6 +1064,10 @@
   "lat": 47.766643,
   "lon": 9.1604127
  },
+ "hofstatt und münsterplatz 88662 überlingen, überlingen, germany": {
+  "lat": 47.7669457,
+  "lon": 9.1603667
+ },
  "hole in the fence trail head is only one-half mile northeast from i-75/fletcher exit on morris bridge road., tampa, fl, fl, us": null,
  "hüttenkopfstrasse 70, zürich, ch": {
   "lat": 47.3995277,
@@ -1307,6 +1335,10 @@
   "lat": 47.3519278,
   "lon": 8.5608416
  },
+ "seefeldstrasse 233, 8008 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3511399,
+  "lon": 8.5614537
+ },
  "seegang zwischen überlingen und ludwigshafen, überlingen, germany": {
   "lat": 47.8283403,
   "lon": 9.0932947
@@ -1354,6 +1386,10 @@
  "städtle 44, 9490 vaduz, vaduz, li": {
   "lat": 47.1381367,
   "lon": 9.5220636
+ },
+ "talstrasse 25, 8001 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3685252,
+  "lon": 8.5383405
  },
  "talstrasse 25, zürich, ch": {
   "lat": 47.3685252,
