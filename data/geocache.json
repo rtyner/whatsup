@@ -67,6 +67,10 @@
   "lat": 28.4463853,
   "lon": -81.3940115
  },
+ "111 2nd ave ne ste 102, st. petersburg, fl 33701, usa, st. petersburg, fl, fl, us": {
+  "lat": 27.7746331,
+  "lon": -82.6335952
+ },
  "111 2nd ave ne ste 102, st. petersburg, fl, fl, us": {
   "lat": 27.7712264,
   "lon": -82.6340259
@@ -1028,6 +1032,10 @@
   "lat": 47.4440048,
   "lon": 8.6100512
  },
+ "hafenstr. 1a 88662 überlingen, überlingen, germany": {
+  "lat": 47.7656056,
+  "lon": 9.1628234
+ },
  "haldenhofweg 51 88662 überlingen-bonndorf, überlingen-bonndorf, germany": {
   "lat": 47.8063948,
   "lon": 9.0919029
@@ -1262,6 +1270,10 @@
  "obere-st.-leonhard-str. 71 88662 überlingen, überlingen, germany": {
   "lat": 47.7652173,
   "lon": 9.1835156
+ },
+ "oberseestrasse 10, postfach 1475, 8640 rapperswil-jona, switzerland, rapperswil-jona, sg, sg, ch": {
+  "lat": 47.2241734,
+  "lon": 8.8164597
  },
  "orlando orlando, fl, orlando, fl, fl, us": {
   "lat": 28.4129036,
