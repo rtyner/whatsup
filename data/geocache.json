@@ -825,6 +825,10 @@
   "lat": 47.7687273,
   "lon": 9.1502396
  },
+ "bahnhofstr. 57 88662 überlingen, überlingen, germany": {
+  "lat": 47.7713667,
+  "lon": 9.1369047
+ },
  "bahnhofstrasse 19, st. gallen, sg, sg, ch": {
   "lat": 47.4248066,
   "lon": 9.3717332
@@ -856,6 +860,10 @@
  "beatengasse 11, zürich, zh, zh, ch": {
   "lat": 47.3756621,
   "lon": 8.540068
+ },
+ "beethovenstrasse 20, 8002 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3664809,
+  "lon": 8.5367895
  },
  "bellerivestrasse 138. ch-8008, zürich, ch": {
   "lat": 47.3548248,
@@ -1048,6 +1056,10 @@
   "lat": 47.3884868,
   "lon": 8.5206867
  },
+ "hardstrasse 260, zürich, ch": {
+  "lat": 47.3884868,
+  "lon": 8.5206867
+ },
  "hauptstr. 44 88662 überlingen, überlingen, germany": {
   "lat": 47.8047037,
   "lon": 9.2381269
@@ -1080,6 +1092,10 @@
  "hüttenkopfstrasse 70, zürich, ch": {
   "lat": 47.3995277,
   "lon": 8.5726523
+ },
+ "im grossriet 1, ch-8606 greifensee, zürich, ch": {
+  "lat": 47.3767222,
+  "lon": 8.672023
  },
  "im grossriet 1, ch-8606, greifensee, ch": {
   "lat": 47.3766174,
@@ -1239,6 +1255,10 @@
   "lat": 47.7668552,
   "lon": 9.1605433
  },
+ "münsterstr. 48 88662 überlingen, überlingen, germany": {
+  "lat": 47.765859,
+  "lon": 9.162742
+ },
  "münsterstr. 55 88662 überlingen, überlingen, germany": {
   "lat": 47.7660593,
   "lon": 9.1629382
@@ -1298,6 +1318,10 @@
  "rengoldshauser str. 20 88662 überlingen, überlingen, germany": {
   "lat": 47.7728748,
   "lon": 9.1994158
+ },
+ "rengoldshauser str. 29 88662 überlingen, überlingen, germany": {
+  "lat": 47.7709993,
+  "lon": 9.2027949
  },
  "restaurant seegarten, seepromenade 7, überlingen, germany": {
   "lat": 47.7662881,
@@ -1510,5 +1534,9 @@
  "zürich, zürich, ch": {
   "lat": 47.3744489,
   "lon": 8.5410422
+ },
+ "zürichbergstrasse 71, 8044 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3761578,
+  "lon": 8.5593909
  }
 }
