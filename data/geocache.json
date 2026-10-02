@@ -207,6 +207,10 @@
   "lat": 28.1479348,
   "lon": -82.2352487
  },
+ "15402 us-301, thonotosassa, fl 33592, usa, thonotosassa, fl, fl, us": {
+  "lat": 28.1479348,
+  "lon": -82.2352487
+ },
  "1548 e fowler ave, tampa, fl 33612, tampa, fl, fl, us": {
   "lat": 28.0545889,
   "lon": -82.4418634
@@ -290,6 +294,10 @@
  "195 n rosalind ave, orlando, fl, fl, us": {
   "lat": 28.5439391,
   "lon": -81.3753556
+ },
+ "200 n park ave,, winter park, fl, fl, us": {
+  "lat": 28.598801,
+  "lon": -81.350963
  },
  "2000 34th st n, st petersburg, fl, fl, us": {
   "lat": 27.7903789,
@@ -1052,6 +1060,10 @@
   "lat": 47.3884868,
   "lon": 8.5206867
  },
+ "hardstrasse 260, 8005 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3884988,
+  "lon": 8.5207754
+ },
  "hardstrasse 260, 8005 zürich, zürich, ch": {
   "lat": 47.3884868,
   "lon": 8.5206867
@@ -1157,6 +1169,10 @@
  "lake park 17302 dale mabry north, tampa, fl, fl, us": {
   "lat": 28.1207536,
   "lon": -82.5104328
+ },
+ "lakeland historic downtown district lakeland, florida, lakeland, fl, fl, us": {
+  "lat": 28.0452806,
+  "lon": -81.9586756
  },
  "lakeside village, harden blvd., lakeland, fl, fl, us": {
   "lat": 28.0020263,
@@ -1406,6 +1422,10 @@
  "steinstrasse 21, 8003 zürich, ch": {
   "lat": 47.3680911,
   "lon": 8.5200386
+ },
+ "stockerstrasse 61, 8002 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3693012,
+  "lon": 8.5337356
  },
  "stockerstrasse 61, zürich, ch": {
   "lat": 47.3693012,
