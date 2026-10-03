@@ -99,6 +99,10 @@
   "lat": 27.953446,
   "lon": -82.5041709
  },
+ "1151 tower blvd, lake wales, fl 33853, lake wales, fl, fl, us": {
+  "lat": 27.9378695,
+  "lon": -81.5760485
+ },
  "11595 fountainhead dr, tampa, fl, fl, us": {
   "lat": 28.8938564,
   "lon": -81.2714021
@@ -576,6 +580,10 @@
   "lat": 28.5375959,
   "lon": -81.3768257
  },
+ "4610 pet ln ste 105, lutz, fl, fl, us": {
+  "lat": 28.2230224,
+  "lon": -82.3788919
+ },
  "4810 north himes avenue, tampa, fl, fl, us": {
   "lat": 27.9897764,
   "lon": -82.5012664
@@ -591,6 +599,10 @@
  "502 w henry ave, tampa, fl, fl, us": {
   "lat": 27.9996562,
   "lon": -82.4649938
+ },
+ "505 e mccormick in apopka, fl 32703, orlando, fl, fl, us": {
+  "lat": 28.6740086,
+  "lon": -81.4608882
  },
  "505 water st, tampa, fl, fl, us": {
   "lat": 27.9409148,
@@ -764,6 +776,10 @@
  "albisriederstrasse 253, zürich, zh, zh, ch": {
   "lat": 47.3780883,
   "lon": 8.494011
+ },
+ "albisstrasse 103, 8038, zurich, ch": {
+  "lat": 47.3390791,
+  "lon": 8.5302916
  },
  "an verschiedenen orten in der stadt, überlingen, germany": {
   "lat": 47.7629947,
@@ -986,6 +1002,10 @@
  "fischhaus löwenzunft, hofstatt 7 88662 überlingen , überlingen , germany": {
   "lat": 47.7666592,
   "lon": 9.1604646
+ },
+ "foodlab, universitätstrasse 6, zurich, ch": {
+  "lat": 47.3830482,
+  "lon": 8.5482648
  },
  "franziskanerstr. 20 88662 überlingen, mering, germany": {
   "lat": 47.7680874,
@@ -1214,6 +1234,10 @@
  "lerchentalstrasse 15, 9016 st. gallen, switzerland, st. gallen, sg, sg, ch": {
   "lat": 47.4437659,
   "lon": 9.4163314
+ },
+ "lettenstrasse 16/18, 9008 st. gallen, switzerland, st. gallen, ch": {
+  "lat": 47.4417151,
+  "lon": 9.3964482
  },
  "lettenstrasse 19, mogelsberg, sg, sg, ch": {
   "lat": 47.3605862,
