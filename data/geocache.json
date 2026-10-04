@@ -63,6 +63,10 @@
   "lat": 49.7824158,
   "lon": 9.1823086
  },
+ "1101 country club way s, st. petersburg, fl 33705, usa, st. petersburg, fl, fl, us": {
+  "lat": 27.7246791,
+  "lon": -82.6505381
+ },
  "1108 s orange blossom trl suite a, orlando, fl, fl, us": {
   "lat": 28.4463853,
   "lon": -81.3940115
@@ -423,6 +427,10 @@
   "lat": 28.0055743,
   "lon": -82.7295264
  },
+ "2702 east fowler ave., tampa, fl, fl, us": {
+  "lat": 28.0550307,
+  "lon": -82.4291478
+ },
  "2748 63rd terrace n, st petersburg, fl, fl, us": {
   "lat": 27.8300136,
   "lon": -82.6460295
@@ -704,6 +712,10 @@
  "78462 konstanz, germany, konstanz, de": {
   "lat": 47.6588689,
   "lon": 9.1772175
+ },
+ "7911 n 30th st, tampa, fl, fl, us": {
+  "lat": 28.0194877,
+  "lon": -82.4263008
  },
  "800 e princeton st,, orlando, fl, fl, us": {
   "lat": 28.5716311,
@@ -1064,6 +1076,10 @@
   "lat": 47.417806,
   "lon": 9.3601946
  },
+ "grindelstrasse 20, 8303 bassersdorf, switzerland, bassersdorf, zh, zh, ch": {
+  "lat": 47.4440048,
+  "lon": 8.6100512
+ },
  "grindelstrasse 20, 8303 bassersdorf, switzerland, zurich, ch": {
   "lat": 47.4440048,
   "lon": 8.6100512
@@ -1132,6 +1148,10 @@
  "im grossriet 1, ch-8606, greifensee, ch": {
   "lat": 47.3766174,
   "lon": 8.6722333
+ },
+ "im hölderli 9, 8405 winterthur, winterthur, ch": {
+  "lat": 47.4925519,
+  "lon": 8.7607837
  },
  "inselgasse 30, 78462 konstanz, next to the stairs, konstanz, de": null,
  "interpark focus 38, feldkirch district, at": {
@@ -1394,6 +1414,10 @@
  "schaffhauserstr. 8, winterthur, ch": {
   "lat": 47.5040452,
   "lon": 8.7255179
+ },
+ "schiffbaustrasse 10, 8005 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3891586,
+  "lon": 8.5176846
  },
  "schiffbaustrasse 10, zürich, ch": {
   "lat": 47.3891509,
