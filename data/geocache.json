@@ -339,6 +339,10 @@
   "lat": 28.0459945,
   "lon": -81.9559933
  },
+ "210 s kings ave # j, brandon, fl 33511, usa, brandon, fl, fl, us": {
+  "lat": 27.8980686,
+  "lon": -82.3001554
+ },
  "2101 e palm ave, tampa, fl, fl, us": {
   "lat": 27.962351,
   "lon": -82.43538
@@ -426,6 +430,10 @@
  "2539 countryside blvd, ste 6, clearwater, fl, fl, us": {
   "lat": 28.014344,
   "lon": -82.73388
+ },
+ "255 s orange ave ste 1800, orlando, fl 32801, usa, orlando, fl, fl, us": {
+  "lat": 28.5375959,
+  "lon": -81.3768257
  },
  "255 s orange ave ste 1800, orlando, fl, fl, us": {
   "lat": 28.5678444,
@@ -709,6 +717,10 @@
   "lat": 27.8406292,
   "lon": -82.642466
  },
+ "699 cypress gardens boulevard, winter haven, fl, fl, us": {
+  "lat": 27.9801848,
+  "lon": -81.6699393
+ },
  "701 channelside drive, tampa, fl, fl, us": {
   "lat": 27.9440723,
   "lon": -82.4448796
@@ -752,6 +764,10 @@
  "875 1st st s,, winter haven, fl, fl, us": {
   "lat": 28.0134634,
   "lon": -81.7271471
+ },
+ "883 w bay dr, largo, fl 33770, usa, largo, fl, fl, us": {
+  "lat": 27.916683,
+  "lon": -82.797928
  },
  "88662 überlingen , überlingen, germany": {
   "lat": 47.796962,
@@ -1194,6 +1210,10 @@
   "lat": 47.3755223,
   "lon": 8.525813
  },
+ "kirchstraße 4, 88709 meersburg, meersburg, de": {
+  "lat": 47.6950797,
+  "lon": 9.2721659
+ },
  "klosterhof 8a, st. gallen, ch": {
   "lat": 47.4229754,
   "lon": 9.378186
@@ -1330,6 +1350,10 @@
  "münsterstr. 10 88662 überlingen, überlingen, germany": {
   "lat": 47.7666421,
   "lon": 9.1599407
+ },
+ "münsterstr. 15 - 17 88662 überlingen, überlingen, germany": {
+  "lat": 47.7657899,
+  "lon": 9.1631058
  },
  "münsterstr. 15-17 88662 überlingen, dornhan, germany": {
   "lat": 47.7668552,
