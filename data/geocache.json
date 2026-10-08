@@ -271,6 +271,10 @@
   "lat": 28.7191059,
   "lon": -81.3584285
  },
+ "1802 sinclair hills road, lutz, fl, fl, us": {
+  "lat": 28.0911957,
+  "lon": -82.4482916
+ },
  "18038 rockridge road, polk city, fl, fl, us": {
   "lat": 28.3025229,
   "lon": -81.9362587
@@ -511,6 +515,10 @@
  "3231 edgewater drive, orlando, fl, fl, us": {
   "lat": 28.5803326,
   "lon": -81.389487
+ },
+ "330 old bartow eagle lake rd, bartow, fl, fl, us": {
+  "lat": 27.9238027,
+  "lon": -81.8250687
  },
  "3336 land o' lakes blvd,, land o lakes, fl, fl, us": {
   "lat": 28.184712,
@@ -1218,6 +1226,10 @@
   "lat": 47.6950797,
   "lon": 9.2721659
  },
+ "klosbachstrasse 25, 8032 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3658884,
+  "lon": 8.5556145
+ },
  "klosterhof 8a, st. gallen, ch": {
   "lat": 47.4229754,
   "lon": 9.378186
@@ -1617,6 +1629,10 @@
  "wilerstrasse 46, gossau, ch": {
   "lat": 47.4167106,
   "lon": 9.2398653
+ },
+ "zeughausstrasse 65, 8400 winterthur, switzerland, winterthur, zh, zh, ch": {
+  "lat": 47.4951892,
+  "lon": 8.7324931
  },
  "zollstrasse 80, zürich, zh, zh, ch": {
   "lat": 47.3812984,
