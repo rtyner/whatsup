@@ -59,6 +59,7 @@
   "lat": 27.9017695,
   "lon": -82.6998421
  },
+ "10641 old tampa bay drive, san antonio, fl, fl, us": null,
  "11 locations in der altstadt, krauchenwies, germany": {
   "lat": 49.7824158,
   "lon": 9.1823086
@@ -282,6 +283,10 @@
  "18205 bruce b downs blvd, tampa, fl 33647, usa, tampa, fl, fl, us": {
   "lat": 28.1330431,
   "lon": -82.3693101
+ },
+ "1825 4th st n, st. petersburg, fl 33704, usa, st. petersburg, fl, fl, us": {
+  "lat": 27.7997,
+  "lon": -82.638367
  },
  "1842 winter park rd, orlando, fl, fl, us": {
   "lat": 28.5689905,
@@ -612,6 +617,10 @@
   "lat": 28.6011556,
   "lon": -81.3648647
  },
+ "4399 winter lake road, lakeland, fl, fl, us": {
+  "lat": 27.9918021,
+  "lon": -81.8661603
+ },
  "4425 s kirkman rd, orlando, fl, fl, us": {
   "lat": 28.4970705,
   "lon": -81.458751
@@ -707,6 +716,10 @@
  "613 mt piney ave ne, st. petersburg, fl, fl, us": {
   "lat": 27.8390717,
   "lon": -82.6309246
+ },
+ "615 2nd ave ne, st. petersburg, fl 33701, usa, st. petersburg, fl, fl, us": {
+  "lat": 27.7732373,
+  "lon": -82.6344297
  },
  "6162 paseo al mar blvd, unit 103, apollo beach, fl, fl, us": null,
  "6203 s martindale ave, tampa, fl, fl, us": {
@@ -1014,9 +1027,14 @@
   "lat": 47.2619354,
   "lon": 8.8564245
  },
+ "corner of lumsden rd & brandon parkway, brandon, fl, fl, us": null,
  "crescent lake dr n, st. petersburg, fl, fl, us": {
   "lat": 27.7865704,
   "lon": -82.6430875
+ },
+ "davidstrasse 18, 9000 st. gallen, switzerland, st. gallen, sg, sg, ch": {
+  "lat": 47.4209003,
+  "lon": 9.370225
  },
  "dorfbachstr. 10 88682 salem, salem, germany": {
   "lat": 47.7959176,
@@ -1033,6 +1051,10 @@
  "dr.-anton-schneider-straße 28b, dornbirn, at": {
   "lat": 47.4211098,
   "lon": 9.7489205
+ },
+ "ebnaterstrasse 31, wattwil, ch": {
+  "lat": 47.3005897,
+  "lon": 9.091203
  },
  "eichliwaldstrasse 7,, winterthur, ch": {
   "lat": 47.5189502,
@@ -1399,6 +1421,10 @@
   "lat": 28.1881192,
   "lon": -82.5403851
  },
+ "ob. laube 69, 78462 konstanz-altstadt, germany, konstanz, bw, bw, de": {
+  "lat": 47.660086,
+  "lon": 9.1715912
+ },
  "obere bahnhofstr. 28 88662 überlingen, überlingen, germany": {
   "lat": 47.7700423,
   "lon": 9.1423234
@@ -1576,6 +1602,10 @@
   "lon": 8.7169278
  },
  "the south end of east bay rd., gibsonton, fl, fl, us": null,
+ "theaterstrasse 17, 8400 winterthur, switzerland, winterthur, zh, zh, ch": {
+  "lat": 47.5036319,
+  "lon": 8.7275916
+ },
  "thurgauerstrasse 36, zurich, ch": {
   "lat": 47.4139269,
   "lon": 8.5513782
