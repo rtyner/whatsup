@@ -244,6 +244,10 @@
   "lat": 28.4739994,
   "lon": -81.6258145
  },
+ "16640 boyette rd, riverview, fl, fl, us": {
+  "lat": 27.8571911,
+  "lon": -82.3252093
+ },
  "1700 oviedo mall blvd. oviedo, fl 32765, oviedo, fl, fl, us": {
   "lat": 28.6633188,
   "lon": -81.2371
@@ -604,10 +608,18 @@
   "lat": 28.0682675,
   "lon": -82.4077748
  },
+ "4115 town center blvd, orlando, fl 32837, usa, orlando, fl, fl, us": {
+  "lat": 28.3932268,
+  "lon": -81.2665588
+ },
  "41404 cr 54 zephyrhills, fl 33540, polk city, fl, fl, us": null,
  "4202 e fowler ave, tampa, fl 33620, usa, tampa, fl, fl, us": {
   "lat": 28.0599999,
   "lon": -82.4138362
+ },
+ "4202 e. fowler ave., tampa, fl, fl, us": {
+  "lat": 28.0559755,
+  "lon": -82.4258316
  },
  "4219 maritime blvd, tampa, fl, fl, us": {
   "lat": 27.93467,
