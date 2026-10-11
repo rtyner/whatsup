@@ -669,6 +669,10 @@
   "lat": 27.9409148,
   "lon": -82.4538716
  },
+ "520 cleveland st, clearwater, fl, fl, us": {
+  "lat": 27.965745,
+  "lon": -82.799233
+ },
  "5202 w thonotosassa rd, plant city, fl, fl, us": {
   "lat": 28.0190539,
   "lon": -82.1430773
@@ -720,6 +724,10 @@
  "6005 cypress garden blvd, winter haven, fl, fl, us": {
   "lat": 27.994655,
   "lon": -81.6927244
+ },
+ "601 maitland blvd, maitland, fl 32751, usa, maitland, fl, fl, us": {
+  "lat": 28.6275253,
+  "lon": -81.3656419
  },
  "6108 winthrop town center avenue, riverview, fl, fl, us": {
   "lat": 27.892645,
@@ -1161,6 +1169,10 @@
  "grindelstrasse 20, 8303 bassersdorf, switzerland, zurich, ch": {
   "lat": 47.4440048,
   "lon": 8.6100512
+ },
+ "gutstrasse 2, 8055 zürich, zürich, ch": {
+  "lat": 47.3701603,
+  "lon": 8.5105047
  },
  "hafenstr. 1a 88662 überlingen, überlingen, germany": {
   "lat": 47.7656056,
@@ -1712,5 +1724,9 @@
  "zürichbergstrasse 71, 8044 zürich, switzerland, zürich, zh, zh, ch": {
   "lat": 47.3761578,
   "lon": 8.5593909
+ },
+ "zürichstrasse 8, 8610 uster, switzerland, uster, zh, zh, ch": {
+  "lat": 47.3489967,
+  "lon": 8.7176605
  }
 }
