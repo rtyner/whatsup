@@ -124,6 +124,10 @@
   "lat": 28.6808169,
   "lon": -81.371684
  },
+ "1211 e sligh ave, tampa, fl 33604, united states,, tampa, fl, fl, us": {
+  "lat": 28.0106902,
+  "lon": -82.4591028
+ },
  "1217 ewing ave, clearwater, fl, fl, us": {
   "lat": 27.9530554,
   "lon": -82.7927506
@@ -191,6 +195,10 @@
  "13536 s john young pkwy, orlando, fl, fl, us": {
   "lat": 28.3682842,
   "lon": -81.4264455
+ },
+ "1360 e altamonte dr, altamonte springs, fl 32701, usa, altamonte springs, fl, fl, us": {
+  "lat": 28.6639583,
+  "lon": -81.3565198
  },
  "13630 morris bridge rd, thonotosassa, fl, fl, us": {
   "lat": 28.0802059,
@@ -311,6 +319,10 @@
  "191 e pine st, orlando, fl 32801, usa, orlando, fl, fl, us": {
   "lat": 28.5418459,
   "lon": -81.3755153
+ },
+ "1910 n ola ave, tampa, fl 33602, united states, tampa, fl, fl, us": {
+  "lat": 27.9610336,
+  "lon": -82.4637488
  },
  "1910 n ola ave, tampa, fl, fl, us": {
   "lat": 27.9610336,
@@ -493,6 +505,10 @@
   "lat": 28.541523,
   "lon": -81.377631
  },
+ "300 cypress gardens blvd, winter haven, fl, fl, us": {
+  "lat": 27.9921612,
+  "lon": -81.6892017
+ },
  "301 w bay dr, largo, fl 33770, usa, largo, fl, fl, us": {
   "lat": 27.916683,
   "lon": -82.797928
@@ -595,6 +611,10 @@
   "lon": -81.4294819
  },
  "4015 bayshore blvd apt 7c, tampa, fl, fl, us": null,
+ "40220 u.s. highway 27, davenport, fl, fl, us": {
+  "lat": 28.2308944,
+  "lon": -81.6507368
+ },
  "410 ollie ave, winter park, fl, fl, us": {
   "lat": 28.5945171,
   "lon": -81.3451575
@@ -648,6 +668,10 @@
  "4810 north himes avenue, tampa, fl, fl, us": {
   "lat": 27.9897764,
   "lon": -82.5012664
+ },
+ "4882 new broad st, orlando, fl 32814, usa, orlando, fl, fl, us": {
+  "lat": 28.5683234,
+  "lon": -81.3262699
  },
  "500 orange avenue, orlando, fl, fl, us": {
   "lat": 28.5499655,
@@ -1380,6 +1404,10 @@
  "m9rg+62 st. petersburg, st. petersburg, fl, fl, us": {
   "lat": 27.8931599,
   "lon": -82.6892953
+ },
+ "marktgasse 1, feldkirch, at": {
+  "lat": 47.8965932,
+  "lon": 16.9067018
  },
  "mcmullen booth and enterprise, clearwater, fl, fl, us": {
   "lat": 28.012207,
