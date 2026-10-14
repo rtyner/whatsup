@@ -60,6 +60,10 @@
   "lon": -82.6998421
  },
  "10641 old tampa bay drive, san antonio, fl, fl, us": null,
+ "10740 fl-54, trinity, fl, fl, us": {
+  "lat": 28.2035393,
+  "lon": -82.6601113
+ },
  "11 locations in der altstadt, krauchenwies, germany": {
   "lat": 49.7824158,
   "lon": 9.1823086
@@ -131,6 +135,10 @@
  "1217 ewing ave, clearwater, fl, fl, us": {
   "lat": 27.9530554,
   "lon": -82.7927506
+ },
+ "123 east court street, tarpon springs, fl, fl, us": {
+  "lat": 28.1455625,
+  "lon": -82.7558174
  },
  "12333 66th st n,, largo, fl, fl, us": {
   "lat": 27.8891337,
@@ -586,6 +594,10 @@
   "lat": 28.6469392,
   "lon": -81.317771
  },
+ "369 n new york ave, winter park, fl, fl, us": {
+  "lat": 28.6001966,
+  "lon": -81.3530572
+ },
  "3800 us highway 98 n, lakeland, fl, fl, us": {
   "lat": 28.0906367,
   "lon": -81.9739357
@@ -696,6 +708,10 @@
  "505 water st, tampa, fl, fl, us": {
   "lat": 27.9409148,
   "lon": -82.4538716
+ },
+ "5107 n 22nd st., tampa, fl, fl, us": {
+  "lat": 27.9930252,
+  "lon": -82.4346553
  },
  "520 cleveland st, clearwater, fl, fl, us": {
   "lat": 27.965745,
@@ -958,6 +974,10 @@
   "lat": 47.4302796,
   "lon": 8.5598035
  },
+ "bahnhofplatz, 8001 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3769361,
+  "lon": 8.5408628
+ },
  "bahnhofplatz, 8001, zurich, ch": {
   "lat": 47.3770918,
   "lon": 8.5407934
@@ -1141,6 +1161,10 @@
   "lat": 47.3384866,
   "lon": 8.5390773
  },
+ "franziskanerstr. 2 88662 überlingen, überlingen, germany": {
+  "lat": 47.7671528,
+  "lon": 9.1592586
+ },
  "franziskanerstr. 20 88662 überlingen, mering, germany": {
   "lat": 47.7680874,
   "lon": 9.1597828
@@ -1214,6 +1238,10 @@
   "lat": 47.7656056,
   "lon": 9.1628234
  },
+ "hafenstr. 3 88662 überlingen, überlingen, germany": {
+  "lat": 47.7659989,
+  "lon": 9.1611753
+ },
  "haldenhofweg 51 88662 überlingen-bonndorf, überlingen-bonndorf, germany": {
   "lat": 47.8063948,
   "lon": 9.0919029
@@ -1233,6 +1261,10 @@
  "hardstrasse 260, zürich, ch": {
   "lat": 47.3884868,
   "lon": 8.5206867
+ },
+ "hardturmstrasse 253, zürich, ch": {
+  "lat": 47.3933453,
+  "lon": 8.508451
  },
  "hauptstr. 44 88662 überlingen, überlingen, germany": {
   "lat": 47.8047037,
@@ -1279,6 +1311,10 @@
   "lat": 47.3766174,
   "lon": 8.6722333
  },
+ "im hölderli 9, 8405 winterthur, switzerland, winterthur, zh, zh, ch": {
+  "lat": 47.492685,
+  "lon": 8.7610278
+ },
  "im hölderli 9, 8405 winterthur, winterthur, ch": {
   "lat": 47.4925519,
   "lon": 8.7607837
@@ -1303,6 +1339,10 @@
  "kanzleistrasse 56, zurich, ch": {
   "lat": 47.3755223,
   "lon": 8.525813
+ },
+ "kirchgasse 14, zürich, zh, zh, ch": {
+  "lat": 47.3696927,
+  "lon": 8.5447284
  },
  "kirchstraße 4, 88709 meersburg, meersburg, de": {
   "lat": 47.6950797,
@@ -1609,6 +1649,10 @@
   "lat": 47.3849499,
   "lon": 8.5335795
  },
+ "spitalgasse 4 88662 überlingen, überlingen, germany": {
+  "lat": 47.7680814,
+  "lon": 9.1606719
+ },
  "st. johann str. 15 88662 überlingen, überlingen, germany": {
   "lat": 47.7670622,
   "lon": 9.1676454
@@ -1708,6 +1752,10 @@
   "lon": 8.7309377
  },
  "verschiedene veranstaltungsräume, überlingen, germany": null,
+ "vorarlberger wirtschaftspark 1, götzis, at": {
+  "lat": 47.3293516,
+  "lon": 9.6410815
+ },
  "wallisellerstrasse 100, opfikon, ch": {
   "lat": 47.4293706,
   "lon": 8.5732358
@@ -1743,6 +1791,10 @@
  "zum gallerturm 17 88662 überlingen, überlingen, germany": {
   "lat": 47.7692027,
   "lon": 9.1553729
+ },
+ "zum laugele 4 88662 überlingen-nußdorf, überlingen, germany": {
+  "lat": 47.7530428,
+  "lon": 9.1950439
  },
  "zum laugele 4 88662 überlingen-nußdorf, überlingen-nußdorf, germany": {
   "lat": 47.7530428,
