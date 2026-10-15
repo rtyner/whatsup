@@ -35,6 +35,10 @@
   "lat": 28.5925815,
   "lon": -81.3483095
  },
+ "1001 n orange ave, orlando, fl, fl, us": {
+  "lat": 28.558075,
+  "lon": -81.379111
+ },
  "1001 w cass st, tampa, fl, fl, us": {
   "lat": 27.950166,
   "lon": -82.4696408
@@ -124,9 +128,17 @@
   "lat": 27.94924,
   "lon": -82.50494
  },
+ "11778 north dale mabry highway ,, tampa, fl, fl, us": {
+  "lat": 28.0554089,
+  "lon": -82.5062454
+ },
  "120 west pineview street, altamonte springs, fl, fl, us": {
   "lat": 28.6808169,
   "lon": -81.371684
+ },
+ "1202 e fowler ave, tampa, fl 33612, usa, tampa, fl, fl, us": {
+  "lat": 28.0549958,
+  "lon": -82.4467021
  },
  "1211 e sligh ave, tampa, fl 33604, united states,, tampa, fl, fl, us": {
   "lat": 28.0106902,
@@ -135,6 +147,10 @@
  "1217 ewing ave, clearwater, fl, fl, us": {
   "lat": 27.9530554,
   "lon": -82.7927506
+ },
+ "12276 e colonial dr, orlando, fl 32826, usa, orlando, fl, fl, us": {
+  "lat": 28.5646855,
+  "lon": -81.1959623
  },
  "123 east court street, tarpon springs, fl, fl, us": {
   "lat": 28.1455625,
@@ -416,6 +432,10 @@
   "lat": 28.062679,
   "lon": -82.705017
  },
+ "222 22nd st s, st. petersburg, fl 33712, usa, st. petersburg, fl, fl, us": {
+  "lat": 27.7689572,
+  "lon": -82.6570186
+ },
  "2223 n west shore blvd, 207, tampa, fl, fl, us": {
   "lat": 27.964542,
   "lon": -82.5207208
@@ -521,6 +541,10 @@
   "lat": 27.9921612,
   "lon": -81.6892017
  },
+ "300 w tyler street, tampa, fl, fl, us": {
+  "lat": 27.9508153,
+  "lon": -82.4632745
+ },
  "301 w bay dr, largo, fl 33770, usa, largo, fl, fl, us": {
   "lat": 27.916683,
   "lon": -82.797928
@@ -580,6 +604,10 @@
  "35235 u.s, 19 north ,( by alderman road), palm harbor 34684, fl, fl, us": {
   "lat": 28.0954202,
   "lon": -82.7394099
+ },
+ "35496 us hwy 27, haines city, fl, fl, us": {
+  "lat": 28.1156667,
+  "lon": -81.6404281
  },
  "36 w. pine st, orlando, fl, fl, us": {
   "lat": 28.5410311,
@@ -681,6 +709,10 @@
   "lat": 28.2230224,
   "lon": -82.3788919
  },
+ "4801 n 22nd st, tampa, fl, fl, us": {
+  "lat": 27.9909399,
+  "lon": -82.4319431
+ },
  "4810 north himes avenue, tampa, fl, fl, us": {
   "lat": 27.9897764,
   "lon": -82.5012664
@@ -740,6 +772,10 @@
  "5403 w irlo bronson memorial hwy, kissimmee, fl 34746, kissimmee, fl, fl, us": {
   "lat": 28.3040767,
   "lon": -81.4598493
+ },
+ "5415 w tyson ave, tampa, fl 33611, usa, tampa, fl, fl, us": {
+  "lat": 27.8870941,
+  "lon": -82.5410669
  },
  "5421 international dr, orlando, fl 32819, usa, orlando, fl, fl, us": {
   "lat": 28.4484122,
@@ -809,6 +845,10 @@
  "701 channelside drive, tampa, fl, fl, us": {
   "lat": 27.9440723,
   "lon": -82.4448796
+ },
+ "7215 corner dr, orlando, fl 32827, usa, orlando, fl, fl, us": {
+  "lat": 28.3825838,
+  "lon": -81.2801261
  },
  "7467 international drive, orlando, fl, fl, us": {
   "lat": 28.4537697,
@@ -1332,6 +1372,10 @@
   "lat": 47.7796214,
   "lon": 9.1864857
  },
+ "kalanderplatz 1, 8045 zürich, ch": {
+  "lat": 47.3574987,
+  "lon": 8.5227352
+ },
  "kanzleistrasse 54, 8004 zürich, switzerland, zürich, zh, zh, ch": {
   "lat": 47.3754571,
   "lon": 8.526444
@@ -1452,6 +1496,10 @@
  "line-eid-straße 6, konstanz, de": {
   "lat": 47.6732712,
   "lon": 9.1557312
+ },
+ "löwenstrasse 2, 8001 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3730762,
+  "lon": 8.5346637
  },
  "m9rg+62 st. petersburg, st. petersburg, fl, fl, us": {
   "lat": 27.8931599,
@@ -1648,6 +1696,10 @@
  "sihlquai 133, 8005 zürich, zürich, ch": {
   "lat": 47.3849499,
   "lon": 8.5335795
+ },
+ "sihlquai 274, 8005 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3888335,
+  "lon": 8.5283081
  },
  "spitalgasse 4 88662 überlingen, überlingen, germany": {
   "lat": 47.7680814,
