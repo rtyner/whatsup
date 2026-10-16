@@ -268,6 +268,10 @@
   "lat": 28.0545889,
   "lon": -82.4418634
  },
+ "1550 s lakemont ave, winter park, fl 32792, usa, winter park, fl, fl, us": {
+  "lat": 28.5809691,
+  "lon": -81.3274365
+ },
  "1600 crooked can loop, clermont, fl, fl, us": {
   "lat": 28.6053517,
   "lon": -81.7228814
@@ -468,6 +472,10 @@
   "lat": 28.0463094,
   "lon": -81.9550215
  },
+ "238 s line dr, apopka, fl, fl, us": {
+  "lat": 28.6739418,
+  "lon": -81.4601148
+ },
  "2415 n orange ave, orlando, fl, fl, us": {
   "lat": 28.5736768,
   "lon": -81.3725203
@@ -527,6 +535,10 @@
  "2810 lakeland highlands rd, lakeland, fl 33803, usa, lakeland, fl, fl, us": {
   "lat": 27.9546072,
   "lon": -81.9460587
+ },
+ "2837 south frontage road, plant city, fl, fl, us": {
+  "lat": 28.0362039,
+  "lon": -82.0940584
  },
  "290 holden ave, orlando, fl, fl, us": {
   "lat": 28.4944063,
@@ -1058,6 +1070,10 @@
   "lat": 47.3756621,
   "lon": 8.540068
  },
+ "beatengasse 11, 8001 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3756621,
+  "lon": 8.540068
+ },
  "beatengasse 11, zürich, zh, zh, ch": {
   "lat": 47.3756621,
   "lon": 8.540068
@@ -1318,9 +1334,17 @@
   "lat": 47.8462671,
   "lon": 8.8583034
  },
+ "herrenstraße 27, 88239 wangen im allgäu, germany, wangen im allgäu, bw, bw, de": {
+  "lat": 47.6872148,
+  "lon": 9.8333559
+ },
  "hinter der silvesterkapelle goldbach 88662 überlingen, überlingen, germany": {
   "lat": 47.7705994,
   "lon": 9.1404157
+ },
+ "hintere achmühlerstraße 1b, dornbirn, at": {
+  "lat": 47.4046707,
+  "lon": 9.7435242
  },
  "hochbildstr. 8a 88662 überlingen, überlingen, germany": {
   "lat": 47.7698243,
@@ -1713,6 +1737,10 @@
   "lat": 47.4228188,
   "lon": 9.3721412
  },
+ "stampfenbachstrasse 60, 8006 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3812254,
+  "lon": 8.5424567
+ },
  "steinhausgasse 3 88662 überlingen, überlingen, germany": {
   "lat": 47.7677117,
   "lon": 9.1585296
@@ -1811,6 +1839,10 @@
  "wallisellerstrasse 100, opfikon, ch": {
   "lat": 47.4293706,
   "lon": 8.5732358
+ },
+ "werdenbergerstraße 41, 6700 bludenz, austria, bludenz, at": {
+  "lat": 47.1567204,
+  "lon": 9.8173459
  },
  "wfw4+f6 tampa, tampa, fl, fl, us": {
   "lat": 27.9449854,
