@@ -284,6 +284,10 @@
   "lat": 28.4739994,
   "lon": -81.6258145
  },
+ "1617 n franklin st, tampa, fl 33602, usa, tampa, fl, fl, us": {
+  "lat": 27.9503814,
+  "lon": -82.4588074
+ },
  "16640 boyette rd, riverview, fl, fl, us": {
   "lat": 27.8571911,
   "lon": -82.3252093
@@ -331,6 +335,10 @@
  "1825 4th st n, st. petersburg, fl 33704, usa, st. petersburg, fl, fl, us": {
   "lat": 27.7997,
   "lon": -82.638367
+ },
+ "1825 4th st n, st. petersburg, fl, fl, us": {
+  "lat": 27.790042,
+  "lon": -82.6371507
  },
  "1842 winter park rd, orlando, fl, fl, us": {
   "lat": 28.5689905,
@@ -881,6 +889,10 @@
  "7911 n 30th st, tampa, fl, fl, us": {
   "lat": 28.0194877,
   "lon": -82.4263008
+ },
+ "7951 e colonial dr, orlando, fl 32807, usa, orlando, fl, fl, us": {
+  "lat": 28.5542287,
+  "lon": -81.3199414
  },
  "800 e princeton st,, orlando, fl, fl, us": {
   "lat": 28.5716311,
