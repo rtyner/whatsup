@@ -184,6 +184,10 @@
   "lat": 49.7823341,
   "lon": 9.1823385
  },
+ "1300 s denning dr, winter park, fl 32789, winter park, fl, fl, us": {
+  "lat": 28.586275,
+  "lon": -81.360728
+ },
  "1308 lang ave, orlando, fl 32803, usa, orlando, fl, fl, us": {
   "lat": 28.5613307,
   "lon": -81.3591265
@@ -191,6 +195,10 @@
  "13090 gandy blvd n, st. petersburg, fl, fl, us": {
   "lat": 27.8636667,
   "lon": -82.6279255
+ },
+ "13109 n 56th st, tampa, fl 33617, usa, tampa, fl, fl, us": {
+  "lat": 28.0669959,
+  "lon": -82.3928374
  },
  "1325 4th st n, st. petersburg, fl, fl, us": {
   "lat": 27.7854495,
@@ -247,6 +255,10 @@
  "1502 e sligh ave, tampa, fl 33610, riverview, fl, fl, us": {
   "lat": 28.0106087,
   "lon": -82.440091
+ },
+ "15150 62nd st n, clearwater, fl, fl, us": {
+  "lat": 27.9125573,
+  "lon": -82.6955429
  },
  "153 sugar belle drive ,, winter garden, fl, fl, us": {
   "lat": 28.3799893,
@@ -846,6 +858,10 @@
   "lat": 27.8775846,
   "lon": -82.4950762
  },
+ "6362 international drive, orlando, fl, fl, us": {
+  "lat": 28.45964,
+  "lon": -81.4683534
+ },
  "64 müllerstrasse, zürich, ch": {
   "lat": 47.3760618,
   "lon": 8.5288696
@@ -889,6 +905,10 @@
  "7911 n 30th st, tampa, fl, fl, us": {
   "lat": 28.0194877,
   "lon": -82.4263008
+ },
+ "7920 n marks st, tampa, fl, fl, us": {
+  "lat": 28.0232722,
+  "lon": -82.4425143
  },
  "7951 e colonial dr, orlando, fl 32807, usa, orlando, fl, fl, us": {
   "lat": 28.5542287,
@@ -1013,6 +1033,10 @@
  "badweg 10, 8001 zürich, schweiz, zürich, ch": {
   "lat": 47.3715541,
   "lon": 8.5329039
+ },
+ "bahnhaldenstrasse 2a, 8052 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.4194387,
+  "lon": 8.5469629
  },
  "bahnhofpl. 1, 9000 st. gallen, switzerland, st gallen, ch": {
   "lat": 47.42299,
@@ -1545,6 +1569,7 @@
   "lat": 47.8965932,
   "lon": 16.9067018
  },
+ "maximo park, pinellas point dr s & sunshine skyway ln s, st. petersburg, fl, fl, us": null,
  "mcmullen booth and enterprise, clearwater, fl, fl, us": {
   "lat": 28.012207,
   "lon": -82.709976
@@ -1844,6 +1869,10 @@
   "lon": 8.7309377
  },
  "verschiedene veranstaltungsräume, überlingen, germany": null,
+ "vgpq+mx tampa, tampa, fl, fl, us": {
+  "lat": 27.9449854,
+  "lon": -82.4583107
+ },
  "vorarlberger wirtschaftspark 1, götzis, at": {
   "lat": 47.3293516,
   "lon": 9.6410815
@@ -1852,9 +1881,17 @@
   "lat": 47.4293706,
   "lon": 8.5732358
  },
+ "wave hotel dr, orlando, fl, fl, us": {
+  "lat": 28.3752904,
+  "lon": -81.2805715
+ },
  "werdenbergerstraße 41, 6700 bludenz, austria, bludenz, at": {
   "lat": 47.1567204,
   "lon": 9.8173459
+ },
+ "wessenbergstraße 41, 78462 konstanz-altstadt, germany, konstanz, bw, bw, de": {
+  "lat": 47.6631641,
+  "lon": 9.1748085
  },
  "wfw4+f6 tampa, tampa, fl, fl, us": {
   "lat": 27.9449854,
