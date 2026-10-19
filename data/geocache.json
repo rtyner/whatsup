@@ -356,6 +356,10 @@
   "lat": 28.5689905,
   "lon": -81.3459981
  },
+ "1850 ohio ave ne, st. petersburg, fl, fl, us": {
+  "lat": 27.8237611,
+  "lon": -82.6112265
+ },
  "19 north orange avenue, orlando, fl, fl, us": {
   "lat": 28.5424773,
   "lon": -81.3789432
@@ -813,6 +817,10 @@
   "lat": 28.4484122,
   "lon": -81.4715719
  },
+ "5487 hamlin groves tr, winter garden, fl, fl, us": {
+  "lat": 28.4720833,
+  "lon": -81.6265694
+ },
  "550 rantoul lane, lake mary, fl, fl, us": {
   "lat": 28.773608,
   "lon": -81.322256
@@ -929,6 +937,10 @@
  "8256 ulmerton rd.,, largo, fl, fl, us": {
   "lat": 27.893904,
   "lon": -82.760071
+ },
+ "8494 bauma, switzerland, bauma, zh, zh, ch": {
+  "lat": 47.3688189,
+  "lon": 8.878214
  },
  "875 1st st s,, winter haven, fl, fl, us": {
   "lat": 28.0134634,
@@ -1670,6 +1682,10 @@
   "lat": 47.3910534,
   "lon": 8.5099046
  },
+ "postfach 1475, rapperswil-jona, sg, sg, ch": {
+  "lat": 47.229817,
+  "lon": 8.8597003
+ },
  "rangoldshauser str. 39 88662 überlingen, überlingen, germany": {
   "lat": 47.7551024,
   "lon": 9.1877943
@@ -1741,6 +1757,10 @@
  "seefeldstrasse 233, 8008 zürich, switzerland, zürich, zh, zh, ch": {
   "lat": 47.3511399,
   "lon": 8.5614537
+ },
+ "seefeldstrasse 7a, 8008 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3649478,
+  "lon": 8.5486583
  },
  "seegang zwischen überlingen und ludwigshafen, überlingen, germany": {
   "lat": 47.8283403,
