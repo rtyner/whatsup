@@ -108,6 +108,10 @@
   "lat": 28.0461369,
   "lon": -81.9582703
  },
+ "1150 assembly dr ste 500, tampa, fl 33607, usa, tampa, fl, fl, us": {
+  "lat": 27.953446,
+  "lon": -82.5041709
+ },
  "1150 assembly drive, ste 500, tampa, fl 33607, fl, fl, us": {
   "lat": 27.953446,
   "lon": -82.5041709
@@ -569,6 +573,7 @@
   "lon": -81.4132886
  },
  "2907 w bay to bay blvd suite a100, tampa, fl, fl, us": null,
+ "2909 w bay to bay , suite a-600 (rooftop), tampa, fl, fl, us": null,
  "3 phoenix building, 30 s magnolia ave, orlando, fl 32801, orlando, fl, fl, us": {
   "lat": 28.541523,
   "lon": -81.377631
@@ -616,6 +621,10 @@
  "330 old bartow eagle lake rd, bartow, fl, fl, us": {
   "lat": 27.9238027,
   "lon": -81.8250687
+ },
+ "3309 tampa rd, palm harbor, fl, fl, us": {
+  "lat": 28.0674046,
+  "lon": -82.7303757
  },
  "3336 land o' lakes blvd,, land o lakes, fl, fl, us": {
   "lat": 28.184712,
@@ -740,6 +749,10 @@
  "450 s orange ave, orlando, fl 32801, usa, orlando, fl, fl, us": {
   "lat": 28.5375959,
   "lon": -81.3768257
+ },
+ "460 orlando ave, winter park, fl, fl, us": {
+  "lat": 28.6013528,
+  "lon": -81.3853132
  },
  "4610 pet ln ste 105, lutz, fl, fl, us": {
   "lat": 28.2230224,
@@ -1009,6 +1022,10 @@
  "albisstrasse 103, 8038, zurich, ch": {
   "lat": 47.3390791,
   "lon": 8.5302916
+ },
+ "am bellevue, zürich, ch": {
+  "lat": 47.3665931,
+  "lon": 8.5464663
  },
  "an verschiedenen orten in der stadt, überlingen, germany": {
   "lat": 47.7629947,
@@ -1932,6 +1949,10 @@
  "zeughausstrasse 65, 8400 winterthur, switzerland, winterthur, zh, zh, ch": {
   "lat": 47.4951892,
   "lon": 8.7324931
+ },
+ "zollstrasse 80, 8005 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3812683,
+  "lon": 8.5313811
  },
  "zollstrasse 80, zürich, zh, zh, ch": {
   "lat": 47.3812984,
