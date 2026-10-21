@@ -388,6 +388,10 @@
   "lat": 27.9610336,
   "lon": -82.4637488
  },
+ "1925 e 2nd ave #102, tampa, fl 33605, usa, tampa, fl, fl, us": {
+  "lat": 27.9566827,
+  "lon": -82.4442835
+ },
  "1941 west brandon boulevard, brandon, fl, fl, us": {
   "lat": 27.9376407,
   "lon": -82.3153255
@@ -1179,6 +1183,10 @@
   "lat": 46.9392639,
   "lon": 8.9984978
  },
+ "breitfeldstrasse 13, 9015 st. gallen, switzerland, st. gallen, sg, sg, ch": {
+  "lat": 47.4080896,
+  "lon": 9.3102557
+ },
  "brückengasse 1b, konstanz, de": {
   "lat": 47.664237,
   "lon": 9.175504
@@ -1424,6 +1432,10 @@
   "lon": 9.1603667
  },
  "hole in the fence trail head is only one-half mile northeast from i-75/fletcher exit on morris bridge road., tampa, fl, fl, us": null,
+ "holt ave, winter park, fl 32789, usa, winter park, fl, fl, us": {
+  "lat": 28.5944641,
+  "lon": -81.3510943
+ },
  "hussenstraße 28, 78462 konstanz-altstadt, germany, konstanz, bw, bw, de": {
   "lat": 47.6598131,
   "lon": 9.1717826
@@ -1578,6 +1590,10 @@
   "lat": 47.3861381,
   "lon": 8.5291817
  },
+ "limmatstrasse 28, 8005 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3813072,
+  "lon": 8.5365962
+ },
  "limmatstrasse 50, zürich, ch": {
   "lat": 47.3819993,
   "lon": 8.5354777
@@ -1706,6 +1722,10 @@
  "rangoldshauser str. 39 88662 überlingen, überlingen, germany": {
   "lat": 47.7551024,
   "lon": 9.1877943
+ },
+ "reichenaustraße 202, 78467 konstanz, germany, konstanz, bw, bw, de": {
+  "lat": 47.6742676,
+  "lon": 9.1570188
  },
  "rengoldshauser str. 20 88662 überlingen, überlingen , germany": {
   "lat": 47.7728748,
@@ -1978,6 +1998,10 @@
  "zurich airport, the circle 02, kloten, ch": {
   "lat": 47.4504729,
   "lon": 8.5652461
+ },
+ "zurich city center, stampfenbachstrasse 60, 8006 zürich,, zurich, ch": {
+  "lat": 47.3812254,
+  "lon": 8.5424567
  },
  "zürcherstrasse 2, 8400 winterthur, switzerland, winterthur, zh, zh, ch": {
   "lat": 47.4989879,
