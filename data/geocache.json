@@ -292,6 +292,10 @@
   "lat": 28.6053517,
   "lon": -81.7228814
  },
+ "16000 state rd 471, lakeland, fl, fl, us": {
+  "lat": 28.0014372,
+  "lon": -82.0490531
+ },
  "16000 state road 471, lakeland, fl, fl, us": {
   "lat": 27.9900718,
   "lon": -81.8906048
@@ -407,6 +411,10 @@
  "2000 34th st n, st petersburg, fl, fl, us": {
   "lat": 27.7903789,
   "lon": -82.6795563
+ },
+ "2000 piazza ave #100, wesley chapel, fl, fl, us": {
+  "lat": 28.1875267,
+  "lon": -82.3485771
  },
  "2042 carolina ave ne, st. petersburg, fl, fl, us": {
   "lat": 27.8161213,
@@ -634,6 +642,10 @@
   "lat": 28.184712,
   "lon": -82.4663534
  },
+ "3338 land o' lakes blvd, land o' lakes, fl 34639, usa, land o' lakes, fl, fl, us": {
+  "lat": 28.2064881,
+  "lon": -82.4621439
+ },
  "340 beach drive northeast, saint petersburg, fl, fl, us": {
   "lat": 27.7760202,
   "lon": -82.6322271
@@ -686,6 +698,10 @@
  "3901 tampa bay boulevard, tampa, fl, fl, us": {
   "lat": 27.9774907,
   "lon": -82.5077651
+ },
+ "400 n primrose dr, orlando, fl 32803, usa, orlando, fl, fl, us": {
+  "lat": 28.5483644,
+  "lon": -81.3483587
  },
  "4001 w tampa bay blvd, tampa, fl 33614, usa, tampa, fl, fl, us": {
   "lat": 27.9778326,
@@ -1119,6 +1135,10 @@
   "lat": 47.386101,
   "lon": 9.2800622
  },
+ "bahnhofstrasse 7, buchs, ch": {
+  "lat": 47.1667275,
+  "lon": 9.4772917
+ },
  "bahnhofstraße 2, singen, de": {
   "lat": 47.7590048,
   "lon": 8.8407009
@@ -1512,6 +1532,10 @@
  "kronengasse 1 88662 überlingen, überlingen, germany": {
   "lat": 47.7666594,
   "lon": 9.1589801
+ },
+ "krummebergstr. 30 88662 überlingen, langenargen, germany": {
+  "lat": 47.7675807,
+  "lon": 9.1631535
  },
  "krummebergstr. 30 88662 überlingen, schemmerhofen, germany": {
   "lat": 47.7675807,
