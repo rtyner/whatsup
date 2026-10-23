@@ -842,6 +842,10 @@
   "lat": 28.3040767,
   "lon": -81.4598493
  },
+ "5411 skycenter dr ste 675, tampa, fl 33607, usa, tampa, fl, fl, us": {
+  "lat": 27.9638519,
+  "lon": -82.5369369
+ },
  "5415 w tyson ave, tampa, fl 33611, usa, tampa, fl, fl, us": {
   "lat": 27.8870941,
   "lon": -82.5410669
@@ -938,6 +942,10 @@
  "7812 palm parkway, orlando, fl, fl, us": {
   "lat": 28.3847953,
   "lon": -81.5038335
+ },
+ "78224 singen, germany, singen, bw, bw, de": {
+  "lat": 47.7617515,
+  "lon": 8.8348709
  },
  "78462 konstanz, germany, konstanz, de": {
   "lat": 47.6588689,
@@ -1179,6 +1187,10 @@
   "lat": 47.352562,
   "lon": 8.5576948
  },
+ "bleicherweg 10, 8002 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3685768,
+  "lon": 8.537048
+ },
  "bodanstraße 20, konstanz, de": {
   "lat": 47.6583293,
   "lon": 9.174026
@@ -1346,6 +1358,10 @@
  "general-guisan-strasse 19, winterthur, zh, zh, ch": {
   "lat": 47.4988958,
   "lon": 8.7328624
+ },
+ "general-guisan-strasse-19, 8400 winterthur, ch": {
+  "lat": 47.4988858,
+  "lon": 8.7329483
  },
  "geroldstrasse 23, 8005 zürich,, zürich, ch": {
   "lat": 47.3852865,
@@ -1915,6 +1931,10 @@
  "theaterstrasse 17, 8400 winterthur, switzerland, winterthur, zh, zh, ch": {
   "lat": 47.5036319,
   "lon": 8.7275916
+ },
+ "thurgauerstrasse 36, 8050 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.414024,
+  "lon": 8.5514866
  },
  "thurgauerstrasse 36, zurich, ch": {
   "lat": 47.4139269,
