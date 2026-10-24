@@ -19,6 +19,10 @@
   "lat": 47.7664456,
   "lon": 9.1605106
  },
+ "1 causeway blvd, dunedin, fl 34698, usa, dunedin, fl, fl, us": {
+  "lat": 28.0686258,
+  "lon": -82.8319412
+ },
  "100 aldermans ford park drive, lithia, fl, fl, us": {
   "lat": 27.8689758,
   "lon": -82.1371408
@@ -168,6 +172,7 @@
   "lat": 28.5360605,
   "lon": -81.3971322
  },
+ "12550 morris bridge rd, thonotosassa, fl 33592, usa, thonotosassa, fl, fl, us": null,
  "12550 morris bridge road, thonotosassa, fl, fl, us": {
   "lat": 28.0802059,
   "lon": -82.3326366
@@ -456,6 +461,7 @@
   "lat": 27.9583706,
   "lon": -82.4352719
  },
+ "2121 s hiawassee rd, suite 100, orlando, fl, 32835 2121 s hiawassee rd apartment suite 100, orlando, fl 32835 2121 s hiawassee, orlando, fl, fl, us": null,
  "2127 university square mall, tampa, fl 33612, usa, tampa, fl, fl, us": {
   "lat": 28.0562318,
   "lon": -82.4346902
@@ -543,6 +549,10 @@
  "255 s orange ave ste 1800, orlando, fl, fl, us": {
   "lat": 28.5678444,
   "lon": -81.3730693
+ },
+ "261 sw 8th st, miami, fl 33130, miami, fl, fl, us": {
+  "lat": 25.7663355,
+  "lon": -80.1984896
  },
  "263 west central ave, winter haven, fl, fl, us": {
   "lat": 28.0223332,
@@ -975,6 +985,10 @@
   "lat": 28.0029259,
   "lon": -81.7168202
  },
+ "812 providence rd, brandon, fl 33511, usa, brandon, fl, fl, us": {
+  "lat": 27.9062332,
+  "lon": -82.3173508
+ },
  "8256 ulmerton rd.,, largo, fl, fl, us": {
   "lat": 27.893904,
   "lon": -82.760071
@@ -994,6 +1008,10 @@
  "88662 überlingen , überlingen, germany": {
   "lat": 47.796962,
   "lon": 9.1613763
+ },
+ "88662 überlingen, germany, überlingen, bw, bw, de": {
+  "lat": 47.7762211,
+  "lon": 9.1516284
  },
  "88662 überlingen, überlingen, germany": {
   "lat": 47.796962,
@@ -1318,6 +1336,10 @@
   "lat": 47.3830482,
   "lon": 8.5482648
  },
+ "forchstrasse 260, 8008 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3576162,
+  "lon": 8.5715773
+ },
  "forellenweg 9, 8038 zürich, switzerland, zürich, zh, zh, ch": {
   "lat": 47.3384866,
   "lon": 8.5390773
@@ -1480,6 +1502,10 @@
   "lat": 47.3995277,
   "lon": 8.5726523
  },
+ "im grossriet 1, 8606 greifensee, ch, zürich, zurich, ch": {
+  "lat": 47.3766174,
+  "lon": 8.6722333
+ },
  "im grossriet 1, ch-8606 greifensee, zürich, ch": {
   "lat": 47.3767222,
   "lon": 8.672023
@@ -1568,6 +1594,10 @@
  "krummebergstr. 30 88662 überlingen, überlingen, germany": {
   "lat": 47.7675807,
   "lon": 9.1631535
+ },
+ "lake eola, orlando, fl, fl, us": {
+  "lat": 28.5439907,
+  "lon": -81.372983
  },
  "lake park 17302 dale mabry north, tampa, fl, fl, us": {
   "lat": 28.1207536,
