@@ -628,6 +628,10 @@
   "lat": 28.0225778,
   "lon": -81.7273209
  },
+ "3116 n florida ave, tampa, fl, fl, us": {
+  "lat": 27.9727035,
+  "lon": -82.4595247
+ },
  "3143 florida ave s, lakeland, fl, fl, us": {
   "lat": 28.0071291,
   "lon": -81.957094
@@ -692,6 +696,10 @@
  "3600 red bug lake road, casselberry, fl, fl, us": {
   "lat": 28.6469392,
   "lon": -81.317771
+ },
+ "3615 conroy rd, orlando, fl, fl, us": {
+  "lat": 28.4938198,
+  "lon": -81.4343137
  },
  "369 n new york ave, winter park, fl, fl, us": {
   "lat": 28.6001966,
@@ -787,6 +795,10 @@
  "4610 pet ln ste 105, lutz, fl, fl, us": {
   "lat": 28.2230224,
   "lon": -82.3788919
+ },
+ "4707 e 18th ave, tampa, fl, fl, us": {
+  "lat": 27.9685139,
+  "lon": -82.4057431
  },
  "4801 n 22nd st, tampa, fl, fl, us": {
   "lat": 27.9909399,
@@ -1522,6 +1534,10 @@
   "lat": 47.4925519,
   "lon": 8.7607837
  },
+ "industriestrasse 29, 8305 dietlikon, switzerland, dietlikon, zh, zh, ch": {
+  "lat": 47.4126017,
+  "lon": 8.6201635
+ },
  "inselgasse 30, 78462 konstanz, next to the stairs, konstanz, de": null,
  "interpark focus 38, feldkirch district, at": {
   "lat": 47.3060633,
@@ -1740,6 +1756,10 @@
  "neugasse 49, st. gallen, sg, sg, ch": {
   "lat": 47.4242354,
   "lon": 9.3745497
+ },
+ "neugasse 57-63, 8005, zürich, ch": {
+  "lat": 47.3826641,
+  "lon": 8.5293328
  },
  "nora, 899 n orange ave, orlando, fl, fl, us": {
   "lat": 28.6303692,
