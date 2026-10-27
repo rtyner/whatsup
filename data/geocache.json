@@ -546,6 +546,10 @@
   "lat": 27.9951273,
   "lon": -82.7307733
  },
+ "2469 patrinostro rd, plant city, fl, fl, us": {
+  "lat": 28.0130887,
+  "lon": -82.1128594
+ },
  "249 central ave, st. petersburg, fl, fl, us": {
   "lat": 27.7712889,
   "lon": -82.6363037
@@ -700,9 +704,14 @@
   "lat": 28.0954202,
   "lon": -82.7394099
  },
+ "35235 u.s. highway 19n, ( in ace shopping plaza), palm harbor, fl, fl, us": null,
  "35496 us hwy 27, haines city, fl, fl, us": {
   "lat": 28.1156667,
   "lon": -81.6404281
+ },
+ "36 w pine st, orlando, fl 32801, usa, orlando, fl, fl, us": {
+  "lat": 28.5410311,
+  "lon": -81.3797625
  },
  "36 w. pine st, orlando, fl, fl, us": {
   "lat": 28.5410311,
@@ -915,6 +924,10 @@
  "5669 park blvd, pinellas park, fl, fl, us": {
   "lat": 27.8392808,
   "lon": -82.7111423
+ },
+ "5995 cypress gardens blvd, cypress gardens, fl 33884, usa, cypress gardens, fl, fl, us": {
+  "lat": 27.9898899,
+  "lon": -81.689168
  },
  "600 2nd avenue northeast,, saint petersburg, fl, fl, us": {
   "lat": 27.7735017,
@@ -1737,6 +1750,10 @@
   "lat": 47.379528,
   "lon": 8.540332
  },
+ "mythenquai 10, 8002 zürich, switzerland, zürich, ch": {
+  "lat": 47.3615621,
+  "lon": 8.5351002
+ },
  "mythenquai 9, 8002 zürich, schweiz, zürich, ch": {
   "lat": 47.3616995,
   "lon": 8.5367009
@@ -1852,6 +1869,10 @@
  "rengoldshauser str. 29 88662 überlingen, überlingen, germany": {
   "lat": 47.7709993,
   "lon": 9.2027949
+ },
+ "rengoldshauser str. 31 88662 überlingen, überlingen, germany": {
+  "lat": 47.7706293,
+  "lon": 9.203608
  },
  "restaurant seegarten, seepromenade 7, überlingen, germany": {
   "lat": 47.7662881,
@@ -2064,6 +2085,10 @@
   "lat": 47.1567204,
   "lon": 9.8173459
  },
+ "werkstraße 13, 6712 thüringen, austria, thüringen, at": {
+  "lat": 47.1922684,
+  "lon": 9.7643383
+ },
  "wessenbergstraße 41, 78462 konstanz-altstadt, germany, konstanz, bw, bw, de": {
   "lat": 47.6631641,
   "lon": 9.1748085
@@ -2128,6 +2153,10 @@
  "zürcherstrasse 3, 8400 winterthur, winterthur, ch": {
   "lat": 47.4984515,
   "lon": 8.720845
+ },
+ "zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3744489,
+  "lon": 8.5410422
  },
  "zürich, zürich, ch": {
   "lat": 47.3744489,
