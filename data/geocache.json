@@ -1580,6 +1580,7 @@
   "lat": 47.3060633,
   "lon": 9.6193594
  },
+ "j. stephen putnam park, 799 riviere rd, palm harbor, fl 34683, palm harbor, fl, fl, us": null,
  "jakob-kessenring-str. 38 88662 überlingen, überlingen, germany": {
   "lat": 47.76645,
   "lon": 9.1586977
@@ -1913,6 +1914,10 @@
  "schiffbaustrasse 10, zürich, ch": {
   "lat": 47.3891509,
   "lon": 8.5177829
+ },
+ "schwendetalstrasse 85, 9057 wasserauen, switzerland, wasserauen, ai, ai, ch": {
+  "lat": 47.2857062,
+  "lon": 9.4286904
  },
  "schwertgasse 27, sankt gallen, ch": {
   "lat": 47.4276256,
