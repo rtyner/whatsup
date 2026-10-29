@@ -349,6 +349,10 @@
   "lat": 28.6004306,
   "lon": -81.4075469
  },
+ "17928 gunn hwy, odessa, fl, fl, us": {
+  "lat": 28.1737609,
+  "lon": -82.5918088
+ },
  "1800 lake emma rd, longwood, fl, fl, us": {
   "lat": 28.7191059,
   "lon": -81.3584285
@@ -360,6 +364,10 @@
  "18038 rockridge road, polk city, fl, fl, us": {
   "lat": 28.3025229,
   "lon": -81.9362587
+ },
+ "1814 drew st, clearwater, fl 33765, usa, clearwater, fl, fl, us": {
+  "lat": 27.9772933,
+  "lon": -82.7588161
  },
  "18205 bruce b downs blvd, tampa, fl 33647, usa, tampa, fl, fl, us": {
   "lat": 28.1330431,
@@ -849,6 +857,10 @@
   "lat": 28.5499655,
   "lon": -81.3795344
  },
+ "500 w livingston st, orlando, fl 32801, usa, orlando, fl, fl, us": {
+  "lat": 28.5467144,
+  "lon": -81.3857984
+ },
  "501 2nd ave ne, st. petersburg, fl, fl, us": {
   "lat": 27.7736588,
   "lon": -82.6297559
@@ -1125,6 +1137,10 @@
  "an verschiedenen orten in der stadt, überlingen, germany": {
   "lat": 47.7629947,
   "lon": 9.1704334
+ },
+ "ankerstrasse 123, zürich, ch": {
+  "lat": 47.3766824,
+  "lon": 8.5284652
  },
  "ankerstrasse 123, zürich, zh, zh, ch": {
   "lat": 47.3767507,
@@ -1855,6 +1871,10 @@
   "lat": 47.7551024,
   "lon": 9.1877943
  },
+ "reichenaustraße 2, 78467 konstanz-petershausen-west, konstanz, de": {
+  "lat": 47.6703262,
+  "lon": 9.1754488
+ },
  "reichenaustraße 202, 78467 konstanz, germany, konstanz, bw, bw, de": {
   "lat": 47.6742676,
   "lon": 9.1570188
@@ -2026,6 +2046,10 @@
  "technoparkstr. 2, winterthur, ch": {
   "lat": 47.494682,
   "lon": 8.7169278
+ },
+ "the circle, zurich, ch": {
+  "lat": 47.4502269,
+  "lon": 8.5650225
  },
  "the south end of east bay rd., gibsonton, fl, fl, us": null,
  "theaterstrasse 17, 8400 winterthur, switzerland, winterthur, zh, zh, ch": {
