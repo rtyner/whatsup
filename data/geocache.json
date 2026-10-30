@@ -325,6 +325,10 @@
   "lat": 27.8571911,
   "lon": -82.3252093
  },
+ "169 1st avenue north, st. petersburg, fl, fl, us": {
+  "lat": 27.772299,
+  "lon": -82.6349436
+ },
  "1700 oviedo mall blvd. oviedo, fl 32765, oviedo, fl, fl, us": {
   "lat": 28.6633188,
   "lon": -81.2371
@@ -713,6 +717,10 @@
   "lon": -82.7394099
  },
  "35235 u.s. highway 19n, ( in ace shopping plaza), palm harbor, fl, fl, us": null,
+ "3540 east knights griffin road, plant city, fl, fl, us": {
+  "lat": 28.0766765,
+  "lon": -82.129647
+ },
  "35496 us hwy 27, haines city, fl, fl, us": {
   "lat": 28.1156667,
   "lon": -81.6404281
@@ -957,6 +965,10 @@
   "lat": 28.6275253,
   "lon": -81.3656419
  },
+ "609 spring blossom ct., brandon, fl, fl, us": {
+  "lat": 27.9137332,
+  "lon": -82.2758363
+ },
  "6108 winthrop town center avenue, riverview, fl, fl, us": {
   "lat": 27.892645,
   "lon": -82.3166172
@@ -1041,6 +1053,10 @@
  "800 second ave ne, saint petersburg, fl, fl, us": {
   "lat": 27.7678138,
   "lon": -82.6452774
+ },
+ "8015 s orange ave, orlando, fl, fl, us": {
+  "lat": 28.4532664,
+  "lon": -81.3638833
  },
  "810 cypress garden blvd, winter haven, fl, fl, us": {
   "lat": 28.0029259,
@@ -1145,6 +1161,10 @@
  "ankerstrasse 123, zürich, zh, zh, ch": {
   "lat": 47.3767507,
   "lon": 8.5284977
+ },
+ "ankerstrasse 6, 8004 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3726133,
+  "lon": 8.5239841
  },
  "anna-zentgraf-str. 15 88662 überlingen, überlingen, germany": {
   "lat": 47.7767939,
@@ -1319,6 +1339,10 @@
   "lat": 47.7704123,
   "lon": 9.172907
  },
+ "causeway blvd, dunedin, fl 34698, usa, dunedin, fl, fl, us": {
+  "lat": 28.0373875,
+  "lon": -82.7740787
+ },
  "christophstr. 15 88662 überlingen, überlingen, germany": {
   "lat": 47.7680531,
   "lon": 9.1566687
@@ -1340,6 +1364,7 @@
   "lon": 8.8564245
  },
  "corner of lumsden rd & brandon parkway, brandon, fl, fl, us": null,
+ "cr 471 about a mile north of colt creek park, lakeland, fl, fl, us": null,
  "crescent lake dr n, st. petersburg, fl, fl, us": {
   "lat": 27.7865704,
   "lon": -82.6430875
@@ -1440,6 +1465,10 @@
  "friedhofstrasse 89, zürich, ch": {
   "lat": 47.3808919,
   "lon": 8.4774271
+ },
+ "friedrich-blersch-str. 2 88662 überlingen, überlingen, germany": {
+  "lat": 47.7760298,
+  "lon": 9.2063843
  },
  "g1 raum für kultur, gunzoweg 1 88662 überlingen, überlingen , germany": null,
  "general-guisan-strasse 19, winterthur, zh, zh, ch": {
