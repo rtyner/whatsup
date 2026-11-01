@@ -634,6 +634,10 @@
   "lat": 28.4944063,
   "lon": -81.4132886
  },
+ "2907 w bay to bay blvd ste a100, tampa, fl 33629, usa, tampa, fl, fl, us": {
+  "lat": 27.9199519,
+  "lon": -82.4968913
+ },
  "2907 w bay to bay blvd suite a100, tampa, fl, fl, us": null,
  "2909 w bay to bay , suite a-600 (rooftop), tampa, fl, fl, us": null,
  "3 phoenix building, 30 s magnolia ave, orlando, fl 32801, orlando, fl, fl, us": {
@@ -749,6 +753,10 @@
  "3615 conroy rd, orlando, fl, fl, us": {
   "lat": 28.4938198,
   "lon": -81.4343137
+ },
+ "3635 florida avenue south, lakeland, fl, fl, us": {
+  "lat": 27.9986498,
+  "lon": -81.9571836
  },
  "369 n new york ave, winter park, fl, fl, us": {
   "lat": 28.6001966,
@@ -1270,6 +1278,10 @@
   "lat": 47.802105,
   "lon": 9.2233321
  },
+ "bauhof, st. gallen, ch": {
+  "lat": 47.4160796,
+  "lon": 9.3610926
+ },
  "beatengasse 11, 8001 zürich, switzerland, zurich, ch": {
   "lat": 47.3756621,
   "lon": 8.540068
@@ -1346,6 +1358,10 @@
  "causeway blvd, dunedin, fl 34698, usa, dunedin, fl, fl, us": {
   "lat": 28.0373875,
   "lon": -82.7740787
+ },
+ "chalchofen 2128, st. gallen, ch": {
+  "lat": 47.2599613,
+  "lon": 9.0627731
  },
  "christophstr. 15 88662 überlingen, überlingen, germany": {
   "lat": 47.7680531,
@@ -1562,6 +1578,10 @@
  "hauptstraße 50, aach, de": {
   "lat": 47.8462671,
   "lon": 8.8583034
+ },
+ "hegi 5, st. gallen, ch": {
+  "lat": 47.4801032,
+  "lon": 9.5703199
  },
  "herrenstraße 27, 88239 wangen im allgäu, germany, wangen im allgäu, bw, bw, de": {
   "lat": 47.6872148,
@@ -2135,6 +2155,10 @@
   "lat": 47.3293516,
   "lon": 9.6410815
  },
+ "vorbuchenstrasse 20, zurich, ch": {
+  "lat": 47.4418066,
+  "lon": 8.6157161
+ },
  "wallisellerstrasse 100, opfikon, ch": {
   "lat": 47.4293706,
   "lon": 8.5732358
@@ -2171,9 +2195,17 @@
   "lat": 47.4167106,
   "lon": 9.2398653
  },
+ "wolfgangstrasse 53, st. gallen, ch": {
+  "lat": 47.4031897,
+  "lon": 9.3308985
+ },
  "zeughausstrasse 65, 8400 winterthur, switzerland, winterthur, zh, zh, ch": {
   "lat": 47.4951892,
   "lon": 8.7324931
+ },
+ "zielstrasse 115, zurich, ch": {
+  "lat": 47.4491549,
+  "lon": 8.4724479
  },
  "zollstrasse 80, 8005 zürich, switzerland, zürich, zh, zh, ch": {
   "lat": 47.3812683,
