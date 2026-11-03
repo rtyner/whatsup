@@ -1326,6 +1326,10 @@
   "lat": 47.7973128,
   "lon": 9.1527385
  },
+ "brauerstrasse 80, 8004 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3792766,
+  "lon": 8.5244888
+ },
  "brauerstrasse 80, zürich, ch": {
   "lat": 47.3792766,
   "lon": 8.5244888
@@ -1795,6 +1799,10 @@
   "lat": 47.6732712,
   "lon": 9.1557312
  },
+ "lämmlisbrunnenstrasse 18, 9000 st. gallen, switzerland, st. gallen, sg, sg, ch": {
+  "lat": 47.4246351,
+  "lon": 9.3810196
+ },
  "löwenstrasse 2, 8001 zürich, switzerland, zürich, zh, zh, ch": {
   "lat": 47.3730762,
   "lon": 8.5346637
@@ -2023,6 +2031,10 @@
  "selnaustrasse 2, zürich, zh, zh, ch": {
   "lat": 47.3698304,
   "lon": 8.5336387
+ },
+ "siewerdtstrasse 71, 8050 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.412452,
+  "lon": 8.5542895
  },
  "sihlquai 133, 8005 zürich, zürich, ch": {
   "lat": 47.3849499,
