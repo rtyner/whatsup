@@ -23,6 +23,10 @@
   "lat": 28.0686258,
   "lon": -82.8319412
  },
+ "100 2nd ave s, st. petersburg, fl 33701, usa, st. petersburg, fl, fl, us": {
+  "lat": 27.7732373,
+  "lon": -82.6344297
+ },
  "100 aldermans ford park drive, lithia, fl, fl, us": {
   "lat": 27.8689758,
   "lon": -82.1371408
@@ -578,6 +582,10 @@
   "lat": 28.5709834,
   "lon": -81.3398087
  },
+ "2525 phillipe park way, shelter 7, safety harbor, fl, fl, us": {
+  "lat": 28.0092809,
+  "lon": -82.6781784
+ },
  "2539 countryside blvd, ste 6, clearwater, fl, fl, us": {
   "lat": 28.014344,
   "lon": -82.73388
@@ -1125,6 +1133,10 @@
  "9101 international dr, orlando, fl, fl, us": {
   "lat": 28.4327286,
   "lon": -81.4704528
+ },
+ "9101 international drive suite 1182 32819, orlando, fl, fl, us": {
+  "lat": 28.4308441,
+  "lon": -81.4701242
  },
  "9256 county rd 39, plant city, fl, fl, us": {
   "lat": 28.0326741,
@@ -1702,6 +1714,10 @@
   "lat": 47.7666594,
   "lon": 9.1589801
  },
+ "krummebergstr. 20 88662 überlingen, überlingen, germany": {
+  "lat": 47.7681745,
+  "lon": 9.16182
+ },
  "krummebergstr. 30 88662 überlingen, langenargen, germany": {
   "lat": 47.7675807,
   "lon": 9.1631535
@@ -2146,6 +2162,10 @@
   "lon": 9.1628408
  },
  "treffpunkt: kirche, brülisau dorf 22, 9058, st. gallen, ch": null,
+ "turmgasse 7, eingang gartenstraße 88662 überlingen, überlingen, germany": {
+  "lat": 47.768134,
+  "lon": 9.158489
+ },
  "turmgasse 8, st. gallen, ch": {
   "lat": 47.4246262,
   "lon": 9.3776353
