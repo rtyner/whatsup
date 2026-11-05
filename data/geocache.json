@@ -425,6 +425,10 @@
   "lat": 27.9610336,
   "lon": -82.4637488
  },
+ "1910 n ola avenue, tampa, fl, fl, us": {
+  "lat": 27.9610336,
+  "lon": -82.4637488
+ },
  "1925 e 2nd ave #102, tampa, fl 33605, usa, tampa, fl, fl, us": {
   "lat": 27.9566827,
   "lon": -82.4442835
@@ -1022,6 +1026,10 @@
   "lat": 27.8406292,
   "lon": -82.642466
  },
+ "6801 visitors cir suite 600, orlando, fl, fl, us": {
+  "lat": 28.4635633,
+  "lon": -81.4647522
+ },
  "699 cypress gardens boulevard, winter haven, fl, fl, us": {
   "lat": 27.9801848,
   "lon": -81.6699393
@@ -1474,6 +1482,10 @@
   "lat": 47.7671528,
   "lon": 9.1592586
  },
+ "franziskanerstr. 20 88662 überlingen, konstanz, germany": {
+  "lat": 47.7680874,
+  "lon": 9.1597828
+ },
  "franziskanerstr. 20 88662 überlingen, mering, germany": {
   "lat": 47.7680874,
   "lon": 9.1597828
@@ -1677,6 +1689,10 @@
  "kalanderplatz 1, 8045 zürich, ch": {
   "lat": 47.3574987,
   "lon": 8.5227352
+ },
+ "kalkbreitestrasse 97, 8003 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3716554,
+  "lon": 8.5163092
  },
  "kanzleistrasse 54, 8004 zürich, switzerland, zürich, zh, zh, ch": {
   "lat": 47.3754571,
