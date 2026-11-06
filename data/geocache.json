@@ -361,6 +361,10 @@
   "lat": 28.6004306,
   "lon": -81.4075469
  },
+ "17928 gunn hwy, odessa, fl 33556, usa, odessa, fl, fl, us": {
+  "lat": 28.192824,
+  "lon": -82.5915768
+ },
  "17928 gunn hwy, odessa, fl, fl, us": {
   "lat": 28.1737609,
   "lon": -82.5918088
@@ -1074,6 +1078,11 @@
   "lat": 28.5542287,
   "lon": -81.3199414
  },
+ "800 2nd ave ne 5th floor, st. petersburg, fl, fl, us": null,
+ "800 e palmetto st, lakeland, fl 33801, lakeland, fl, fl, us": {
+  "lat": 28.0372432,
+  "lon": -81.9484153
+ },
  "800 e princeton st,, orlando, fl, fl, us": {
   "lat": 28.5716311,
   "lon": -81.3680683
@@ -1786,6 +1795,10 @@
   "lat": 47.7663925,
   "lon": 9.159313
  },
+ "landungsplatz steg 2, überlingen, germany": {
+  "lat": 47.7663324,
+  "lon": 9.1595075
+ },
  "landungsplatz, anlegestelle 2a 88662 überlingen, neu - ulm, germany": null,
  "landungsplatz, anlegestelle 2a 88662 überlingen, überlingen, germany": {
   "lat": 47.7663973,
@@ -2047,6 +2060,10 @@
  "seefeldstrasse 233, 8008 zürich, switzerland, zürich, zh, zh, ch": {
   "lat": 47.3511399,
   "lon": 8.5614537
+ },
+ "seefeldstrasse 24, 8008 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3636525,
+  "lon": 8.5487948
  },
  "seefeldstrasse 7a, 8008 zürich, switzerland, zürich, zh, zh, ch": {
   "lat": 47.3649478,
