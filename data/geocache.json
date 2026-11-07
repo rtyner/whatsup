@@ -782,6 +782,10 @@
   "lat": 28.0906367,
   "lon": -81.9739357
  },
+ "3829 tenoroc mine rd, lakeland, fl, fl, us": {
+  "lat": 28.100269,
+  "lon": -81.8769028
+ },
  "39 south magnolia ave., orlando, fl, fl, us": {
   "lat": 28.5418012,
   "lon": -81.3773583
@@ -1657,6 +1661,10 @@
   "lat": 47.3995277,
   "lon": 8.5726523
  },
+ "im baumgarten 16 88662 überlingen-deisendorf, überlingen-deisendorf, germany": {
+  "lat": 47.7700062,
+  "lon": 9.2147358
+ },
  "im grossriet 1, 8606 greifensee, ch, zürich, zurich, ch": {
   "lat": 47.3766174,
   "lon": 8.6722333
@@ -1827,6 +1835,10 @@
  "lettenstrasse 19, mogelsberg, sg, sg, ch": {
   "lat": 47.3605862,
   "lon": 9.136963
+ },
+ "limmatquai 144, 8001 zürich, zürich, ch": {
+  "lat": 47.376562,
+  "lon": 8.5440755
  },
  "limmatstrasse 183, 8005 zürich, ch": {
   "lat": 47.3861381,
