@@ -152,6 +152,10 @@
   "lat": 28.0549958,
   "lon": -82.4467021
  },
+ "12098 s county rd 39, lithia, fl, fl, us": {
+  "lat": 25.4443872,
+  "lon": -80.4765981
+ },
  "1211 e sligh ave, tampa, fl 33604, united states,, tampa, fl, fl, us": {
   "lat": 28.0106902,
   "lon": -82.4591028
@@ -212,6 +216,10 @@
  "13109 n 56th st, tampa, fl 33617, usa, tampa, fl, fl, us": {
   "lat": 28.0669959,
   "lon": -82.3928374
+ },
+ "1320 5th st n, st petersburg, fl, fl, us": {
+  "lat": 27.7855323,
+  "lon": -82.6401594
  },
  "1325 4th st n, st. petersburg, fl, fl, us": {
   "lat": 27.7854495,
@@ -1532,6 +1540,7 @@
   "lon": 9.2063843
  },
  "g1 raum für kultur, gunzoweg 1 88662 überlingen, überlingen , germany": null,
+ "g82x+ff häggenschwil, st. gallen, ch": null,
  "general-guisan-strasse 19, winterthur, zh, zh, ch": {
   "lat": 47.4988958,
   "lon": 8.7328624
@@ -2215,6 +2224,7 @@
   "lat": 47.4246262,
   "lon": 9.3776353
  },
+ "tüfenaustrasse 2621, st. gallen, ch": null,
  "universitätstrasse 16, zurich, ch": {
   "lat": 47.3793567,
   "lon": 8.5483147
