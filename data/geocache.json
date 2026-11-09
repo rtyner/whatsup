@@ -853,6 +853,10 @@
   "lat": 28.0559755,
   "lon": -82.4258316
  },
+ "4208 south florida ave., lakeland, fl, fl, us": {
+  "lat": 27.9889498,
+  "lon": -81.9562628
+ },
  "4219 maritime blvd, tampa, fl, fl, us": {
   "lat": 27.93467,
   "lon": -82.4378514
@@ -1057,6 +1061,10 @@
  "7215 corner dr, orlando, fl 32827, usa, orlando, fl, fl, us": {
   "lat": 28.3825838,
   "lon": -81.2801261
+ },
+ "7440 courtney campbell causeway, tampa, fl, fl, us": {
+  "lat": 27.9686186,
+  "lon": -82.5721133
  },
  "7467 international drive, orlando, fl, fl, us": {
   "lat": 28.4537697,
@@ -1693,6 +1701,10 @@
  "im hölderli 9, 8405 winterthur, winterthur, ch": {
   "lat": 47.4925519,
   "lon": 8.7607837
+ },
+ "im stadtpark, winterthur 8400,, winterthur, ch": {
+  "lat": 47.5004876,
+  "lon": 8.7290045
  },
  "industriestrasse 29, 8305 dietlikon, switzerland, dietlikon, zh, zh, ch": {
   "lat": 47.4126017,
