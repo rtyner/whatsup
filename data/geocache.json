@@ -1070,6 +1070,10 @@
   "lat": 28.4537697,
   "lon": -81.4701783
  },
+ "747 machete trail, oakland, fl, fl, us": {
+  "lat": 28.5571562,
+  "lon": -81.6413127
+ },
  "7637 turkey lake rd, dr phillips, orlando, fl, fl, us": {
   "lat": 28.4526169,
   "lon": -81.4766799
@@ -1483,6 +1487,10 @@
   "lat": 47.5050915,
   "lon": 8.7633357
  },
+ "fallenbrunnen 14, 88045 friedrichshafen, germany, friedrichshafen, bw, bw, de": {
+  "lat": 47.6655701,
+  "lon": 9.446059
+ },
  "fallenbrunnen 14, friedrichshafen, bw, bw, de": {
   "lat": 47.6655173,
   "lon": 9.4460473
@@ -1568,6 +1576,10 @@
  "gladbachstrasse 119, 8044, zürich, ch": {
   "lat": 47.3777817,
   "lon": 8.5587486
+ },
+ "goldbach 32 88662 überlingen-goldbach, wald, germany": {
+  "lat": 47.7705994,
+  "lon": 9.1404157
  },
  "goldbach 88662 überlingen, überlingen, germany": {
   "lat": 47.7746899,
