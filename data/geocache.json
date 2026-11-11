@@ -981,6 +981,10 @@
   "lat": 28.773608,
   "lon": -81.322256
  },
+ "551 central ave, st. petersburg, fl 33701, usa, st. petersburg, fl, fl, us": {
+  "lat": 27.7706927,
+  "lon": -82.6512144
+ },
  "555 10th avenue south, safety harbor, fl, fl, us": {
   "lat": 27.9874914,
   "lon": -82.6987885
@@ -2137,6 +2141,10 @@
  "sihlquai 274, 8005 zürich, switzerland, zürich, zh, zh, ch": {
   "lat": 47.3888335,
   "lon": 8.5283081
+ },
+ "spetzgarter weg 2, 88662 überlingen, germany, überlingen, bw, bw, de": {
+  "lat": 47.7786023,
+  "lon": 9.1493715
  },
  "spitalgasse 4 88662 überlingen, überlingen, germany": {
   "lat": 47.7680814,
