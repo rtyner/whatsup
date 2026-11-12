@@ -881,6 +881,7 @@
   "lat": 28.5375959,
   "lon": -81.3768257
  },
+ "4500 firefly ln, st cloud, fl 34772, usa, st. cloud, fl, fl, us": null,
  "460 orlando ave, winter park, fl, fl, us": {
   "lat": 28.6013528,
   "lon": -81.3853132
@@ -928,6 +929,10 @@
  "505 water st, tampa, fl, fl, us": {
   "lat": 27.9409148,
   "lon": -82.4538716
+ },
+ "510 n rome street ,, tampa, fl, fl, us": {
+  "lat": 27.9419057,
+  "lon": -82.453668
  },
  "5107 n 22nd st., tampa, fl, fl, us": {
   "lat": 27.9930252,
@@ -1041,6 +1046,10 @@
  "64 müllerstrasse, zürich, ch": {
   "lat": 47.3760618,
   "lon": 8.5288696
+ },
+ "640 east main street,, lakeland, fl, fl, us": {
+  "lat": 28.045748,
+  "lon": -81.950788
  },
  "6625 florida ave s, lakeland, fl, fl, us": {
   "lat": 28.031225,
@@ -1570,6 +1579,10 @@
   "lon": 8.7329483
  },
  "geroldstrasse 23, 8005 zürich,, zürich, ch": {
+  "lat": 47.3852865,
+  "lon": 8.5192736
+ },
+ "geroldstrasse 23,, zürich, ch": {
   "lat": 47.3852865,
   "lon": 8.5192736
  },
