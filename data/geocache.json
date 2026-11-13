@@ -51,6 +51,14 @@
   "lat": 27.950166,
   "lon": -82.4696408
  },
+ "101 central park dr, largo, fl, largo, fl, fl, us": {
+  "lat": 27.914667,
+  "lon": -82.783574
+ },
+ "101 e kennedy blvd #4200, tampa, fl 33602, usa, tampa, fl, fl, us": {
+  "lat": 27.9468743,
+  "lon": -82.4592171
+ },
  "1010 virginia dr, orlando, fl, fl, us": {
   "lat": 28.5638079,
   "lon": -81.3658884
@@ -509,6 +517,10 @@
   "lat": 27.9583706,
   "lon": -82.4352719
  },
+ "211 n lucerne cir w, orlando, fl 32801, usa, orlando, fl, fl, us": {
+  "lat": 28.5356098,
+  "lon": -81.3754308
+ },
  "2120 harden boulevard,, lakeland, fl, fl, us": {
   "lat": 28.0174049,
   "lon": -81.9730065
@@ -629,6 +641,10 @@
  "2702 east fowler ave., tampa, fl, fl, us": {
   "lat": 28.0550307,
   "lon": -82.4291478
+ },
+ "2724 n florida ave, tampa, fl 33602, usa, tampa, fl, fl, us": {
+  "lat": 27.9503814,
+  "lon": -82.4588074
  },
  "2748 63rd terrace n, st petersburg, fl, fl, us": {
   "lat": 27.8300136,
@@ -1063,6 +1079,10 @@
   "lat": 28.4635633,
   "lon": -81.4647522
  },
+ "6920 e fletcher ave, tampa, fl 33637, usa, tampa, fl, fl, us": {
+  "lat": 28.0720492,
+  "lon": -82.3693613
+ },
  "699 cypress gardens boulevard, winter haven, fl, fl, us": {
   "lat": 27.9801848,
   "lon": -81.6699393
@@ -1175,6 +1195,10 @@
  "901 w platt street, tampa, fl, fl, us": {
   "lat": 27.9419379,
   "lon": -82.4687706
+ },
+ "9015 park blvd, seminole, fl, fl, us": {
+  "lat": 27.8394272,
+  "lon": -82.7578868
  },
  "910 e. granada street, lakeland, fl, fl, us": {
   "lat": 28.0769159,
@@ -1480,6 +1504,10 @@
   "lon": 9.7496712
  },
  "dr.-anton-schneider-straße 28b, dornbirn, at": {
+  "lat": 47.4211098,
+  "lon": 9.7489205
+ },
+ "dr.anton-schneider-straße 28b / gebäude m, dornbirn, at": {
   "lat": 47.4211098,
   "lon": 9.7489205
  },
@@ -1950,6 +1978,10 @@
  "münsterplatz 5 88662 überlingen, ueberlingen, germany": {
   "lat": 47.7675289,
   "lon": 9.1609639
+ },
+ "münsterplatz 5 88662 überlingen, überlingen, germany": {
+  "lat": 47.7675289,
+  "lon": 9.1609642
  },
  "münsterplatz 88662 überlingen, überlingen, germany": {
   "lat": 47.7671861,
