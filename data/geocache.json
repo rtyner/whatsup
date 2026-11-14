@@ -148,6 +148,10 @@
   "lat": 27.94924,
   "lon": -82.50494
  },
+ "11778 n dale mabry hwy, tampa, fl 33618, usa, tampa, fl, fl, us": {
+  "lat": 28.0554089,
+  "lon": -82.5062454
+ },
  "11778 north dale mabry highway ,, tampa, fl, fl, us": {
   "lat": 28.0554089,
   "lon": -82.5062454
@@ -877,6 +881,10 @@
   "lat": 27.93467,
   "lon": -82.4378514
  },
+ "4280 w vine st, kissimmee, fl 34741, usa, kissimmee, fl, fl, us": {
+  "lat": 28.3033069,
+  "lon": -81.4528302
+ },
  "430 n. orlando ave., winter park, fl, fl, us": {
   "lat": 28.6011556,
   "lon": -81.3648647
@@ -1106,6 +1114,10 @@
  "747 machete trail, oakland, fl, fl, us": {
   "lat": 28.5571562,
   "lon": -81.6413127
+ },
+ "761 general hutchison pkwy, longwood, fl 32750, usa, longwood, fl, fl, us": {
+  "lat": 28.7193837,
+  "lon": -81.3308369
  },
  "7637 turkey lake rd, dr phillips, orlando, fl, fl, us": {
   "lat": 28.4526169,
@@ -2119,6 +2131,10 @@
   "lat": 47.7954279,
   "lon": 9.1976779
  },
+ "saddle creek rd, lakeland, fl, fl, us": {
+  "lat": 28.077085,
+  "lon": -81.8976544
+ },
  "sankt-georgen-strasse 69, winterthur, ch": {
   "lat": 47.5023461,
   "lon": 8.7317762
@@ -2358,6 +2374,10 @@
  "wilerstrasse 46, gossau, ch": {
   "lat": 47.4167106,
   "lon": 9.2398653
+ },
+ "winterersteig 23, 78462 konstanz, germany, konstanz, bw, bw, de": {
+  "lat": 47.6683566,
+  "lon": 9.1623147
  },
  "wolfgangstrasse 53, st. gallen, ch": {
   "lat": 47.4031897,
