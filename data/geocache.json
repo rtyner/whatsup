@@ -35,6 +35,10 @@
   "lat": 28.0373799,
   "lon": -81.9495013
  },
+ "100 mirror lake dr n, st. petersburg, fl 33701, usa, st. petersburg, fl, fl, us": {
+  "lat": 27.7761287,
+  "lon": -82.6411517
+ },
  "100 weldon blvd, sanford, fl, fl, us": {
   "lat": 28.7453809,
   "lon": -81.3056689
@@ -889,6 +893,10 @@
   "lat": 28.6011556,
   "lon": -81.3648647
  },
+ "4399 winter lake rd, lakeland, fl, fl, us": {
+  "lat": 27.9918021,
+  "lon": -81.8661603
+ },
  "4399 winter lake road (sr 540), lakeland, fl, fl, us": {
   "lat": 27.9918021,
   "lon": -81.8661603
@@ -1534,6 +1542,10 @@
  "eisgasse 6, zürich, ch": {
   "lat": 47.3777842,
   "lon": 8.5315729
+ },
+ "enggenhüttenstrasse 74, st. gallen, ch": {
+  "lat": 47.4208744,
+  "lon": 9.3654339
  },
  "entrepreneur collaborative center, 2101 e palm ave, tampa, fl 33605, usa, tampa, fl, fl, us": null,
  "eulachpark, winterthur, ch": {
