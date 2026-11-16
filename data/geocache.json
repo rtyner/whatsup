@@ -349,6 +349,10 @@
   "lat": 28.4739121,
   "lon": -81.6282163
  },
+ "16640 boyette rd, riverview, fl 33579, usa, riverview, fl, fl, us": {
+  "lat": 27.8213423,
+  "lon": -82.2978891
+ },
  "16640 boyette rd, riverview, fl, fl, us": {
   "lat": 27.8571911,
   "lon": -82.3252093
@@ -549,6 +553,10 @@
  "220 4th st n, st. petersburg, fl 33701, st. petersburg, fl, fl, us": {
   "lat": 27.7740739,
   "lon": -82.6386979
+ },
+ "220 4th st n, st. petersburg, fl 33701, usa, st. petersburg, fl, fl, us": {
+  "lat": 27.7717976,
+  "lon": -82.6369166
  },
  "2200 eastlake rd, palm harbor, fl, fl, us": {
   "lat": 28.062679,
@@ -1110,6 +1118,10 @@
  "7215 corner dr, orlando, fl 32827, usa, orlando, fl, fl, us": {
   "lat": 28.3825838,
   "lon": -81.2801261
+ },
+ "7362 futures dr ste 15, orlando, fl 32819, usa, orlando, fl, fl, us": {
+  "lat": 28.4390228,
+  "lon": -81.430159
  },
  "7440 courtney campbell causeway, tampa, fl, fl, us": {
   "lat": 27.9686186,
@@ -1938,6 +1950,10 @@
   "lat": 47.3605862,
   "lon": 9.136963
  },
+ "limmatquai 116, 8001 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3753761,
+  "lon": 8.5435051
+ },
  "limmatquai 144, 8001 zürich, zürich, ch": {
   "lat": 47.376562,
   "lon": 8.5440755
@@ -2286,6 +2302,10 @@
  "technoparkstr. 2, winterthur, ch": {
   "lat": 47.494682,
   "lon": 8.7169278
+ },
+ "the circle 38, 8058 zürich, switzerland, zürich, ch": {
+  "lat": 47.4495381,
+  "lon": 8.5650492
  },
  "the circle, zurich, ch": {
   "lat": 47.4502269,
