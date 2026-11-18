@@ -79,6 +79,7 @@
   "lat": 27.857244,
   "lon": -82.3318392
  },
+ "10530 county rd 39, lithia, fl 33547, usa, lithia, fl, fl, us": null,
  "10575 49th st north,, clearwater, fl, fl, us": {
   "lat": 27.9017695,
   "lon": -82.6998421
@@ -1849,6 +1850,10 @@
  "kanzleistrasse 56, zurich, ch": {
   "lat": 47.3755223,
   "lon": 8.525813
+ },
+ "karolinenstraße 53, 90402 nürnberg, germany, nürnberg, de": {
+  "lat": 49.4509261,
+  "lon": 11.0736759
  },
  "kirchgasse 14, zürich, zh, zh, ch": {
   "lat": 47.3696927,
