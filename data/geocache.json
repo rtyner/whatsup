@@ -955,6 +955,10 @@
   "lat": 28.5499655,
   "lon": -81.3795344
  },
+ "500 s orange ave, orlando, fl 32801, usa, orlando, fl, fl, us": {
+  "lat": 28.5375959,
+  "lon": -81.3768257
+ },
  "500 w livingston st, orlando, fl 32801, usa, orlando, fl, fl, us": {
   "lat": 28.5467144,
   "lon": -81.3857984
@@ -1574,6 +1578,14 @@
   "lat": 47.5050915,
   "lon": 8.7633357
  },
+ "europaallee 36, 8004 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3790111,
+  "lon": 8.53255
+ },
+ "europaallee 36, zürich, zh, zh, ch": {
+  "lat": 47.3790111,
+  "lon": 8.53255
+ },
  "fallenbrunnen 14, 88045 friedrichshafen, germany, friedrichshafen, bw, bw, de": {
   "lat": 47.6655701,
   "lon": 9.446059
@@ -1976,6 +1988,10 @@
   "lat": 47.3605862,
   "lon": 9.136963
  },
+ "leu gardens entrance, orlando, fl 32803, usa, orlando, fl, fl, us": {
+  "lat": 28.569767,
+  "lon": -81.3534869
+ },
  "limmatquai 116, 8001 zürich, switzerland, zürich, zh, zh, ch": {
   "lat": 47.3753761,
   "lon": 8.5435051
@@ -2132,6 +2148,10 @@
  "postfach 1475, rapperswil-jona, sg, sg, ch": {
   "lat": 47.229817,
   "lon": 8.8597003
+ },
+ "poststraße 10, uster, ch": {
+  "lat": 47.3498127,
+  "lon": 8.7175295
  },
  "rangoldshauser str. 39 88662 überlingen, überlingen, germany": {
   "lat": 47.7551024,
