@@ -306,6 +306,10 @@
   "lat": 28.3799893,
   "lon": -81.6174722
  },
+ "1540 n bend dr, tarpon springs, fl 34689, usa, tarpon springs, fl, fl, us": {
+  "lat": 28.140665,
+  "lon": -82.740463
+ },
  "15402 u.s. 301, thonotosassa, fl, fl, us": {
   "lat": 28.1479348,
   "lon": -82.2352487
@@ -454,6 +458,10 @@
   "lat": 27.9610336,
   "lon": -82.4637488
  },
+ "1910 n ola ave, tampa, fl 33602, usa, tampa, fl, fl, us": {
+  "lat": 27.9610336,
+  "lon": -82.4637488
+ },
  "1910 n ola ave, tampa, fl, fl, us": {
   "lat": 27.9610336,
   "lon": -82.4637488
@@ -550,6 +558,10 @@
  "213 s howard ave, tampa, fl, fl, us": {
   "lat": 27.9430684,
   "lon": -82.4830832
+ },
+ "215 lighfoot road, wimauma, fl, fl, us": {
+  "lat": 27.7385883,
+  "lon": -82.2611391
  },
  "220 4th st n, st. petersburg, fl 33701, st. petersburg, fl, fl, us": {
   "lat": 27.7740739,
@@ -1155,6 +1167,10 @@
  "7637 turkey lake rd, dr phillips, orlando, fl, fl, us": {
   "lat": 28.4526169,
   "lon": -81.4766799
+ },
+ "775 east knights griffin road plant city, fl 33565, plant city, fl, fl, us": {
+  "lat": 28.0766765,
+  "lon": -82.129647
  },
  "7812 palm parkway, orlando, fl, fl, us": {
   "lat": 28.3847953,
@@ -1772,6 +1788,10 @@
   "lat": 47.4046707,
   "lon": 9.7435242
  },
+ "hizlerstr. 3 88662 überlingen, überlingen, germany": {
+  "lat": 47.7682657,
+  "lon": 9.1641395
+ },
  "hochbildstr. 8a 88662 überlingen, überlingen, germany": {
   "lat": 47.7698243,
   "lon": 9.1659529
@@ -2205,6 +2225,10 @@
   "lat": 47.7954279,
   "lon": 9.1976779
  },
+ "rütiweid 904, st. gallen, ch": {
+  "lat": 47.2710086,
+  "lon": 9.1023349
+ },
  "saddle creek rd, lakeland, fl, fl, us": {
   "lat": 28.077085,
   "lon": -81.8976544
@@ -2260,6 +2284,10 @@
  "seepromenade 2 88662 überlingen, überlingen, germany": {
   "lat": 47.7654353,
   "lon": 9.1626317
+ },
+ "seepromenade 21 88662 überlingen, überlingen, germany": {
+  "lat": 47.7652784,
+  "lon": 9.1619819
  },
  "selnaustrasse 2, zürich, zh, zh, ch": {
   "lat": 47.3698304,
@@ -2394,6 +2422,10 @@
  "turmgasse 8, st. gallen, ch": {
   "lat": 47.4246262,
   "lon": 9.3776353
+ },
+ "turnerstrasse 1, 8400 winterthur, switzerland, winterthur, zh, zh, ch": {
+  "lat": 47.5004924,
+  "lon": 8.7252466
  },
  "tüfenaustrasse 2621, st. gallen, ch": null,
  "universitätstrasse 16, zurich, ch": {
