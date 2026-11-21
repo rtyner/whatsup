@@ -71,6 +71,10 @@
   "lat": 28.5638079,
   "lon": -81.3658884
  },
+ "1011 cleveland street, clearwater, fl, fl, us": {
+  "lat": 27.9655601,
+  "lon": -82.7927615
+ },
  "1042 n mills ave, orlando, fl, fl, us": {
   "lat": 28.5597424,
   "lon": -81.3645401
@@ -2304,6 +2308,10 @@
  "sihlquai 274, 8005 zürich, switzerland, zürich, zh, zh, ch": {
   "lat": 47.3888335,
   "lon": 8.5283081
+ },
+ "sittenhueb 2842, st. gallen, ch": {
+  "lat": 47.4831541,
+  "lon": 9.368734
  },
  "spetzgarter weg 2, 88662 überlingen, germany, überlingen, bw, bw, de": {
   "lat": 47.7786023,
