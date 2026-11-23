@@ -1230,6 +1230,10 @@
   "lat": 28.4532664,
   "lon": -81.3638833
  },
+ "802 e whiting st, tampa, fl 33602, usa, tampa, fl, fl, us": {
+  "lat": 27.9472769,
+  "lon": -82.4524187
+ },
  "810 cypress garden blvd, winter haven, fl, fl, us": {
   "lat": 28.0029259,
   "lon": -81.7168202
@@ -1485,6 +1489,10 @@
  "bodanstraße 20-26, 78462 konstanz-altstadt, germany, konstanz, bw, bw, de": {
   "lat": 47.6583862,
   "lon": 9.1731077
+ },
+ "bohl 1, 9000 st. gallen, switzerland, st. gallen, sg, sg, ch": {
+  "lat": 47.4265813,
+  "lon": 9.3764407
  },
  "bohl 1, sankt gallen, ch": {
   "lat": 47.4265343,
@@ -2313,6 +2321,10 @@
  "siewerdtstrasse 71, 8050 zürich, switzerland, zürich, zh, zh, ch": {
   "lat": 47.412452,
   "lon": 8.5542895
+ },
+ "sihlquai 131, 8005 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3848545,
+  "lon": 8.5334983
  },
  "sihlquai 133, 8005 zürich, zürich, ch": {
   "lat": 47.3849499,
