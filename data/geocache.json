@@ -83,6 +83,10 @@
   "lat": 27.857244,
   "lon": -82.3318392
  },
+ "105 central park dr, largo, fl 33771, usa, largo, fl, fl, us": {
+  "lat": 27.9143224,
+  "lon": -82.7845335
+ },
  "10530 county rd 39, lithia, fl 33547, usa, lithia, fl, fl, us": null,
  "10575 49th st north,, clearwater, fl, fl, us": {
   "lat": 27.9017695,
@@ -931,6 +935,10 @@
   "lat": 28.6011556,
   "lon": -81.3648647
  },
+ "433 e altamonte dr., altamonte springs, fl, fl, us": {
+  "lat": 28.6665483,
+  "lon": -81.3812261
+ },
  "4399 winter lake rd, lakeland, fl, fl, us": {
   "lat": 27.9918021,
   "lon": -81.8661603
@@ -942,6 +950,10 @@
  "4399 winter lake road, lakeland, fl, fl, us": {
   "lat": 27.9918021,
   "lon": -81.8661603
+ },
+ "440 w colonial dr, orlando, fl 32804, usa, orlando, fl, fl, us": {
+  "lat": 28.5522597,
+  "lon": -81.4066206
  },
  "4425 s kirkman rd, orlando, fl, fl, us": {
   "lat": 28.4970705,
@@ -2225,6 +2237,10 @@
  "rengoldshauser str. 31 88662 überlingen, überlingen, germany": {
   "lat": 47.7706293,
   "lon": 9.203608
+ },
+ "rennweg 29, 8001 zürich, switzerland, zürich, ch": {
+  "lat": 47.3731039,
+  "lon": 8.5391858
  },
  "restaurant seegarten, seepromenade 7, überlingen, germany": {
   "lat": 47.7662881,
