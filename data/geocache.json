@@ -680,6 +680,10 @@
   "lat": 28.0223332,
   "lon": -81.7300981
  },
+ "2659 roosevelt blvd ste 107, clearwater, fl 33760, usa, clearwater, fl, fl, us": {
+  "lat": 27.9150945,
+  "lon": -82.7273984
+ },
  "27001 us highway 19 north #1150, clearwater, fl, fl, us": {
   "lat": 28.0055743,
   "lon": -82.7295264
@@ -1310,6 +1314,10 @@
   "lat": 28.4308441,
   "lon": -81.4701242
  },
+ "9165 s john young pkwy, orlando, fl 32819, usa, orlando, fl, fl, us": {
+  "lat": 28.5729581,
+  "lon": -81.417376
+ },
  "9256 county rd 39, plant city, fl, fl, us": {
   "lat": 28.0326741,
   "lon": -82.0560382
@@ -1385,6 +1393,10 @@
  "badenerstrasse 109, zürich, zurich, ch": {
   "lat": 47.3740649,
   "lon": 8.5246185
+ },
+ "badenerstrasse 230, 8004 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3756008,
+  "lon": 8.5176455
  },
  "badweg 10, 8001 zürich, schweiz, zürich, ch": {
   "lat": 47.3715541,
@@ -1555,6 +1567,10 @@
  "chalchofen 2128, st. gallen, ch": {
   "lat": 47.2599613,
   "lon": 9.0627731
+ },
+ "chancey road, zephyrhills, fl, fl, us": {
+  "lat": 28.2073181,
+  "lon": -82.1732931
  },
  "christophstr. 15 88662 überlingen, überlingen, germany": {
   "lat": 47.7680531,
