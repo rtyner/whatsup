@@ -746,6 +746,10 @@
   "lat": 27.9508153,
   "lon": -82.4632745
  },
+ "3001 16th st n, st. petersburg, fl 33704, usa, st. petersburg, fl, fl, us": {
+  "lat": 27.799917,
+  "lon": -82.654854
+ },
  "301 w bay dr, largo, fl 33770, usa, largo, fl, fl, us": {
   "lat": 27.916683,
   "lon": -82.797928
@@ -1131,6 +1135,10 @@
  "615 2nd ave ne, st. petersburg, fl 33701, usa, st. petersburg, fl, fl, us": {
   "lat": 27.7732373,
   "lon": -82.6344297
+ },
+ "615 channelside dr, tampa, fl, fl, us": {
+  "lat": 27.9433687,
+  "lon": -82.446999
  },
  "6162 paseo al mar blvd, unit 103, apollo beach, fl, fl, us": null,
  "6203 s martindale ave, tampa, fl, fl, us": {
@@ -1944,6 +1952,10 @@
   "lat": 49.4509261,
   "lon": 11.0736759
  },
+ "kirchgasse 12, st. gallen, sg, sg, ch": {
+  "lat": 47.4664526,
+  "lon": 9.0486864
+ },
  "kirchgasse 14, zürich, zh, zh, ch": {
   "lat": 47.3696927,
   "lon": 8.5447284
@@ -2092,6 +2104,10 @@
  "line-eid-straße 6, konstanz, de": {
   "lat": 47.6732712,
   "lon": 9.1557312
+ },
+ "lustenauer str. 112, 6845 hohenems, austria, hohenems, at": {
+  "lat": 47.3725513,
+  "lon": 9.6782764
  },
  "lämmlisbrunnenstrasse 18, 9000 st. gallen, switzerland, st. gallen, sg, sg, ch": {
   "lat": 47.4246351,
