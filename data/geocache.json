@@ -660,6 +660,7 @@
   "lat": 28.5709834,
   "lon": -81.3398087
  },
+ "2514 leaning pine ln, plant city, fl, fl, us": null,
  "2525 phillipe park way, shelter 7, safety harbor, fl, fl, us": {
   "lat": 28.0092809,
   "lon": -82.6781784
@@ -2286,6 +2287,10 @@
   "lat": 47.7817859,
   "lon": 9.1989677
  },
+ "rolandstrasse 22, 8004 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3795062,
+  "lon": 8.525971
+ },
  "rolandstrasse 22, zürich, ch": {
   "lat": 47.379506,
   "lon": 8.5260401
@@ -2405,6 +2410,10 @@
  "st. leonhard-strasse 25, st. gallen, ch": {
   "lat": 47.4228188,
   "lon": 9.3721412
+ },
+ "stadelhoferstrasse 8, 8001 zürich, switzerland, zürich, zh, zh, ch": {
+  "lat": 47.3665695,
+  "lon": 8.5484195
  },
  "stampfenbachstrasse 60, 8006 zürich, switzerland, zürich, zh, zh, ch": {
   "lat": 47.3812254,
